@@ -8,6 +8,6 @@
 
 (une fois modifié avec les bonnes valeurs,)
 
-||||
+|Nom|Image|Lien|
 |---|---|---|
 |amogus|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus.jpeg)|
