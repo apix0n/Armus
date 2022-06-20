@@ -1,6 +1,6 @@
 # Armus, l'armée d'amogus
 
-Un projet GitHub afin d'organiser tous les **amogus** personnalisés pour faire une armée!
+Un projet GitHub afin d'organiser tous les **amogus** personnalisés afin d'en faire une armée!
 
 __❗ | C'est un projet créé pour le fun avec des amis et personne n'est visé!  Il peut y avoir des références bizarres et c'est le but. Merci d'avance!__ 
 
