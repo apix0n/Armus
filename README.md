@@ -1,10 +1,21 @@
 # Armus, l'armée d'amogus
 
-Un repo pour organiser tous les **amogus** créés pour faire une armée!
+Un projet GitHub afin d'organiser tous les **amogus** personnalisés pour faire une armée!
 
-### __/!\ C'est un projet créé pour le fun avec des amis, personne n'est donc visé et nous en sommes désolés si vous l'êtes.__ 
+__❗ | C'est un projet créé pour le fun avec des amis et personne n'est visé!  Il peut y avoir des références bizarres et c'est le but. Merci d'avance!__ 
 
-## L'armée
+## ❓ Un problème?
+
+Si vous trouvez un problème dans le projet, merci de créer une issue [ici](https://github.com/Apix0n/Armus/issues/new/choose) avec le bon modèle.
+
+__Modèles disponibles:__
+* Améliorer le projet
+* Changement de nom
+* Double
+* Question
+* Suppression d'un personnage
+
+## 🔪 L'armée
 
 __Nombre total de membres:__ 20
 
@@ -30,3 +41,5 @@ __Nombre total de membres:__ 20
 |the-creatorus  |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/the-creatorus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/the-creatorus.jpeg)|
 |thugus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/thugus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/thugus.jpeg)|
 |vampirus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/vampirus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/vampirus.jpeg)|
+
+## Créé par [Apix](https://github.com/Apix0n), [Apyzzelos](https://github.com/Apyzzelos) et des amis, nous ne prenons aucune responsabilité sur le projet.
