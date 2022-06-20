@@ -10,7 +10,7 @@ assignees: ''
 **Le nom du personnage en question:**
 [votre réponse]
 
-**Pourquoi voulez-vous changer le nom?**
+**Pourquoi voulez-vous changer le nom ?**
 [votre réponse]
 
 **Suggestion d'un nouveau nom:**
