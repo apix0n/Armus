@@ -17,7 +17,7 @@ __Modèles disponibles:__
 
 ## 🔪 L'armée
 
-__Nombre total de membres:__ 24
+__Nombre total de membres:__ 25
 
 |       Nom     |Image|Lien|
 |      ---      |---|---|
@@ -27,6 +27,7 @@ __Nombre total de membres:__ 24
 |blackus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/blackus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/blackus.jpeg)|
 |chinus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/chinus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/chinus.jpeg)|
 |cuistus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/cuistus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/cuistus.jpeg)|
+|educatus|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/educatus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/educatus.jpeg)|
 |galaxus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/galaxus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/galaxus.jpeg)|
 |generalus      |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/generalus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/generalus.jpeg)|
 |gokus          |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/gokus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/gokus.jpeg)|
