@@ -1,8 +1,12 @@
 # Armus, l'armée d'amogus
 
+## 🏅 Médailles
+
+<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/achievements/25-membres.png height=200></p>
+
 ## 🔪 L'armée
 
-__Nombre total de membres:__ 27
+### __Nombre total de membres:__ 27
 
 |       Nom     |Image|Lien|
 |      ---      |---|---|
