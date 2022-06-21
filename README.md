@@ -17,7 +17,7 @@ __Modèles disponibles:__
 
 ## 🔪 L'armée
 
-__Nombre total de membres:__ 20
+__Nombre total de membres:__ 22
 
 |       Nom     |Image|Lien|
 |      ---      |---|---|
