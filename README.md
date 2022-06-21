@@ -13,7 +13,6 @@
 |amoga          |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amoga.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amoga.jpeg)|
 |amogus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus.jpeg)|
 |amogus-poli    |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus-poli.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus-poli.jpeg)|
-|baguette       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/baguette.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/baguette.jpeg)|
 |bananus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bananus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bananus.jpeg)|
 |blackus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/blackus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/blackus.jpeg)|
 |chinus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/chinus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/chinus.jpeg)|
@@ -29,6 +28,7 @@
 |michael-jacksus|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/michael-jacksus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/michael-jacksus.jpeg)|
 |musclus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/musclus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/musclus.jpeg)|
 |naturus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/naturus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/naturus.jpeg)|
+|parisus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/parisus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/parisus.jpeg)|
 |perdus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/perdus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/perdus.jpeg)|
 |piratus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/piratus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/piratus.jpeg)|
 |poulus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/poulus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/poulus.jpeg)|
