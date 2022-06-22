@@ -1,4 +1,6 @@
-# Armus, l'armée d'amogus
+<p align=center><img src= https://i.imgur.com/Wb17IDr_d.webp?maxwidth=760&fidelity=grand height=150></p>
+
+### ❗ C'est un projet créé pour le fun avec des amis!
 
 ## 🏅 Médailles
 
@@ -43,8 +45,6 @@
 |vampirus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/vampirus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/vampirus.jpeg)|
 |virus          |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/virus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/virus.jpeg)|
 |waterus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/waterus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/waterus.jpeg)|
-
-### ❗ C'est un projet créé pour le fun avec des amis!
 
 ### ❓ Un problème?
 
