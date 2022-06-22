@@ -54,5 +54,6 @@ __Modèles disponibles:__
 * Améliorer le projet
 * Changement de nom
 * Double
+* Idée de personnage
 * Question
 * Suppression d'un personnage
