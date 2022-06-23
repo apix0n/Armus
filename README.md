@@ -7,8 +7,8 @@
 ## 🏅 Médailles
 
 <p align=center>
-    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/creation.png height=200 alt="Création du README">
-    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/25-membres.png height=200 alt="25 membres dans l'armée!">
+    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/creation.png height=200 title="Création du README">
+    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/25-membres.png height=200 title="25 membres dans l'armée!">
 </p>
 
 ## 🔪 L'armée
