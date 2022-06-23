@@ -1,10 +1,15 @@
-<p align=center><img src= https://i.imgur.com/Wb17IDr_d.webp?maxwidth=760&fidelity=grand height=150></p>
+<p align=center>
+    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/Armus-icon.png height=175>
+</p>
 
-### ❗ C'est un projet créé pour le fun avec des amis!
+### 🌹 C'est un projet créé pour le fun avec des amis!
 
 ## 🏅 Médailles
 
-<p align=center><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/achievements/creation.png height=200><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/achievements/25-membres.png height=200></p>
+<p align=center>
+    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/creation.png height=200 alt="Création du README">
+    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/25-membres.png height=200 alt="25 membres dans l'armée!">
+</p>
 
 ## 🔪 L'armée
 
@@ -46,14 +51,14 @@
 |virus          |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/virus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/virus.jpeg)|
 |waterus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/waterus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/waterus.jpeg)|
 
-### ❓ Un problème?
+### ❓ Un problème ?
 
-Si vous trouvez un problème dans le projet, merci de créer une issue [ici](https://github.com/Apix0n/Armus/issues/new/choose) avec le bon modèle.
+Si:
+* vous voulez améliorer le projet,
+* vous voulez demander le changement de nom d'un personnage,
+* vous avez trouvé un personnage deux fois,
+* vous avez une idée de personnage,
+* vous avez une question ou
+* vous voulez supprimer un personnage, 
 
-__Modèles disponibles:__
-* Améliorer le projet
-* Changement de nom
-* Double
-* Idée de personnage
-* Question
-* Suppression d'un personnage
+Merci de créer une issue [ici](https://github.com/Apix0n/Armus/issues/new/choose) en sélectionnant le bon modèle.
