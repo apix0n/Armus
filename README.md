@@ -9,6 +9,7 @@
 <p align=center>
     <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/creation.png height=200 title="Création du projet">
     <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/25-membres.png height=200 title="25 membres dans l'armée!">
+    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/certif.png height=200 title="Projet qualifié d'art par un expert!">
 </p>
 
 ## 🔪 L'armée
