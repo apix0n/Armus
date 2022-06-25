@@ -59,7 +59,7 @@
 |vampirus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/vampirus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/vampirus.jpeg)|
 |virus          |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/virus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/virus.jpeg)|
 |waterus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/waterus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/waterus.jpeg)|
-|wizardus #7    |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/wizardus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/wizardus.jpeg)|
+|wizardus [#7](https://github.com/Apix0n/Armus/issues/7)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/wizardus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/wizardus.jpeg)|
 
 ### ❓ Un problème ?
 
