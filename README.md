@@ -72,3 +72,7 @@ Si:
 * vous voulez supprimer un personnage, 
 
 Merci de créer une issue [ici](https://github.com/Apix0n/Armus/issues/new/choose) en sélectionnant le bon modèle.
+
+### Version HTML sur [GitHub](https://github.com/Apix0n/ArmusWeb) et hébergée sur [GitHub Pages](https://apix0n.github.com/Armus)
+
+### Par [Apix](https://github.com/Apix0n) avec <3
