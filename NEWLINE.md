@@ -33,8 +33,12 @@ __HTML:__
             <th>Image</th>
             <th>Lien</th>
         </tr>
+    </thead>
+    <tbody>
         <tr>
             <td>amogus</td>
             <td><p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus.jpeg height=150></p></td>
             <td><a href="https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus.jpeg">Lien</a></td>
         </tr>
+    </tbody>
+</table>
