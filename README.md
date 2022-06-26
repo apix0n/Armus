@@ -9,7 +9,7 @@
 <p align=center>
     <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/creation.png height=200 title="Création du projet">
     <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/25-membres.png height=200 title="25 membres dans l'armée!">
-    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/certif.png height=200 title="Projet qualifié d'art par un expert!">
+    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/certif.png height=200 title="Projet qualifié d'art par un expert!"><img src="https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/site.png" height=200 title="Ouverture du site!">
 </p>
 
 ## 🔪 L'armée
@@ -73,6 +73,6 @@ Si:
 
 Merci de créer une issue [ici](https://github.com/Apix0n/Armus/issues/new/choose) en sélectionnant le bon modèle.
 
-### Version HTML sur [GitHub](https://github.com/Apix0n/ArmusWeb) et hébergée sur [GitHub Pages](https://apix0n.github.com/Armus)
+### Version HTML sur [GitHub](https://github.com/Apix0n/ArmusWeb) et hébergée sur [GitHub Pages](https://apix0n.github.com/ArmusWeb)
 
 ### Créé par [Apix](https://github.com/Apix0n) avec <3
