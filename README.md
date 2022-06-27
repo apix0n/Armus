@@ -73,6 +73,6 @@ Si:
 
 Merci de créer une issue [ici](https://github.com/Apix0n/Armus/issues/new/choose) en sélectionnant le bon modèle.
 
-### Version HTML sur [GitHub](https://github.com/Apix0n/ArmusWeb) et hébergée sur [GitHub Pages](https://apix0n.github.com/ArmusWeb)
+### Version HTML sur [GitHub](https://github.com/Apix0n/ArmusWeb) et hébergée sur [GitHub Pages](https://apix0n.github.io/ArmusWeb)
 
 ### Créé par [Apix](https://github.com/Apix0n) avec <3
