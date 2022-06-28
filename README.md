@@ -3,7 +3,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/Apix0n/Armus"><img src="https://img.shields.io/badge/GitHub-Armus-ff0000?style=for-the-badge&logo=github&labelColor=f2f2f2&logoColor=000000"></a>
-    <a href="https://github.com/Apix0n/ArmusWeb"><img src="https://img.shields.io/badge/GitHub-ArmusWeb-009dff?style=for-the-badge&logo=github&labelColor=f2f2f2&logoColor=000000"></a>
+    <a href="https://apix0n.github.io/ArmusWeb"><img src="https://img.shields.io/badge/Internet-Armus-009dff?style=for-the-badge&logo=internetexplorer&labelColor=f2f2f2&logoColor=000000"></a>
 </p>
 
 ### 🌹 C'est un projet créé pour le fun avec des amis!
