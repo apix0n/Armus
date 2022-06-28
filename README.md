@@ -94,4 +94,4 @@ Merci à:
 
 ### Version HTML sur [GitHub](https://github.com/Apix0n/ArmusWeb) et hébergée sur [GitHub Pages](https://apix0n.github.io/ArmusWeb)
 
-### Créé par [Apix](https://github.com/Apix0n) avec <3
+### Créé par [Apix](https://github.com/Apix0n) avec ❤️
