@@ -86,11 +86,17 @@ Si:
 * vous voulez améliorer le projet,
 * vous voulez demander le changement de nom d'un personnage,
 * vous avez trouvé un personnage deux fois,
-* vous avez une idée de personnage (ou vous l'avez déjà créé),
 * vous avez une question,
 * vous voulez supprimer un personnage, 
 
 Merci de créer une issue [ici](https://github.com/Apix0n/Armus/issues/new/choose) en sélectionnant le bon modèle.
+
+Et si:
+* vous avez une idée de personnage,
+* vous avez créé un personnage et vous souhaitez l'ajouter, 
+
+Merci de consulter le guide [ici](https://github.com/Apix0n/Armus/susbranch/other/AMOGUS-CUSTOM.md).
+
 ### 🌟 Remerciements
 
 Merci à:
