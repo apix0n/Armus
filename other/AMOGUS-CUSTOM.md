@@ -6,7 +6,7 @@ Afin de créer un membre de l'armée, vous aurez besoin de:
 * Une application de dessin (ex. Sketchbook, Paint ou Snapchat)
 * L'inspiration
 
-### Si vous savez dessiner:
+### ✏ Si vous savez dessiner:
 
 * Regardez si votre idée n'est pas déjà dans l'Armus,
 * Importez l'image dans votre application de dessin,
@@ -18,12 +18,12 @@ Afin de créer un membre de l'armée, vous aurez besoin de:
 * Donnez lui un nom qui se termine par `-us` ou par `-a` si c'est une fille,
 * Créez une issue [ici](https://github.com/Apix0n/Armus/issues/new/choose) avec le modèle "Ajouter un personnage"
 
-### Si vous ne savez pas dessiner:
+### ❌ Si vous ne savez pas dessiner:
 
 * Regardez si votre idée n'est pas déjà dans l'Armus,
 * Créez une issue [ici](https://github.com/Apix0n/Armus/issues/new/choose) avec le modèle "Idée de personnage"
 
-### Si vous êtes en contact avec Apix:
+### ✨ Si vous êtes en contact avec Apix:
 
 * Regardez si votre idée n'est pas déjà dans l'Armus,
 * Importez l'image dans votre application de dessin,
@@ -33,5 +33,9 @@ Afin de créer un membre de l'armée, vous aurez besoin de:
 * Dessinez quelque chose d'original dessus,
 * Sauvegardez le en format `.jpeg`,
 * Donnez lui un nom qui se termine par `-us` ou par `-a` si c'est une fille,
-* Choisissez le nom sous lequel vous apparaîtrez dans `🌟 Remerciements`
+* Choisissez le nom sous lequel vous voulez apparaître dans `🌟 Remerciements`
 * Envoyez le tout à Apix
+
+### ❗ Je rappelle que chaque dessin peut être refusé si il est trouvé inapproprié! Merci d'avance!
+
+### Créé par Apix avec ❤
