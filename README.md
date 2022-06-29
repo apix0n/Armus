@@ -20,7 +20,7 @@
 
 ## 🔪 L'armée
 
-### Nombre total de membres: 54
+### Nombre total de membres: 55
 
 |       Nom     |Image|Lien|
 |      ---      |---|---|
@@ -46,6 +46,7 @@
 |galaxus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/galaxus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/galaxus.jpeg)|
 |generalus      |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/generalus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/generalus.jpeg)|
 |gokus          |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/gokus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/gokus.jpeg)|
+|helicoptus[*](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/helicoptus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/helicoptus.jpeg)|
 |impostor       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/impostor.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/impostor.jpeg)|
 |infirmus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/infirmus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/infirmus.jpeg)|
 |killus[*](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/killus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/killus.jpeg)|
@@ -97,7 +98,7 @@ Merci à:
 * Ilian pour `drogueus`, `killus`, `mysterus`, `naturus`, `robotus`, `sofianus`, `spidermanus` et `vegetus`
 * Jujudubat7 pour `chaplinus`
 * EVIL UO pour `luffus` et `nymarus`
-* Camicase pour `sleepus`
+* Camicase pour `helicoptus` et `sleepus`
 ### Version HTML sur [GitHub](https://github.com/Apix0n/ArmusWeb) et hébergée sur [GitHub Pages](https://apix0n.github.io/ArmusWeb)
 
 ### Créé par [Apix](https://github.com/Apix0n) avec ❤️
