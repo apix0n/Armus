@@ -10,10 +10,6 @@ assignees: ''
 **Le nom du personnage:**
 [votre réponse]
 
-**Le lien de l'image si vous l'avez déja dessiné:**
-[lien de l'image hébergée sur un service comme Imgur]
-
-Sinon:
 **Décrivez le:**
 [votre réponse détaillée]
 
