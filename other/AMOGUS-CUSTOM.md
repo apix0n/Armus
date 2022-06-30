@@ -6,6 +6,8 @@ Afin de créer un membre de l'armée, vous aurez besoin de:
 * Une application de dessin (ex. Sketchbook, Paint ou Snapchat)
 * L'inspiration
 
++ [Ici](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/visiere.png), le lien de téléchargement de la visière en format `.png`
+
 ### ✏ Si vous savez dessiner:
 
 * Regardez si votre idée n'est pas déjà dans l'Armus,
