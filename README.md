@@ -20,7 +20,7 @@
 
 ## 🔪 L'armée
 
-### Nombre total de membres: 65
+### Nombre total de membres: 66
 
 |       Nom     |Image|Lien|
 |      ---      |---|---|
