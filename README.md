@@ -32,6 +32,7 @@
 |amogus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus.jpeg)|
 |aplatus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/aplatus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/aplatus.jpeg)|
 |asmolgus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/asmolgus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/asmolgus.jpeg)|
+|bakacutea[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bakacutea.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bakacutea.jpeg)|
 |bananus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bananus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bananus.jpeg)|
 |blackus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/blackus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/blackus.jpeg)|
 |bushus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bushus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bushus.jpeg)|
@@ -110,12 +111,14 @@ Merci de consulter le guide [ici](https://github.com/Apix0n/Armus/blob/susbranch
 ### 🌟 Remerciements
 
 Merci à:
+* Chus avec qui j'ai eu l'idée du projet et qui a créé la moitié des personnages
 * XNinjaYmZ pour `gameus`, `marius`, `stickmus`, `uranus` et `wizardus` ([#7](https://github.com/Apix0n/Armus/issues/7))
 * Ilian pour `drogueus`, `killus`, `mysterus`, `naturus`, `robotus`, `sofianus`, `spidermanus` et `vegetus`
 * Jujudubat7 pour `chaplinus`
 * EVIL UO pour `luffus` et `nymarus`
 * Camicase pour `helicoptus` et `sleepus`
 * Aliko pour `japnessa`, `peppus`, `racaillus`, `tchoupius`, `xdsus` et `yoyosus`
+* Lilly pour `bakacutea`
 ### Version HTML sur [GitHub](https://github.com/Apix0n/ArmusWeb) et hébergée sur [GitHub Pages](https://apix0n.github.io/ArmusWeb)
 
 ### Créé par [Apix](https://github.com/Apix0n) avec ❤️
