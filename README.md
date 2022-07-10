@@ -20,7 +20,7 @@
 
 ## 🔪 L'armée
 
-### Nombre total de membres: 66
+### Nombre total de membres: 72
 
 |       Nom     |Image|Lien|
 |      ---      |---|---|
@@ -30,6 +30,7 @@
 |amoga          |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amoga.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amoga.jpeg)|
 |amogus-poli    |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus-poli.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus-poli.jpeg)|
 |amogus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus.jpeg)|
+|amosus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amosus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amosus.jpeg)|
 |aplatus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/aplatus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/aplatus.jpeg)|
 |asmolgus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/asmolgus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/asmolgus.jpeg)|
 |bakacutea[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bakacutea.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bakacutea.jpeg)|
@@ -41,6 +42,7 @@
 |chinus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/chinus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/chinus.jpeg)|
 |cosmonus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/cosmonus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/cosmonus.jpeg)|
 |cuistus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/cuistus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/cuistus.jpeg)|
+|demonus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/demonus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/demonus.jpeg)|
 |drogueus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/drogueus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/drogueus.jpeg)|
 |educatus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/educatus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/educatus.jpeg)|
 |fishus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/fishus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/fishus.jpeg)|
@@ -62,14 +64,18 @@
 |mysterus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/mysterus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/mysterus.jpeg)|
 |narutus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/narutus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/narutus.jpeg)|
 |naturus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/naturus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/naturus.jpeg)|
+|ninjsus|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/ninjsus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/ninjsus.jpeg)|
+|nutellus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/nutellus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/nutellus.jpeg)|
 |nymarus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/nymarus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/nymarus.jpeg)|
 |parisus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/parisus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/parisus.jpeg)|
 |peppus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/peppus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/peppus.jpeg)|
 |perdus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/perdus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/perdus.jpeg)|
 |piratus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/piratus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/piratus.jpeg)|
+|pokebollus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/pokebollus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/pokebollus.jpeg)|
 |poopus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/poopus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/poopus.jpeg)|
 |poulus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/poulus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/poulus.jpeg)|
 |racaillus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/racaillus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/racaillus.jpeg)|
+|rainbowus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/rainbowus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/rainbowus.jpeg)|
 |robotus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/robotus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/robotus.jpeg)|
 |seinsus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/seinsus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/seinsus.jpeg)|
 |shapeshifter   |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/shapeshifter.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/shapeshifter.jpeg)|
@@ -112,13 +118,14 @@ Merci de consulter le guide [ici](https://github.com/Apix0n/Armus/blob/susbranch
 
 Merci à:
 * Chus avec qui j'ai eu l'idée du projet et qui a créé la moitié des personnages
-* XNinjaYmZ pour `gameus`, `marius`, `stickmus`, `uranus` et `wizardus` ([#7](https://github.com/Apix0n/Armus/issues/7))
+* XNinjaYmZ pour `gameus`, `marius`, `pokebollus`, `stickmus`, `uranus` et `wizardus` ([#7](https://github.com/Apix0n/Armus/issues/7))
 * Ilian pour `drogueus`, `killus`, `mysterus`, `naturus`, `robotus`, `sofianus`, `spidermanus` et `vegetus`
 * Jujudubat7 pour `chaplinus`
 * EVIL UO pour `luffus` et `nymarus`
 * Camicase pour `helicoptus` et `sleepus`
-* Aliko pour `japnessa`, `peppus`, `racaillus`, `tchoupius`, `xdsus` et `yoyosus`
-* Lilly pour `bakacutea`
+* Aliko pour `demonus`, `japnessa`, `nutellus`,  `peppus`, `racaillus`, `tchoupius`, `xdsus` et `yoyosus`
+* Lilly pour `amosus` et `bakacutea`
+* Petiteprincesse pour `rainbowus`
 ### Version HTML sur [GitHub](https://github.com/Apix0n/ArmusWeb) et hébergée sur [GitHub Pages](https://apix0n.github.io/ArmusWeb)
 
 ### Créé par [Apix](https://github.com/Apix0n) avec ❤️
