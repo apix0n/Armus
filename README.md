@@ -16,11 +16,12 @@
     <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/certif.png height=200 title="Projet qualifié d'art par un expert!">
     <img src="https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/site.png" height=200 title="Ouverture du site!">
     <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/50-membres.png height=200 title="50 membres dans l'armée!">
+    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/10-contributeurs.png height=200 title="10 contributeurs!">
 </p>
 
 ## 🔪 L'armée
 
-### Nombre total de membres: 72
+### Nombre total de membres: 73
 
 |       Nom     |Image|Lien|
 |      ---      |---|---|
@@ -30,72 +31,73 @@
 |amoga          |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amoga.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amoga.jpeg)|
 |amogus-poli    |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus-poli.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus-poli.jpeg)|
 |amogus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amogus.jpeg)|
-|amosus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amosus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amosus.jpeg)|
+|amosus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amosus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/amosus.jpeg)|
 |aplatus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/aplatus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/aplatus.jpeg)|
 |asmolgus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/asmolgus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/asmolgus.jpeg)|
-|bakacutea[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bakacutea.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bakacutea.jpeg)|
+|bakacutea[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bakacutea.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bakacutea.jpeg)|
 |bananus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bananus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bananus.jpeg)|
 |blackus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/blackus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/blackus.jpeg)|
 |bushus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bushus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/bushus.jpeg)|
 |cactus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/cactus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/cactus.jpeg)|
-|chaplinus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/chaplinus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/chaplinus.jpeg)|
+|chaplinus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/chaplinus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/chaplinus.jpeg)|
 |chinus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/chinus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/chinus.jpeg)|
 |cosmonus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/cosmonus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/cosmonus.jpeg)|
 |cuistus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/cuistus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/cuistus.jpeg)|
-|demonus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/demonus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/demonus.jpeg)|
-|drogueus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/drogueus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/drogueus.jpeg)|
+|demonus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/demonus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/demonus.jpeg)|
+|drogueus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/drogueus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/drogueus.jpeg)|
 |educatus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/educatus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/educatus.jpeg)|
 |fishus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/fishus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/fishus.jpeg)|
 |galaxus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/galaxus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/galaxus.jpeg)|
-|gameus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/gameus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/gameus.jpeg)|
+|gameus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/gameus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/gameus.jpeg)|
 |generalus      |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/generalus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/generalus.jpeg)|
 |gokus          |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/gokus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/gokus.jpeg)|
-|helicoptus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/helicoptus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/helicoptus.jpeg)|
+|hamburgus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/hamburgus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/hamburgus.jpeg)|
+|helicoptus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/helicoptus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/helicoptus.jpeg)|
 |impostor       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/impostor.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/impostor.jpeg)|
 |infirmus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/infirmus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/infirmus.jpeg)|
-|japnessa[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/japnessa.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/japnessa.jpeg)|
-|killus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/killus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/killus.jpeg)|
+|japnessa[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/japnessa.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/japnessa.jpeg)|
+|killus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/killus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/killus.jpeg)|
 |laserus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/laserus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/laserus.jpeg)|
 |livrus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/livrus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/livrus.jpeg)|
-|luffus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/luffus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/luffus.jpeg)|
-|marius[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/marius.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/marius.jpeg)|
+|luffus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/luffus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/luffus.jpeg)|
+|marius[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/marius.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/marius.jpeg)|
 |michael-jacksus|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/michael-jacksus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/michael-jacksus.jpeg)|
 |musclus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/musclus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/musclus.jpeg)|
-|mysterus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/mysterus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/mysterus.jpeg)|
-|narutus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/narutus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/narutus.jpeg)|
+|mysterus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/mysterus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/mysterus.jpeg)|
+|narutus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/narutus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/narutus.jpeg)|
 |naturus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/naturus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/naturus.jpeg)|
 |ninjsus|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/ninjsus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/ninjsus.jpeg)|
-|nutellus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/nutellus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/nutellus.jpeg)|
-|nymarus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/nymarus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/nymarus.jpeg)|
+|nutellus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/nutellus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/nutellus.jpeg)|
+|nymarus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/nymarus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/nymarus.jpeg)|
 |parisus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/parisus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/parisus.jpeg)|
-|peppus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/peppus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/peppus.jpeg)|
+|peppus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/peppus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/peppus.jpeg)|
 |perdus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/perdus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/perdus.jpeg)|
 |piratus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/piratus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/piratus.jpeg)|
-|pokebollus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/pokebollus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/pokebollus.jpeg)|
+|pokebollus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/pokebollus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/pokebollus.jpeg)|
 |poopus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/poopus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/poopus.jpeg)|
 |poulus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/poulus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/poulus.jpeg)|
-|racaillus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/racaillus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/racaillus.jpeg)|
-|rainbowus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/rainbowus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/rainbowus.jpeg)|
-|robotus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/robotus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/robotus.jpeg)|
+|racaillus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/racaillus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/racaillus.jpeg)|
+|rainbowus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/rainbowus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/rainbowus.jpeg)|
+|robotus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/robotus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/robotus.jpeg)|
 |seinsus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/seinsus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/seinsus.jpeg)|
 |shapeshifter   |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/shapeshifter.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/shapeshifter.jpeg)|
-|sleepus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/sleepus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/sleepus.jpeg)|
-|sofianus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/sofianus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/sofianus.jpeg)|
-|spidermanus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/spidermanus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/spidermanus.jpeg)|
-|stickmus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/stickmus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/stickmus.jpeg)|
+|sleepus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/sleepus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/sleepus.jpeg)|
+|sofianus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/sofianus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/sofianus.jpeg)|
+|spidermanus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/spidermanus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/spidermanus.jpeg)|
+|stickmus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/stickmus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/stickmus.jpeg)|
 |sugoma         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/sugoma.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/sugoma.jpeg)|
-|tchoupius[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/tchoupius.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/tchoupius.jpeg)|
+|tchoupius[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/tchoupius.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/tchoupius.jpeg)|
 |the-creatorus  |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/the-creatorus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/the-creatorus.jpeg)|
 |thugus         |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/thugus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/thugus.jpeg)|
 |toastus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/toastus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/toastus.jpeg)|
-|uranus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/uranus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/uranus.jpeg)|
+|uranus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/uranus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/uranus.jpeg)|
 |vampirus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/vampirus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/vampirus.jpeg)|
-|vegetus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/vegetus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/vegetus.jpeg)|
+|vegetus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/vegetus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/vegetus.jpeg)|
 |virus          |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/virus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/virus.jpeg)|
 |waterus        |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/waterus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/waterus.jpeg)|
-|wizardus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/wizardus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/wizardus.jpeg)|
-|xdsus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/xdsus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/xdsus.jpeg)|
-|yoyosus[•](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/yoyosus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/yoyosus.jpeg)|
+|wizardus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/wizardus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/wizardus.jpeg)|
+|xdsus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/xdsus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/xdsus.jpeg)|
+|yoyosus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/yoyosus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/yoyosus.jpeg)|
 
 ### ❓ Un problème ?
 
@@ -126,6 +128,7 @@ Merci à:
 * Aliko pour `demonus`, `japnessa`, `nutellus`,  `peppus`, `racaillus`, `tchoupius`, `xdsus` et `yoyosus`
 * Lilly pour `amosus` et `bakacutea`
 * Petiteprincesse pour `rainbowus`
+* Apyzzelos pour `hamburgus`
 ### Version HTML sur [GitHub](https://github.com/Apix0n/ArmusWeb) et hébergée sur [GitHub Pages](https://apix0n.github.io/ArmusWeb)
 
 ### Créé par [Apix](https://github.com/Apix0n) avec ❤️
