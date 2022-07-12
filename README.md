@@ -21,7 +21,7 @@
 
 ## 🔪 L'armée
 
-### Nombre total de membres: 73
+### Nombre total de membres: 74
 
 |       Nom     |Image|Lien|
 |      ---      |---|---|
@@ -53,6 +53,7 @@
 |gokus          |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/gokus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/gokus.jpeg)|
 |hamburgus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/hamburgus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/hamburgus.jpeg)|
 |helicoptus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/helicoptus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/helicoptus.jpeg)|
+|icecreamus[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/icecreamus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/icecreamus.jpeg)|
 |impostor       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/impostor.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/impostor.jpeg)|
 |infirmus       |<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/infirmus.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/infirmus.jpeg)|
 |japnessa[ •](#-remerciements)|<p><img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/japnessa.jpeg height=150></p>|[Lien](https://raw.githubusercontent.com/Apix0n/Armus/susbranch/files/japnessa.jpeg)|
@@ -125,7 +126,7 @@ Merci à:
 * Jujudubat7 pour `chaplinus`
 * EVIL UO pour `luffus` et `nymarus`
 * Camicase pour `helicoptus` et `sleepus`
-* Aliko pour `demonus`, `japnessa`, `nutellus`,  `peppus`, `racaillus`, `tchoupius`, `xdsus` et `yoyosus`
+* Aliko pour `demonus`, `icecreamus`, `japnessa`, `nutellus`,  `peppus`, `racaillus`, `tchoupius`, `xdsus` et `yoyosus`
 * Lilly pour `amosus` et `bakacutea`
 * Petiteprincesse pour `rainbowus`
 * Apyzzelos pour `hamburgus`
