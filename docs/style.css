@@ -4,56 +4,69 @@
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons);
 
 :root {
-    --text: #24292f;
-    --bg: #ffffff;
-    --code: #e9e9e9;
-    --ref: #ffdd00;
+  --text: #24292f;
+  --bg: #ffffff;
+  --code: #e9e9e9;
+  --ref: #ffdd00;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Montserrat', serif;
+  font-size: 20px;
+  color: var(--text);
+  background-color: var(--bg);
+}
+
+@media (prefers-color-scheme:dark) {
+  :root {
+    --text: #ffffff;
+    --bg: #0d1117;
+    --code: #24292f;
+    --ref: #fde33d;
+    color-scheme: dark;
   }
-  html {
-    scroll-behavior: smooth;
-  }
-  body {
-    font-family: 'Montserrat', serif;
-    font-size: 20px;
-    color: var(--text);
-    background-color: var(--bg);
-  }
-  @media (prefers-color-scheme:dark) {
-    :root {
-      --text: #ffffff;
-      --bg: #0d1117;
-      --code: #24292f;
-      --ref: #fde33d;
-      color-scheme: dark;
-    }
-  }
-  a {
-    color: #518ef0
-  }
-  img {
-    border-radius: 10px;
-  }
-  table, th, td {
-    border: 1px solid #5c5c5c;
-    border-collapse: collapse;
-    padding: 5px;
-    text-align: center;
-  }
-  code {
-    padding: 0.2em 0.4em;
-    margin: 0;
-    font-size: 80%;
-    background-color: var(--code);
-    border-radius: 6px;
-  }
-  .ligne {
-    line-height: 1.3em;
-  }
-  .ref {
-    text-decoration: none;
-    color: var(--ref);
-    font-weight: 600;
-  }
+}
+
+a {
+  color: #518ef0
+}
+
+img {
+  border-radius: 10px;
+}
+
+table,
+th,
+td {
+  border: 1px solid #5c5c5c;
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: center;
+}
+
+code {
+  padding: 0.2em 0.4em;
+  margin: 0;
+  font-size: 80%;
+  background-color: var(--code);
+  border-radius: 6px;
+}
+
+.ligne {
+  line-height: 1.3em;
+}
+
+.ref {
+  text-decoration: none;
+  color: var(--ref);
+  font-weight: 600;
+  text-shadow: 0 0 10px var(--ref);
+}
+
 .material-icons {
   font-size: 30px;
 }
