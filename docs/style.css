@@ -1,7 +1,7 @@
 /* Styles CSS créés par Apix pour le site internet d'Armus */
 
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,600,700);
-@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons+Round);
 
 :root {
   --text: #24292f;
@@ -19,6 +19,7 @@ body {
   font-size: 20px;
   color: var(--text);
   background-color: var(--bg);
+  margin: 0;
 }
 
 @media (prefers-color-scheme:dark) {
@@ -32,7 +33,11 @@ body {
 }
 
 a {
-  color: #518ef0
+  color: #518ef0;
+}
+
+p {
+  text-align: center;
 }
 
 img {
@@ -69,4 +74,65 @@ code {
 
 .material-icons {
   font-size: 30px;
+}
+
+#one {
+  color: #ffffff;
+  background: linear-gradient(145deg, rgba(43, 0, 0, 1) 0%, rgba(121, 9, 9, 1) 35%, rgba(255, 0, 0, 1) 100%);
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  line-height: .1em;
+  margin: 0;
+  padding: 0;
+}
+
+.svgicon {
+  height: 1em;
+  width: 1em;
+  display: inline-flex;
+  align-self: center;
+  top: .125em;
+  position: relative;
+}
+
+#two {
+  margin: 8px;
+}
+
+.scroll {
+  height: 50px;
+  width: 50px;
+  border: 5px solid #ffffff;
+  border-radius: 50px;
+  color: white;
+  font-size: 50px;
+}
+
+.line-image p {
+  text-align: center;
+}
+
+.line-image img {
+  width: min(100%, 800px);
+}
+
+.menu {
+  border: 5px solid #ffffff;
+  border-radius: 50px;
+  padding: 7.5px;
+}
+
+.menu span{
+  font-size: 35px;
+  color: #ffffff;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.menu a {
+  text-decoration: none;
 }
