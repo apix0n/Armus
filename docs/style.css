@@ -36,10 +36,6 @@ a {
   color: #518ef0;
 }
 
-p {
-  text-align: center;
-}
-
 img {
   border-radius: 10px;
 }
@@ -110,10 +106,6 @@ code {
   border-radius: 50px;
   color: white;
   font-size: 50px;
-}
-
-.line-image p {
-  text-align: center;
 }
 
 .line-image img {
