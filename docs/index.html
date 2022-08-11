@@ -2,7 +2,7 @@
 <html lang="fr">
 
 <head>
-  <title>Armus | Apix</title>
+  <title>Armus</title>
   <meta charset="utf-8">
   <meta name="description"
     content="Armus - Un projet GitHub pour organiser tous les amogus personnalisés afin d'en faire une armée!">
@@ -17,14 +17,23 @@
   <meta name="apple-mobile-web-app-title" content="Armus">
   <meta property="og:image" content="https://apix0n.github.io/Armus/social.png">
   <meta name="theme-color" content="#2b0000">
+  <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
+  <script>
+    window.onload = function () {
+      twemoji.parse(document.body,
+        { folder: 'svg', ext: '.svg' }
+      );
+
+    }
+  </script>
   <section id="one">
-    <h1 style="font-size: min(17.5vw, 185px);margin-bottom: min(10%, 50px);">Armus <img class="svgicon" src="armus-icon.svg"></h1>
+    <h1>Armus <img class="svgicon" src="armus-icon.svg"></h1>
     <div class="menu">
       <a href="#informations" title="Informations">
-        <span class="material-icons-round">edit</span>
+        <span class="material-icons-round">description</span>
       </a>
       <a href="#médailles" title="Médailles">
         <span class="material-icons-round">workspace_premium</span>
@@ -34,6 +43,9 @@
       </a>
       <a href="#problème" title="Un problème?">
         <span class="material-icons-round">question_mark</span>
+      </a>
+      <a href="#personnage" title="Créer un personnage">
+        <span class="material-icons-round">palette</span>
       </a>
       <a href="#remerciements" title="Remerciements">
         <span class="material-icons-round">star</span>
@@ -48,7 +60,8 @@
       <img src="https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/Armus-line.jpg">
     </p>
     <h2 id="informations">📝 Informations</h2>
-    <h4 align="center" >Armus est un projet hébergé sur GitHub créé avec des amis pour organiser tous les amogus personnalisés afin d'en
+    <h4 align="center">Armus est un projet hébergé sur GitHub créé avec des amis pour organiser tous les amogus
+      personnalisés afin d'en
       faire une armée.</h4>
     <p align="center"><a href="https://github.com/Apix0n/Armus"><img
           src="https://img.shields.io/badge/Voir%20sur%20GitHub-ff0000?style=for-the-badge&logo=github&labelColor=f2f2f2&logoColor=000000"></a>
@@ -71,7 +84,7 @@
         title="75 membres dans l'armée!">
     </p>
     <h2 id="armée">🔪 L'armée</h2>
-    <h3 align="center">Nombre total de membres: 76</h3>
+    <h3 align="center">Nombre total de membres: 77</h3>
     <table align=center>
       <thead>
         <tr>
@@ -712,16 +725,13 @@
     </ul>
     <p>Merci de créer une issue <a href="https://github.com/Apix0n/Armus/issues/new/choose" target="_blank">ici</a> en
       sélectionnant le bon modèle.</p>
-    <p>Et si:</p>
-    <ul>
-      <li> vous avez une idée de personnage, </li>
-      <li> vous avez créé un personnage et vous souhaitez l'ajouter,</li>
-    </ul>
-    <p>Merci de consulter le guide <a href="https://github.com/Apix0n/Armus/blob/susbranch/other/AMOGUS-CUSTOM.md"
-        target="_blank">ici</a>.</p>
+    <h2 id="personnage">🎨 Créer un personnage</h2>
+    <p>Afin de créer un personnage sans faire d'erreurs, pour avoir les fichiers nécessaires et l'envoyer dans l'Armus,
+      cliquez sur le lien ci-dessous pour ouvrir le guide.</p>
+    <p align="center"><a href="personnage" target="_blank">Le guide: Comment créer un personnage?</a></p>
     <h2 id="remerciements">🌟 Remerciements</h2>
     <p>Merci à:</p>
-    <ul class="ligne">
+    <ul>
       <li><b>Chus</b> avec qui j'ai eu l'idée du projet et qui a créé la moitié des personnages</li>
       <li><b>XNinjaYmZ</b> pour <code>gameus</code>, <code>marius</code>, <code>pokebollus</code>,
         <code>stickmus</code>, <code>uranus</code> et <code>wizardus</code> (<a
@@ -741,6 +751,12 @@
       <li><b>Apyzzelos</b> pour <code>hamburgus</code></li>
       <li><b>Samilogosy</b> pour <code>shrekus</code></li>
       <li><b>K.Y</b> pour <code>theamosus78</code></li>
+    </ul>
+    <p>Projets utilisés:</p>
+    <ul>
+      <li>Police: <a href="https://fonts.google.com/specimen/Montserrat">Montserrat</a></li>
+      <li>Icônes: <a href="https://fonts.google.com/icons">Material Icons</a> de Google</li>
+      <li>Emojis: <a href="https://twemoji.twitter.com/">Twemoji</a> de Twitter</li>
     </ul>
     <h3>Créé par <a href="https://github.com/Apix0n">Apix</a> avec ❤</h3>
   </section>
