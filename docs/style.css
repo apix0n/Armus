@@ -180,9 +180,3 @@ img.emoji {
   text-decoration: none;
   border-bottom: 1.5px solid;
 }
-
-/* Classes de remerciements */
-.cinq {
-  color: var(--ref);
-  text-shadow: 0 0 10px var(--ref);
-}
