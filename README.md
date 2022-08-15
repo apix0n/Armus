@@ -20,6 +20,7 @@ __🌹 Armus est un projet hébergé sur GitHub créé avec des amis pour organi
     <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/50-membres.png height=200 title="50 membres dans l'armée!">
     <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/10-contributeurs.png height=200 title="10 contributeurs!">
     <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/75-membres.png height=200 title="75 membres dans l'armée!">
+    <img src="https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/100-commits.png" height="200" title="100 commits sur GitHub!"></a>
 </p>
 
 ## ❓ Comment voir les personnages?
@@ -30,13 +31,14 @@ Merci de vous rendre sur https://apix0n.github.io/Armus ou de cliquer sur le bou
 
 ```
 Apix0n/Armus
-├───.github                 <--- Fichiers de GitHub
+├───.github                   <--- Fichiers de GitHub
 │   └───ISSUE_TEMPLATE
-├───docs                    <--- Fichiers du site Internet
-├───files                   <--- Les personnages
+├───docs                      <--- Fichiers du site Internet
+├───files                     <--- Les personnages
 └───other
-    ├───achievements        <--- Les médailles (en .png)
-    └───achievements-psd    <--- Les médailles (en .psd)
+    ├───achievements          <--- Les médailles (en .png)
+    ├───achievements-psd      <--- Les médailles (en .psd)
+    └───creation-personnages  <--- Fichiers de création des personnages
 ```
 
 ## 🛡 Archive
