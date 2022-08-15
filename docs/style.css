@@ -180,3 +180,7 @@ img.emoji {
   text-decoration: none;
   border-bottom: 1.5px solid;
 }
+
+.members-table img {
+  height: min(50vw, 300px);
+}
