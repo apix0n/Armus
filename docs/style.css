@@ -7,7 +7,7 @@
   --text: #24292f;
   --bg: #ffffff;
   --code: #e9e9e9;
-  --ref: #ddc215;
+  --ref: #ffcc4d;
   --quote: #57606a;
 }
 
@@ -28,7 +28,6 @@ body {
     --text: #ffffff;
     --bg: #0d1117;
     --code: #24292f;
-    --ref: #fde33d;
     --quote: #8b949e;
     color-scheme: dark;
   }
