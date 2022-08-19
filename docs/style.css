@@ -8,6 +8,8 @@
   --bg: #ffffff;
   --code: #e9e9e9;
   --ref: #ffcc4d;
+  --ref2: #5dadec;
+  --ref3: #be1931;
   --quote: #57606a;
 }
 
@@ -76,6 +78,13 @@ blockquote {
   color: var(--ref);
   font-weight: 600;
   text-shadow: 0 0 10px var(--ref);
+}
+
+.ref2 {
+  text-decoration: none;
+  color: var(--ref3);
+  font-weight: 600;
+  text-shadow: 0 0 10px var(--ref3);
 }
 
 .material-icons-round {
