@@ -82,6 +82,12 @@ blockquote {
 
 .ref2 {
   text-decoration: none;
+  color: var(--ref2);
+  font-weight: 600;
+  text-shadow: 0 0 10px var(--ref2);
+}
+.ref2 {
+  text-decoration: none;
   color: var(--ref3);
   font-weight: 600;
   text-shadow: 0 0 10px var(--ref3);
