@@ -1,6 +1,7 @@
 /* Styles CSS créés par Apix pour le site internet d'Armus */
 
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,600,700);
+/* Import de la police et des icônes */
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700);
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons+Round);
 
 :root {
@@ -10,7 +11,9 @@
   --ref: #ffcc4d;
   --ref2: #5dadec;
   --ref3: #be1931;
-  --quote: #57606a;
+  --fnt-size: 20px;
+  --scroll-size: 60px;
+  --scroll-border-size: 6px;
 }
 
 html {
@@ -19,7 +22,7 @@ html {
 
 body {
   font-family: 'Montserrat', serif;
-  font-size: 20px;
+  font-size: var(--fnt-size);
   color: var(--text);
   background-color: var(--bg);
   margin: 0;
@@ -30,8 +33,16 @@ body {
     --text: #ffffff;
     --bg: #0d1117;
     --code: #24292f;
-    --quote: #8b949e;
+    --table: #5c5c5c;
     color-scheme: dark;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  :root {
+    --fnt-size: 17.5px;
+    --scroll-size: 40px;
+    --scroll-border-size: 4px;
   }
 }
 
@@ -46,31 +57,50 @@ img {
 table,
 th,
 td {
-  border: 1px solid #5c5c5c;
+  border: 1px solid var(--table);
   border-collapse: collapse;
   padding: 5px;
   text-align: center;
 }
 
+.members-table img {
+  height: min(50vw, 300px);
+}
+
+.summary,
+.summary th,
+.summary td {
+  border: 0;
+  line-height: 1.2em;
+  font-weight: 500;
+}
+
+.summary th {
+  border-bottom: 1px solid var(--text);
+}
+
+.summary h2 {
+  margin: 0;
+  margin-bottom: .2em;
+}
+
+.summary a {
+  text-decoration: none;
+  color: var(--text);
+}
+
 code {
   padding: 0.2em 0.4em;
   margin: 0;
-  font-size: 80%;
+  font-size: .8em;
   background-color: var(--code);
   border-radius: 6px;
+  white-space: nowrap;
+  font-family: Consolas, Menlo, Monaco, "Lucida Console, Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace, serif;
 }
 
 li {
   line-height: 1.5em;
-}
-
-blockquote {
-  color: var(--quote);
-  border-left: 3px solid var(--quote);
-  padding-left: 10px;
-  margin-left: 15px;
-  margin-top: 0;
-  margin-bottom: 0;
 }
 
 .ref {
@@ -113,9 +143,18 @@ blockquote {
 }
 
 #one h1 {
-    font-size: min(17.5vw, 185px);
-    margin-top: 0;
-    margin-bottom: min(10%, 50px);
+  font-size: min(17.5vw, 185px);
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.scroll {
+  height: var(--scroll-size);
+  width: var(--scroll-size);
+  border: var(--scroll-border-size) solid #ffffff;
+  border-radius: var(--scroll-size);
+  color: white;
+  font-size: var(--scroll-size);
 }
 
 .svgicon {
@@ -131,28 +170,21 @@ blockquote {
   margin: 8px;
 }
 
-.scroll {
-  height: 50px;
-  width: 50px;
-  border: 5px solid #ffffff;
-  border-radius: 50px;
-  color: white;
-  font-size: 50px;
-}
-
 .line-image img {
   width: min(100%, 800px);
 }
 
 .menu {
-  border: 5px solid #ffffff;
+  border: 5px solid var(--text);
   border-radius: 50px;
   padding: 7.5px;
+  width: fit-content;
+  margin: auto;
 }
 
-.menu span{
+.menu span {
   font-size: 35px;
-  color: #ffffff;
+  color: var(--text);
   padding-left: 5px;
   padding-right: 5px;
 }
@@ -177,17 +209,15 @@ blockquote {
 
 .topback h4 {
   color: #ffffff;
-  font-size: 22.5px;
+  font-size: 20px;
 }
 
 img.emoji {
   height: 1em;
   width: 1em;
+  margin: 0 .05em 0 .1em;
+  vertical-align: -0.1em;
   border-radius: 0;
-  display: inline-flex;
-  align-self: center;
-  position: relative;
-  top: .125em;
 }
 
 .sommaire a {
@@ -196,6 +226,37 @@ img.emoji {
   border-bottom: 1.5px solid;
 }
 
-.members-table img {
-  height: min(50vw, 300px);
+/* Test navbar */
+
+.navbar {
+  height: 2.25em;
+  background-color: var(--code);
 }
+
+.navbar ul {
+  padding: 0;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.navbar ul li {
+  list-style: none;
+  font-size: 15px;
+  text-decoration: none;
+  float: left;
+  display: block;
+  padding: 10px;
+  color: var(--text);
+  font-weight: 600;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  color: var(--text);
+}
+
+.navbar ul li a:hover {
+  color: #518ef0;
+}
+
+/* navbar end */
