@@ -14,6 +14,7 @@
   --fnt-size: 20px;
   --scroll-size: 60px;
   --scroll-border-size: 6px;
+  --table: #5c5c5c;
 }
 
 html {
@@ -33,7 +34,6 @@ body {
     --text: #ffffff;
     --bg: #0d1117;
     --code: #24292f;
-    --table: #5c5c5c;
     color-scheme: dark;
   }
 }
@@ -220,10 +220,24 @@ img.emoji {
   border-radius: 0;
 }
 
-.sommaire a {
+.spaceline {
+  height: 2px;
+  border-radius: 1px;
+  width: 75vw;
+  background-color: var(--ref);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.goldlink a {
   color: var(--ref);
   text-decoration: none;
   border-bottom: 1.5px solid;
+}
+
+blockquote {
+  border-left: 5px solid var(--code);
+  padding-left: 7.5px;
 }
 
 /* Test navbar */
