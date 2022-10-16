@@ -4,7 +4,7 @@
 
 <p align=center>
     <a href="https://apix0n.github.io/Armus">
-        <img src="https://img.shields.io/badge/Site%20internet-009dff?style=for-the-badge&logo=microsoftedge&labelColor=f2f2f2&logoColor=000000">
+        <img src="https://img.shields.io/badge/Site%20internet-009dff?style=for-the-badge&labelColor=f2f2f2">
     </a>
 </p>
 
@@ -48,10 +48,10 @@ Le site a été transféré depuis https://github.com/Apix0n/ArmusWeb le 12 juil
 ## ✨ Liens utiles
 <p align=center>
     <a href="https://apix0n.github.io/Armus/#remerciements">
-        <img src="https://img.shields.io/badge/Remerciements-fce100?style=for-the-badge&logo=starship&labelColor=f2f2f2&logoColor=000000">
+        <img src="https://img.shields.io/badge/Remerciements-fce100?style=for-the-badge&labelColor=f2f2f2">
     </a>
     <a href="https://apix0n.github.io/Armus/#problème">
-        <img src="https://img.shields.io/badge/Un%20Probl%C3%A8me-ff0000?style=for-the-badge&logo=singlestore&labelColor=f2f2f2&logoColor=000000">
+        <img src="https://img.shields.io/badge/Un%20Probl%C3%A8me%20%3F-ff0000?style=for-the-badge&labelColor=f2f2f2">
     </a>
 </p>
 
