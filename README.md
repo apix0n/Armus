@@ -6,6 +6,9 @@
     <a href="https://apix0n.github.io/Armus">
         <img src="https://img.shields.io/badge/Site%20internet-009dff?style=for-the-badge&labelColor=f2f2f2">
     </a>
+    <a href="https://apix0n.github.io/Armus">
+        <img src="https://img.shields.io/badge/English%20website-009dff?style=for-the-badge&labelColor=f2f2f2">
+    </a>
 </p>
 
 __🌹 Armus est un projet hébergé sur GitHub créé avec des amis pour organiser tous les amogus personnalisés afin d'en faire une armée.__
@@ -21,6 +24,7 @@ __🌹 Armus est un projet hébergé sur GitHub créé avec des amis pour organi
     <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/10-contributeurs.png height=200 title="10 contributeurs!">
     <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/75-membres.png height=200 title="75 membres dans l'armée!">
     <img src="https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/100-commits.png" height="200" title="100 commits sur GitHub!"></a>
+    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/traduction.png height=200 title="Traduction du site">
 </p>
 
 ## ❓ Comment voir les personnages?
