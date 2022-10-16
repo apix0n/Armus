@@ -7,4 +7,6 @@ assignees: ''
 
 ---
 
-**Posez votre question ici:**
+# ❓ Question
+
+<!-- Insérez votre question sous ce trait -->
