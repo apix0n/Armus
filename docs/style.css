@@ -142,6 +142,18 @@ li {
   padding: 0;
 }
 
+/* Start languages colors */
+
+/* English */
+#one.color-en {
+  background: linear-gradient(145deg, #06002b 0%, #2a0383 35%, #0f00e0 100%);
+}
+
+.topback.color-en {
+  background: linear-gradient(145deg, #06002b 0%, #2a0383 35%, #0f00e0 100%);
+}
+/* End Languages colors */
+
 #one h1 {
   font-size: min(17.5vw, 185px);
   margin-top: 0;
