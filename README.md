@@ -6,7 +6,7 @@
     <a href="https://apix0n.github.io/Armus">
         <img src="https://img.shields.io/badge/Site%20internet-009dff?style=for-the-badge&labelColor=f2f2f2">
     </a>
-    <a href="https://apix0n.github.io/Armus">
+    <a href="https://apix0n.github.io/Armus/en">
         <img src="https://img.shields.io/badge/English%20website-009dff?style=for-the-badge&labelColor=f2f2f2">
     </a>
 </p>
