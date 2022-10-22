@@ -60,4 +60,10 @@ Le site a été transféré depuis https://github.com/Apix0n/ArmusWeb le 12 juil
     </a>
 </p>
 
+## ℹ️ Modification
+
+* Si vous voulez ajouter un personnage, regardez https://apix0n.github.io/Armus#personnage,
+* Si vous voulez faire d'autres modifications, regardez https://apix0n.github.io/Armus#problème,
+* Si vous voulez réutiliser ce projet, veuillez citer mon nom et celui du projet sur le README & le site.
+
 ### Créé par [Apix](https://github.com/Apix0n) avec ❤️
