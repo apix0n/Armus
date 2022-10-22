@@ -25,6 +25,7 @@ __🌹 Armus est un projet hébergé sur GitHub créé avec des amis pour organi
     <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/75-membres.png height=200 title="75 membres dans l'armée!">
     <img src="https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/100-commits.png" height="200" title="100 commits sur GitHub!"></a>
     <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/traduction.png height=200 title="Traduction du site">
+    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/100-membres.png height=200 title="100 membres dans l'armée! 🎊">
 </p>
 
 ## ❓ Comment voir les personnages?
