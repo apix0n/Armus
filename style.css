@@ -154,6 +154,15 @@ li {
 .topback.color-en {
   background: linear-gradient(145deg, #06002b 0%, #2a0383 35%, #0f00e0 100%);
 }
+
+/* Turkish */
+#one.color-tr {
+  background: linear-gradient(145deg, #720000 0%, #b30606 35%, #ff0000 100%);
+}
+
+.topback.color-tr {
+  background: linear-gradient(145deg, #720000 0%, #b30606 35%, #ff0000 100%);
+}
 /* End Languages colors */
 
 #one h1 {
@@ -288,3 +297,12 @@ blockquote {
 }
 
 /* navbar end */
+
+.langpick {
+  text-align: center;
+  font-size: 2em;
+}
+
+.langpick .used {
+  filter: grayscale(1);
+}
