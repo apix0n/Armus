@@ -147,22 +147,15 @@ li {
 /* Start languages colors */
 
 /* English */
-#one.color-en {
-  background: linear-gradient(145deg, #06002b 0%, #2a0383 35%, #0f00e0 100%);
-}
-
-.topback.color-en {
-  background: linear-gradient(145deg, #06002b 0%, #2a0383 35%, #0f00e0 100%);
+#one.color-en, .topback.color-en {
+  background: linear-gradient(145deg, #0f00e0 0%, #44017a 35%, #cf0202 100%);
 }
 
 /* Turkish */
-#one.color-tr {
-  background: linear-gradient(145deg, #720000 0%, #b30606 35%, #ff0000 100%);
+#one.color-tr, .topback.color-tr {
+  background: linear-gradient(145deg, #503a3a 0%, #bb3333 35%, #f52626 100%);
 }
 
-.topback.color-tr {
-  background: linear-gradient(145deg, #720000 0%, #b30606 35%, #ff0000 100%);
-}
 /* End Languages colors */
 
 #one h1 {
