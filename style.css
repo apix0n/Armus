@@ -11,7 +11,7 @@
   --ref: #fcc12c;
   --ref2: #5dadec;
   --ref3: #be1931;
-  --fnt-size: 20px;
+  --fnt-size: 18.5px;
   --scroll-size: 60px;
   --scroll-border-size: 6px;
   --table: #5c5c5c;
@@ -298,4 +298,8 @@ blockquote {
 
 .langpick .used {
   filter: grayscale(1);
+}
+
+.dotlined {
+  border-bottom: 2px var(--table) dashed;
 }
