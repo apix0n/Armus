@@ -1,5 +1,5 @@
 <p align=center>
-    <img src="https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/Armus-icon.png" height=175>
+    <img src="https://apix0n.github.io/Armus/other/Armus-icon.png" height=175>
 </p>
 
 <p align=center>
@@ -16,16 +16,17 @@ __🌹 Armus est un projet hébergé sur GitHub créé avec des amis pour organi
 ## 🏅 Médailles
 
 <p align=center>
-    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/creation.png height=200 title="Création du projet">
-    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/25-membres.png height=200 title="25 membres dans l'armée!">
-    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/certif.png height=200 title="Projet qualifié d'art par un expert!">
-    <img src="https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/site.png" height=200 title="Ouverture du site!">
-    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/50-membres.png height=200 title="50 membres dans l'armée!">
-    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/10-contributeurs.png height=200 title="10 contributeurs!">
-    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/75-membres.png height=200 title="75 membres dans l'armée!">
-    <img src="https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/100-commits.png" height="200" title="100 commits sur GitHub!"></a>
-    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/traduction.png height=200 title="Traduction du site">
-    <img src=https://raw.githubusercontent.com/Apix0n/Armus/susbranch/other/achievements/100-membres.png height=200 title="100 membres dans l'armée! 🎊">
+    <img src="https://apix0n.github.io/Armus/other/achievements/creation.png" height=200 title="Création du projet">
+    <img src="https://apix0n.github.io/Armus/other/achievements/25-membres.png" height=200 title="25 membres dans l'armée!">
+    <img src="https://apix0n.github.io/Armus/other/achievements/certif.png" height=200 title="Projet qualifié d'art par un expert!">
+    <img src="https://apix0n.github.io/Armus/other/achievements/site.png" height=200 title="Ouverture du site!">
+    <img src="https://apix0n.github.io/Armus/other/achievements/50-membres.png" height=200 title="50 membres dans l'armée!">
+    <img src="https://apix0n.github.io/Armus/other/achievements/10-contributeurs.png" height=200 title="10 artistes!">
+    <img src="https://apix0n.github.io/Armus/other/achievements/75-membres.png" height=200 title="75 membres dans l'armée!">
+    <img src="https://apix0n.github.io/Armus/other/achievements/100-commits.png" height="200" title="100 commits sur GitHub!"></a>
+    <img src="https://apix0n.github.io/Armus/other/achievements/traduction.png" height=200 title="Traduction du site">
+    <img src="https://apix0n.github.io/Armus/other/achievements/100-membres.png" height=200 title="100 membres dans l'armée! 🎊">
+    <img src="https://apix0n.github.io/Armus/other/achievements/20-contributeurs.png" height=200 title="20 artistes!">
 </p>
 
 ## ❓ Comment voir les personnages?

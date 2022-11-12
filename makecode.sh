@@ -34,3 +34,4 @@ printf "<tr>\n<td>$codename</td>\n<td><p><img src=\"../files/$charactername.jpeg
 printf "$refname" >> temp/$charactername-$isref.txt
 
 echo "Exported to temp/$charactername-$isref.txt"
+echo "There are actually $(ls files | wc -l) characters in the /files folder."
