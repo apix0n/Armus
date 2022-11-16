@@ -37,14 +37,16 @@ Merci de vous rendre sur https://apix0n.github.io/Armus ou de cliquer sur le bou
 
 ```
 Apix0n/Armus
-├───.github                   <--- Fichiers de GitHub
-│   └───ISSUE_TEMPLATE
-├───docs                      <--- Fichiers du site Internet
-├───files                     <--- Les personnages
-└───other
-    ├───achievements          <--- Les médailles (en .png)
-    ├───achievements-psd      <--- Les médailles (en .psd)
-    └───creation-personnages  <--- Fichiers de création des personnages
+├── .github                     <--- Fichiers de GitHub
+│   └── ISSUE_TEMPLATE
+├── en                          <--- Site en Anglais
+├── files                       <--- Image des personnages (en .jpeg)
+├── fr                          <--- Site en Français
+├── other
+│   ├── achievements            <--- Médailles (en .png)
+│   ├── achievements-psd        <--- Médailles (en .psd)
+│   └── creation-personnages    <--- Fichiers pour la création des personnages
+└── tr
 ```
 
 ## 🛡 Archive
