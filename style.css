@@ -130,6 +130,10 @@ li {
   font-size: 30px;
 }
 
+.normalfontsize {
+  font-size: 1em
+}
+
 #one {
   color: #ffffff;
   background: linear-gradient(145deg, #2b0000 0%, #790909 35%, #ff0000 100%);
