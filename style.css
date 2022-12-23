@@ -15,6 +15,8 @@
   --scroll-size: 60px;
   --scroll-border-size: 6px;
   --table: #5c5c5c;
+  --btn-border: #000000;
+  --link-color: #518ef0;
 }
 
 html {
@@ -22,7 +24,7 @@ html {
 }
 
 body {
-  font-family: 'Montserrat', serif;
+  font-family: Montserrat, serif, Arial, Helvetica, sans-serif;
   font-size: var(--fnt-size);
   color: var(--text);
   background-color: var(--bg);
@@ -35,6 +37,7 @@ body {
     --bg: #0d1117;
     --code: #24292f;
     --ref: #ffcc4d;
+    --btn-border: #ffffff;
     color-scheme: dark;
   }
 }
@@ -48,7 +51,7 @@ body {
 }
 
 a {
-  color: #518ef0;
+  color: var(--link-color);
 }
 
 img {
@@ -89,6 +92,12 @@ td {
 .summary a {
   text-decoration: none;
   color: var(--text);
+  transition: color 0.25s;
+}
+
+.summary a:hover {
+  transition: color 0.25s;
+  color: var(--ref);
 }
 
 code {
@@ -105,25 +114,28 @@ li {
   line-height: 1.5em;
 }
 
-.ref {
+.ref, .ref2, .ref3 {
   text-decoration: none;
-  color: var(--ref);
   font-weight: 600;
-  text-shadow: 0 0 10px var(--ref);
+  text-shadow: 0 0 10px;
+  transition: text-shadow 0.5s;
+}
+
+.ref {
+  color: var(--ref);
 }
 
 .ref2 {
-  text-decoration: none;
   color: var(--ref2);
-  font-weight: 600;
-  text-shadow: 0 0 10px var(--ref2);
 }
 
 .ref3 {
-  text-decoration: none;
   color: var(--ref3);
-  font-weight: 600;
-  text-shadow: 0 0 10px var(--ref3);
+}
+
+.ref:hover, .ref2:hover, .ref3:hover  {
+  transition: text-shadow 0.5s;
+  text-shadow: 0 0 20px;
 }
 
 .material-icons-round {
@@ -136,6 +148,7 @@ li {
 
 #one {
   color: #ffffff;
+  background: #790909;
   background: linear-gradient(145deg, #2b0000 0%, #790909 35%, #ff0000 100%);
   align-items: center;
   text-align: center;
@@ -146,21 +159,35 @@ li {
   line-height: .1em;
   margin: 0;
   padding: 0;
+  background-size: 400% 400%;
+  animation: animated-gradient 10s ease infinite;
 }
 
 /* Start languages colors */
 
 /* English */
 #one.color-en, .topback.color-en {
+  background: #0f00e0;
   background: linear-gradient(145deg, #0f00e0 0%, #44017a 35%, #cf0202 100%);
+  background-size: 400% 400%; 
+  animation: animated-gradient 10s ease infinite;
 }
 
 /* Turkish */
 #one.color-tr, .topback.color-tr {
+  background: #bb3333;
   background: linear-gradient(145deg, #503a3a 0%, #bb3333 35%, #f52626 100%);
+  background-size: 400% 400%; 
+  animation: animated-gradient 10s ease infinite;
 }
 
 /* End Languages colors */
+
+@keyframes animated-gradient {
+  0% {background-position: 0% 50%}
+  50% {background-position: 100% 50%}
+  100% {background-position: 0% 50%}
+}
 
 #one h1 {
   font-size: min(17.5vw, 185px);
@@ -175,6 +202,12 @@ li {
   border-radius: var(--scroll-size);
   color: white;
   font-size: var(--scroll-size);
+  transition: transform 0.5s;
+}
+
+.scroll:hover {
+  transition: transform 0.5s;
+  transform: scale(1.05);
 }
 
 .svgicon {
@@ -287,10 +320,12 @@ blockquote {
 .navbar ul li a {
   text-decoration: none;
   color: var(--text);
+  transition: color 0.25s;
 }
 
 .navbar ul li a:hover {
-  color: #518ef0;
+  transition: color 0.25s;
+  color: var(--link-color);
 }
 
 /* navbar end */
@@ -304,6 +339,98 @@ blockquote {
   filter: grayscale(1);
 }
 
+.langpick a img {
+  transition: transform 0.5s;
+}
+
+.langpick a:hover img {
+  transition: transform 0.5s;
+  transform: scale(1.05);
+}
+
 .dotlined {
   border-bottom: 2px var(--table) dashed;
+}
+
+.styled-btn {
+  border: 3px solid var(--btn-border);
+  margin: auto;
+  border-radius: 1.5em;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 18.5px;
+  margin-bottom: 18.5px;
+  transition: box-shadow 0.5s, transform 0.5s;
+}
+
+.styled-btn img {
+  height: 1em;
+  width: 1em;
+  display: inline-flex;
+  align-self: center;
+}
+
+.styled-btn div {
+  font-weight: 500;
+  font-size: .95em;
+  padding-left: .3em;
+}
+
+.styled-btn:hover {
+  transition: box-shadow 0.5s, transform 0.5s;
+  box-shadow: 0 0 10px var(--btn-border);
+  transform: scale(1.05);
+}
+
+.gh-button {
+  width: 10em;
+  height: 2em;
+}
+
+.red-btn {
+  color: #ffffff;
+  background: linear-gradient(145deg, #2b0000 0%, #790909 35%, #ff0000 100%);
+}
+
+.text-btn {
+  width: fit-content;
+}
+
+.text-btn div {
+  margin: 5px;
+  margin-right: 10px;
+}
+
+.nounderline {
+  text-decoration: none
+}
+
+.remerciements a {
+  color: inherit;
+}
+
+.remerciements code a {
+  color: var(--link-color);
+}
+
+.remerciements li:target {
+  animation: target-fade 6s 1;
+}
+
+@keyframes target-fade {
+  0% {
+    background-color: #455b6c;
+  }
+
+  100% {
+    background-color: var(--bg)
+  }
+}
+
+.members-table tbody tr td a span.material-icons-round {
+  color: var(--ref);
 }
