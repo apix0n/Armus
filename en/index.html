@@ -4,7 +4,7 @@
   <head>
     <title>Armus EN</title>
     <meta charset="utf-8">
-    <meta name="description" content="Armus - A GitHub project to organize all the custom amogus into an army!">
+    <meta name="description" content="Armus - A project to organize all the custom amogus into an army!">
     <link rel="stylesheet" href="../style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
@@ -15,21 +15,30 @@
     <meta name="application-name" content="Armus">
     <meta name="apple-mobile-web-app-title" content="Armus">
     <meta property="og:image" content="../social.png">
-    <meta name="theme-color" content="#06002b">
-    <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+    <meta name="theme-color" content="#2b0000">
+    <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous" async></script>
   </head>
 
   <body>
     <script>
-      window.onload = function () {
-        twemoji.parse(document.body,
-          { folder: 'svg', ext: '.svg' }
-        );
+      console.log('%cArmus', 'color: #ff0000; font-size: 55px')
+      console.log("Typing here may be dangerous, so be careful and DON'T paste scripts from strangers on the internet.")
+
+      if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+        console.log("Twemoji: Device is a mobile, ignoring loading.");
+      }
+      else {
+        window.onload = function () {
+          console.log("Twemoji: Device is not a mobile, loading emojis.");
+          twemoji.parse(document.body,
+            { folder: 'svg', ext: '.svg' }
+          );
+        }
       }
     </script>
     <section id="one" class="color-en">
-      <h1>Armus <img class="svgicon" src="../armus-icon.svg"></h1>
-      <h2 style="margin-bottom: 5px">🎊 100 MEMBERS 🎊</h2>
+      <h1>Armus <img class="svgicon" src="../armus-icon.svg" alt="Among Us character"></h1>
+      <h2 style="margin-bottom: 10px;">🎊 100 MEMBERS 🎊</h2>
       <h2>English</h2>
       <a style="padding-top: 20px;" href="#two">
         <span class="material-icons-round scroll">keyboard_arrow_down</span>
@@ -38,1000 +47,1003 @@
     <section id="two">
       <div class="langpick goldlink"><a href="../fr">🇫🇷</a> • <span class="used">🇬🇧</span> • <a href="../tr">🇹🇷</a></div>
       <noscript>
-        <h4 align="center"><span class="material-icons-round normalfontsize">info</span> Some emojis may not be
-          available. To see them all, enable JavaScript.</h4>
+        <h4 align="center"><span class="material-icons-round normalfontsize">info</span> Some emojis may not be available. To see them all, enable JavaScript.</h4>
       </noscript>
       <p align=center class="line-image">
-        <img src="../other/Armus-line.jpg">
+        <img src="../other/Armus-line.jpg" alt="Picture of an Among Us character looking at the screen.">
       </p>
-      <table class="summary" align="center">
-        <tbody>
+
+      <!-- Table of contents -->
+      <div id="content">
+        <table class="summary" align="center">
+          <tbody>
+            <thead>
+              <th>
+                <h2>📁 Table of contents</h2>
+              </th>
+            </thead>
+            <tr>
+              <td><a href="#informations">📝 Informations</a></td>
+            </tr>
+            <tr>
+              <td><a href="#medals">🏅 Medals</a></td>
+            </tr>
+            <tr>
+              <td><a href="#army">🔪 The army</a></td>
+            </tr>
+            <tr>
+              <td><a href="#problem">❓ A problem ?</a></td>
+            </tr>
+            <tr>
+              <td><a href="#character">🎨 Create a character</a></td>
+            </tr>
+            <tr>
+              <td><a href="#acknowledgements">⭐ Acknowledgements</a></td>
+            </tr>
+            <tr>
+              <td><a href="#projects">💿 Used projects</a></td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="spaceline"></div>
+      </div>
+
+      <!-- Informations -->
+      <div id="informations">
+        <h2>📝 Informations</h2>
+        <div align="center"><b>Armus is a project hosted on GitHub created with friends to organize all custom amogus into an army.</b></div>
+        <a class="nounderline" href="https://github.com/Apix0n/Armus">
+          <div class="styled-btn red-btn gh-button">
+            <img src="../github-icon.svg" alt="GitHub icon">
+            <div>View on GitHub</div>
+          </div>
+        </a>
+        <div class="spaceline"></div>
+      </div>
+
+      <!-- Medals -->
+      <div id="medals">
+        <h2>🏅 Medals</h2>
+        <p align="center">
+          <img src="../other/achievements/creation.png" height=200 title="Creation of the project">
+          <img src="../other/achievements/25-membres.png" height=200 title="25 members in the army!">
+          <img src="../other/achievements/certif.png" height=200 title="Project qualified as art by an expert!">
+          <img src="../other/achievements/site.png" height=200 title="Opening of the website!">
+          <img src="../other/achievements/50-membres.png" height=200 title="50 members in the army!">
+          <img src=../other/achievements/10-contributeurs.png height=200 title="10 artists!">
+          <img src=../other/achievements/75-membres.png height=200 title="75 members in the army!">
+          <img src="../other/achievements/100-commits.png" height="200" title="100 commits on GitHub!">
+          <img src=../other/achievements/traduction.png height=200 title="Website's translation">
+          <img src=../other/achievements/100-membres.png height=200 title="100 members in the army! 🎊">
+          <img src=../other/achievements/20-contributeurs.png height=200 title="20 artists!">
+        </p>
+        <div class="spaceline"></div>
+      </div>
+
+      <!-- The army -->
+      <div id="army">
+        <h2>🔪 The army</h2>
+        <p align="center">Total number of members: <b class="ref">117</b></p>
+        <p align="center">Clicking on a <b class="ref">golden</b> link will send you to the <code>🌟 Acknowledgements</code> of the artist.</p>
+        <table class="members-table" align=center>
           <thead>
-            <th>
-              <h2>📁 Table of contents</h2>
-            </th>
+            <tr>
+              <th>Name</th>
+              <th>Image</th>
+              <th>Link</th>
+            </tr>
           </thead>
-          <tr>
-            <td><a href="#informations">📝 Informations</a></td>
-          </tr>
-          <tr>
-            <td><a href="#médailles">🏅 Medals</a></td>
-          </tr>
-          <tr>
-            <td><a href="#armée">🔪 The army</a></td>
-          </tr>
-          <tr>
-            <td><a href="#problème">❓ A problem ?</a></td>
-          </tr>
-          <tr>
-            <td><a href="#personnage">🎨 Create a character</a></td>
-          </tr>
-          <tr>
-            <td><a href="#remerciements">⭐ Acknowledgements</a></td>
-          </tr>
-          <tr>
-            <td><a href="#projets">💿 Used projects</a></td>
-          </tr>
-        </tbody>
-      </table>
-      <div class="spaceline"></div>
-      <h2 id="informations">📝 Informations</h2>
-      <h4 align="center">Armus is a GitHub hosted project created with friends to organize all custom amogus into an
-        army.
-      </h4>
-      <p align="center"><a href="https://github.com/Apix0n/Armus"><img
-               src="https://img.shields.io/badge/See%20on%20GitHub-ff0000?style=for-the-badge&logo=github&labelColor=f2f2f2&logoColor=000000"></a>
-      </p>
-      <div class="spaceline"></div>
-      <h2 id="médailles">🏅 Medals</h2>
-      <p align="center">
-        <img src="../other/achievements/creation.png" height=200 title="Creation of the project">
-        <img src="../other/achievements/25-membres.png" height=200 title="25 members in the army!">
-        <img src="../other/achievements/certif.png" height=200 title="Project qualified as art by an expert!">
-        <img src="../other/achievements/site.png" height=200 title="Opening of the website!">
-        <img src="../other/achievements/50-membres.png" height=200 title="50 members in the army!">
-        <img src=../other/achievements/10-contributeurs.png height=200 title="10 artists!">
-        <img src=../other/achievements/75-membres.png height=200 title="75 members in the army!">
-        <img src="../other/achievements/100-commits.png" height="200" title="100 commits on GitHub!">
-        <img src=../other/achievements/traduction.png height=200 title="Website's translation">
-        <img src=../other/achievements/100-membres.png height=200 title="100 members in the army! 🎊">
-        <img src=../other/achievements/20-contributeurs.png height=200 title="20 artists!">
-      </p>
-      <div class="spaceline"></div>
-      <h2 id="armée">🔪 The army</h2>
-      <p align="center">Total number of members: <b class=ref>117</b></p>
-      <p align="center">Clicking on the <b class="ref">golden</b> links will send you to
-        the <code>🌟 Acknowledgements</code>.</p>
-      <table class="members-table" align=center>
-        <thead>
-          <tr>
-            <th>Name</th>
-            <th>Image</th>
-            <th>Link</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><a class=ref href=#remerciements>abatus</a></td>
-            <td>
-              <p><img src=../files/abatus.jpeg></p>
-            </td>
-            <td><a href="../files/abatus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>abigus</td>
-            <td>
-              <p><img src=../files/abigus.jpeg></p>
-            </td>
-            <td><a href="../files/abigus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>ahmonzbobus</a></td>
-            <td>
-              <p><img src="../files/ahmonzbobus.jpeg"></p>
-            </td>
-            <td><a href="../files/ahmonzbobus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>airmogus</td>
-            <td>
-              <p><img src=../files/airmogus.jpeg></p>
-            </td>
-            <td><a href="../files/airmogus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>alongus</td>
-            <td>
-              <p><img src="../files/alongus.jpeg"></p>
-            </td>
-            <td><a href="../files/alongus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>amelioratus</td>
-            <td>
-              <p><img src=../files/amelioratus.jpeg></p>
-            </td>
-            <td><a href="../files/amelioratus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>amoga</a></td>
-            <td>
-              <p><img src=../files/amoga.jpeg></p>
-            </td>
-            <td><a href="../files/amoga.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>amogus-poli</a></td>
-            <td>
-              <p><img src=../files/amogus-poli.jpeg></p>
-            </td>
-            <td><a href="../files/amogus-poli.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>amogus</td>
-            <td>
-              <p><img src=../files/amogus.jpeg></p>
-            </td>
-            <td><a href="../files/amogus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>amosus</a></td>
-            <td>
-              <p><img src=../files/amosus.jpeg></p>
-            </td>
-            <td><a href="../files/amosus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>angelus</a></td>
-            <td>
-              <p><img src="../files/angelus.jpeg"></p>
-            </td>
-            <td><a href="../files/angelus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>aplatus</td>
-            <td>
-              <p><img src=../files/aplatus.jpeg></p>
-            </td>
-            <td><a href="../files/aplatus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>applus</a></td>
-            <td>
-              <p><img src="../files/applus.jpeg"></p>
-            </td>
-            <td><a href="../files/applus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>arabus</a></td>
-            <td>
-              <p><img src=../files/arabus.jpeg></p>
-            </td>
-            <td><a href="../files/arabus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>asmolgus</td>
-            <td>
-              <p><img src=../files/asmolgus.jpeg></p>
-            </td>
-            <td><a href="../files/asmolgus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>asus</a></td>
-            <td>
-              <p><img src="../files/asus.jpeg"></p>
-            </td>
-            <td><a href="../files/asus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>babacus</a></td>
-            <td>
-              <p><img src=../files/babacus.jpeg></p>
-            </td>
-            <td><a href="../files/babacus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>bakacutea</a></td>
-            <td>
-              <p><img src=../files/bakacutea.jpeg></p>
-            </td>
-            <td><a href="../files/bakacutea.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>bananus</a></td>
-            <td>
-              <p><img src=../files/bananus.jpeg></p>
-            </td>
-            <td><a href="../files/bananus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>bitmojus</a></td>
-            <td>
-              <p><img src="../files/bitmojus.jpeg"></p>
-            </td>
-            <td><a href="../files/bitmojus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>blackus</a></td>
-            <td>
-              <p><img src=../files/blackus.jpeg></p>
-            </td>
-            <td><a href="../files/blackus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>bushus</td>
-            <td>
-              <p><img src=../files/bushus.jpeg></p>
-            </td>
-            <td><a href="../files/bushus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>cactus</td>
-            <td>
-              <p><img src=../files/cactus.jpeg></p>
-            </td>
-            <td><a href="../files/cactus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>capturus</a></td>
-            <td>
-              <p><img src=../files/capturus.jpeg></p>
-            </td>
-            <td><a href="../files/capturus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>chaplinus</a></td>
-            <td>
-              <p><img src=../files/chaplinus.jpeg></p>
-            </td>
-            <td><a href="../files/chaplinus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>chinus</a></td>
-            <td>
-              <p><img src=../files/chinus.jpeg></p>
-            </td>
-            <td><a href="../files/chinus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>cloudus</td>
-            <td>
-              <p><img src=../files/cloudus.jpeg></p>
-            </td>
-            <td><a href="../files/cloudus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>coca-colus</a></td>
-            <td>
-              <p><img src=../files/coca-colus.jpeg></p>
-            </td>
-            <td><a href="../files/coca-colus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>cosmonus</td>
-            <td>
-              <p><img src=../files/cosmonus.jpeg></p>
-            </td>
-            <td><a href="../files/cosmonus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>crashus</a></td>
-            <td>
-              <p><img src="../files/crashus.jpeg"></p>
-            </td>
-            <td><a href="../files/crashus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>cuistus</a></td>
-            <td>
-              <p><img src=../files/cuistus.jpeg></p>
-            </td>
-            <td><a href="../files/cuistus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>cupidus</a></td>
-            <td>
-              <p><img src="../files/cupidus.jpeg"></p>
-            </td>
-            <td><a href="../files/cupidus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>demonus</a></td>
-            <td>
-              <p><img src=../files/demonus.jpeg></p>
-            </td>
-            <td><a href="../files/demonus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>diamonda</a></td>
-            <td>
-              <p><img src="../files/diamonda.jpeg"></p>
-            </td>
-            <td><a href="../files/diamonda.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>dora</a></td>
-            <td>
-              <p><img src=../files/dora.jpeg></p>
-            </td>
-            <td><a href="../files/dora.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>dreamus</td>
-            <td>
-              <p><img src="../files/dreamus.jpeg"></p>
-            </td>
-            <td><a href="../files/dreamus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>drogueus</a></td>
-            <td>
-              <p><img src=../files/drogueus.jpeg></p>
-            </td>
-            <td><a href="../files/drogueus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>eclairus</a></td>
-            <td>
-              <p><img src=../files/eclairus.jpeg></p>
-            </td>
-            <td><a href="../files/eclairus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>educatus</a></td>
-            <td>
-              <p><img src=../files/educatus.jpeg></p>
-            </td>
-            <td><a href="../files/educatus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>fishus</td>
-            <td>
-              <p><img src=../files/fishus.jpeg></p>
-            </td>
-            <td><a href="../files/fishus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>flippus</td>
-            <td>
-              <p><img src=../files/flippus.jpeg></p>
-            </td>
-            <td><a href="../files/flippus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>galaxus</a></td>
-            <td>
-              <p><img src=../files/galaxus.jpeg></p>
-            </td>
-            <td><a href="../files/galaxus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>gameus</a></td>
-            <td>
-              <p><img src=../files/gameus.jpeg></p>
-            </td>
-            <td><a href="../files/gameus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>generalus</a></td>
-            <td>
-              <p><img src=../files/generalus.jpeg></p>
-            </td>
-            <td><a href="../files/generalus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>geometrus</td>
-            <td>
-              <p><img src=../files/geometrus.jpeg></p>
-            </td>
-            <td><a href="../files/geometrus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>glasus</td>
-            <td>
-              <p><img src="../files/glasus.jpeg"></p>
-            </td>
-            <td><a href="../files/glasus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>goblinus</a></td>
-            <td>
-              <p><img src=../files/goblinus.jpeg></p>
-            </td>
-            <td><a href="../files/goblinus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>gokus</a></td>
-            <td>
-              <p><img src=../files/gokus.jpeg></p>
-            </td>
-            <td><a href="../files/gokus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>grogus</a></td>
-            <td>
-              <p><img src=../files/grogus.jpeg></p>
-            </td>
-            <td><a href="../files/grogus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>hamburgus</a></td>
-            <td>
-              <p><img src=../files/hamburgus.jpeg></p>
-            </td>
-            <td><a href="../files/hamburgus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>helicoptus</a></td>
-            <td>
-              <p><img src=../files/helicoptus.jpeg></p>
-            </td>
-            <td><a href="../files/helicoptus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>icecreamus</a></td>
-            <td>
-              <p><img src=../files/icecreamus.jpeg></p>
-            </td>
-            <td><a href="../files/icecreamus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>impostor</a></td>
-            <td>
-              <p><img src=../files/impostor.jpeg></p>
-            </td>
-            <td><a href="../files/impostor.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>infirmus</a></td>
-            <td>
-              <p><img src=../files/infirmus.jpeg></p>
-            </td>
-            <td><a href="../files/infirmus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>intellus</a></td>
-            <td>
-              <p><img src=../files/intellus.jpeg></p>
-            </td>
-            <td><a href="../files/intellus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>invisiblus</a></td>
-            <td>
-              <p><img src=../files/invisiblus.jpeg></p>
-            </td>
-            <td><a href="../files/invisiblus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>japnessa</a></td>
-            <td>
-              <p><img src=../files/japnessa.jpeg></p>
-            </td>
-            <td><a href="../files/japnessa.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>killus</a></td>
-            <td>
-              <p><img src=../files/killus.jpeg></p>
-            </td>
-            <td><a href="../files/killus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>laserus</a></td>
-            <td>
-              <p><img src=../files/laserus.jpeg></p>
-            </td>
-            <td><a href="../files/laserus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>livrus</a></td>
-            <td>
-              <p><img src=../files/livrus.jpeg></p>
-            </td>
-            <td><a href="../files/livrus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>luffus</a></td>
-            <td>
-              <p><img src=../files/luffus.jpeg></p>
-            </td>
-            <td><a href="../files/luffus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>marius</a></td>
-            <td>
-              <p><img src=../files/marius.jpeg></p>
-            </td>
-            <td><a href="../files/marius.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>maya</a></td>
-            <td>
-              <p><img src="../files/maya.jpeg"></p>
-            </td>
-            <td><a href="../files/maya.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>michael-jacksus</a></td>
-            <td>
-              <p><img src=../files/michael-jacksus.jpeg>
-              </p>
-            </td>
-            <td><a href="../files/michael-jacksus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>musclus</a></td>
-            <td>
-              <p><img src=../files/musclus.jpeg></p>
-            </td>
-            <td><a href="../files/musclus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>mysterus</a></td>
-            <td>
-              <p><img src=../files/mysterus.jpeg></p>
-            </td>
-            <td><a href="../files/mysterus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>narutus</a></td>
-            <td>
-              <p><img src=../files/narutus.jpeg></p>
-            </td>
-            <td><a href="../files/narutus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>naturus</a></td>
-            <td>
-              <p><img src=../files/naturus.jpeg></p>
-            </td>
-            <td><a href="../files/naturus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>ninjsus</a></td>
-            <td>
-              <p><img src=../files/ninjsus.jpeg></p>
-            </td>
-            <td><a href="../files/ninjsus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>nutellus</a></td>
-            <td>
-              <p><img src=../files/nutellus.jpeg></p>
-            </td>
-            <td><a href="../files/nutellus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>nymarus</a></td>
-            <td>
-              <p><img src=../files/nymarus.jpeg></p>
-            </td>
-            <td><a href="../files/nymarus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>pacmanus</a></td>
-            <td>
-              <p><img src="../files/pacmanus.jpeg"></p>
-            </td>
-            <td><a href="../files/pacmanus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>paintus</a></td>
-            <td>
-              <p><img src="../files/paintus.jpeg"></p>
-            </td>
-            <td><a href="../files/paintus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>panterus</a></td>
-            <td>
-              <p><img src=../files/panterus.jpeg></p>
-            </td>
-            <td><a href="../files/panterus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>papillus</a></td>
-            <td>
-              <p><img src="../files/papillus.jpeg"></p>
-            </td>
-            <td><a href="../files/papillus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>parisus</td>
-            <td>
-              <p><img src=../files/parisus.jpeg></p>
-            </td>
-            <td><a href="../files/parisus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>peppus</a></td>
-            <td>
-              <p><img src=../files/peppus.jpeg></p>
-            </td>
-            <td><a href="../files/peppus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>perdus</a></td>
-            <td>
-              <p><img src=../files/perdus.jpeg></p>
-            </td>
-            <td><a href="../files/perdus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>pikachus</a></td>
-            <td>
-              <p><img src=../files/pikachus.jpeg></p>
-            </td>
-            <td><a href="../files/pikachus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>piratus</a></td>
-            <td>
-              <p><img src=../files/piratus.jpeg></p>
-            </td>
-            <td><a href="../files/piratus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>pokebollus</a></td>
-            <td>
-              <p><img src=../files/pokebollus.jpeg></p>
-            </td>
-            <td><a href="../files/pokebollus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>poopus</td>
-            <td>
-              <p><img src=../files/poopus.jpeg></p>
-            </td>
-            <td><a href="../files/poopus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>potatus</td>
-            <td>
-              <p><img src="../files/potatus.jpeg"></p>
-            </td>
-            <td><a href="../files/potatus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>poulus</a></td>
-            <td>
-              <p><img src=../files/poulus.jpeg></p>
-            </td>
-            <td><a href="../files/poulus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>questionus</a></td>
-            <td>
-              <p><img src="../files/questionus.jpeg"></p>
-            </td>
-            <td><a href="../files/questionus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>racaillus</a></td>
-            <td>
-              <p><img src=../files/racaillus.jpeg></p>
-            </td>
-            <td><a href="../files/racaillus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>rainbowus</a></td>
-            <td>
-              <p><img src=../files/rainbowus.jpeg></p>
-            </td>
-            <td><a href="../files/rainbowus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>robotus</a></td>
-            <td>
-              <p><img src=../files/robotus.jpeg></p>
-            </td>
-            <td><a href="../files/robotus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>rockus</a></td>
-            <td>
-              <p><img src=../files/rockus.jpeg></p>
-            </td>
-            <td><a href="../files/rockus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>roitus</a></td>
-            <td>
-              <p><img src=../files/roitus.jpeg></p>
-            </td>
-            <td><a href="../files/roitus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>seinsus</a></td>
-            <td>
-              <p><img src=../files/seinsus.jpeg></p>
-            </td>
-            <td><a href="../files/seinsus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>shapeshifter</td>
-            <td>
-              <p><img src=../files/shapeshifter.jpeg></p>
-            </td>
-            <td><a href="../files/shapeshifter.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>shrekus</a></td>
-            <td>
-              <p><img src=../files/shrekus.jpeg></p>
-            </td>
-            <td><a href="../files/shrekus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>sleepus</a></td>
-            <td>
-              <p><img src=../files/sleepus.jpeg></p>
-            </td>
-            <td><a href="../files/sleepus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>sofianus</a></td>
-            <td>
-              <p><img src=../files/sofianus.jpeg></p>
-            </td>
-            <td><a href="../files/sofianus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>spidermanus</a></td>
-            <td>
-              <p><img src=../files/spidermanus.jpeg></p>
-            </td>
-            <td><a href="../files/spidermanus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>stickmus</a></td>
-            <td>
-              <p><img src=../files/stickmus.jpeg></p>
-            </td>
-            <td><a href="../files/stickmus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>sugoma</td>
-            <td>
-              <p><img src=../files/sugoma.jpeg></p>
-            </td>
-            <td><a href="../files/sugoma.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>superherus</a></td>
-            <td>
-              <p><img src="../files/superherus.jpeg"></p>
-            </td>
-            <td><a href="../files/superherus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>tchoupius</a></td>
-            <td>
-              <p><img src=../files/tchoupius.jpeg></p>
-            </td>
-            <td><a href="../files/tchoupius.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>the-creatorus</a></td>
-            <td>
-              <p><img src=../files/the-creatorus.jpeg>
-              </p>
-            </td>
-            <td><a href="../files/the-creatorus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>theamosus78</a></td>
-            <td>
-              <p><img src=../files/theamosus78.jpeg></p>
-            </td>
-            <td><a href="../files/theamosus78.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>thugus</a></td>
-            <td>
-              <p><img src=../files/thugus.jpeg></p>
-            </td>
-            <td><a href="../files/thugus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>toastus</td>
-            <td>
-              <p><img src=../files/toastus.jpeg></p>
-            </td>
-            <td><a href="../files/toastus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>tornadus</a></td>
-            <td>
-              <p><img src=../files/tornadus.jpeg></p>
-            </td>
-            <td><a href="../files/tornadus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>turkus</a></td>
-            <td>
-              <p><img src=../files/turkus.jpeg></p>
-            </td>
-            <td><a href="../files/turkus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>uranus</a></td>
-            <td>
-              <p><img src=../files/uranus.jpeg></p>
-            </td>
-            <td><a href="../files/uranus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>vampirus</a></td>
-            <td>
-              <p><img src=../files/vampirus.jpeg></p>
-            </td>
-            <td><a href="../files/vampirus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>vegetus</a></td>
-            <td>
-              <p><img src=../files/vegetus.jpeg></p>
-            </td>
-            <td><a href="../files/vegetus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>virus</td>
-            <td>
-              <p><img src=../files/virus.jpeg></p>
-            </td>
-            <td><a href="../files/virus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>voitus</a></td>
-            <td>
-              <p><img src="../files/voitus.jpeg"></p>
-            </td>
-            <td><a href="../files/voitus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td>waterus</td>
-            <td>
-              <p><img src=../files/waterus.jpeg></p>
-            </td>
-            <td><a href="../files/waterus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>werbrus</a></td>
-            <td>
-              <p><img src=../files/werbrus.jpeg></p>
-            </td>
-            <td><a href="../files/werbrus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>wizardus</a></td>
-            <td>
-              <p><img src=../files/wizardus.jpeg></p>
-            </td>
-            <td><a href="../files/wizardus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>xdsus</a></td>
-            <td>
-              <p><img src=../files/xdsus.jpeg></p>
-            </td>
-            <td><a href="../files/xdsus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>yoyosus</a></td>
-            <td>
-              <p><img src=../files/yoyosus.jpeg></p>
-            </td>
-            <td><a href="../files/yoyosus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-          <tr>
-            <td><a class=ref href=#remerciements>zorus</a></td>
-            <td>
-              <p><img src="../files/zorus.jpeg"></p>
-            </td>
-            <td><a href="../files/zorus.jpeg"><span class="material-icons-round">link</span></a></td>
-          </tr>
-        </tbody>
-      </table>
-      <div class="spaceline"></div>
-      <h2 id="problème">❓ A problem ?</h2>
-      <p>If:</p>
-      <ul>
-        <li> you want to improve the project, </li>
-        <li> you want to request a character name change, </li>
-        <li> you found a character two times, </li>
-        <li> you have a question, </li>
-        <li> you want to delete a character, </li>
-      </ul>
-      <p>Please create an issue <a href="https://github.com/Apix0n/Armus/issues/new/choose" target="_blank">here</a> by
-        selecting the right template.</p>
-      <div class="spaceline"></div>
-      <h2 id="personnage">🎨 Create a character</h2>
-      <p>In order to create a character without making mistakes, to have the necessary files and send it in the Armus,
-        click on
-        the link below to open the guide.</p>
-      <p align="center"><a href="personnage.html">The guide: How to create a character?</a></p>
-      <div class="spaceline"></div>
-      <h2 id="remerciements">🌟 Acknowledgements</h2>
-      <p>Thanks to the <b class="ref">20</b> artists:</p>
-      <ul class="remerciements">
-        <li><b class="ref2">💎 Apix</b> (me) for all the characters with the white name,</li>
-        <li><b class="ref2">💎 Chus</b> who, in addition to being the person I had the idea with, created
-          <code>amoga</code>,
-          <code>amogus-poli</code>, <code>bananus</code>, <code>blackus</code>, <code>chinus</code>,
-          <code>cuistus</code>,
-          <code>educatus</code>, <code>galaxus</code>, <code>generalus</code>, <code>gokus</code>,
-          <code>impostor</code>,
-          <code>infirmus</code>, <code>laserus</code>, <code>livrus</code>, <code>michael-jacksus</code>,
-          <code>musclus</code>, <code>naturus</code>, <code>ninjsus</code>, <code>perdus</code>, <code>piratus</code>,
-          <code>poulus</code>, <code>seinsus</code>, <code>the-creatorus</code>, <code>thugus</code> and
-          <code>vampirus</code>,
-        </li>
-        <li><b class="ref">👑 XNinja</b> for <code>applus</code>, <code>asus</code>, <code>diamonda</code>,
-          <code>gameus</code>, <code>marius</code>, <code>pacmanus</code>
-          <code>pokebollus</code>,
-          <code>stickmus</code>, <code>uranus</code> et
-          <code>wizardus <a href=https://github.com/Apix0n/Armus/issues/7 target="_blank">#7</a></code>,
-        </li>
-        <li><b>Ilian</b> for <code>drogueus</code>, <code>killus</code>, <code>mysterus</code>, <code>naturus</code>,
-          <code>robotus</code>, <code>sofianus</code>, <code>spidermanus</code> and <code>vegetus</code>,
-        </li>
-        <li><b>Jujudubat7</b> for <code>chaplinus</code>,</li>
-        <li><b>EVIL UO</b> for <code>luffus</code> and <code>nymarus</code>,</li>
-        <li><b>Camicase</b> for <code>helicoptus</code> and <code>sleepus</code>,</li>
-        <li><b class="ref">👑 Aliko</b> for <code>babacus</code>, <code>coca-colus</code>, <code>demonus</code>,
-          <code>dora</code>, <code>eclairus</code>, <code>grogus</code>, <code>icecreamus</code>, <code>intellus</code>,
-          <code>japnessa</code>,
-          <code>nutellus</code>, <code>peppus</code>, <code>racaillus</code>, <code>rockus</code>,
-          <code>tchoupius</code>,
-          <code>tornadus</code>, <code>xdsus</code> and <code>yoyosus</code>,
-        </li>
-        <li><b>Lili</b> for <code>amosus</code>, <code>bakacutea</code> and <code>turkus</code>,</li>
-        <li><b>Petiteprincesse</b> for <code>pikachus</code> and <code>rainbowus</code>,</li>
-        <li><b>Apyzzelos</b> for <code>hamburgus</code>,</li>
-        <li><b>Samilogosy</b> for <code>capturus</code> and <code>shrekus</code>,</li>
-        <li><b>K.Y</b> for <code>theamosus78</code>,</li>
-        <li><b>ID_CLAS</b> for <code>arabus</code>,</li>
-        <li><b>ceriban176</b> for <code>roitus</code>,</li>
-        <li><b class="ref">👑 Nissou</b> for
-          <code>abatus <a href=https://github.com/Apix0n/Armus/issues/17 target="_blank">#17</a></code>,
-          <code>angelus <a href=https://github.com/Apix0n/Armus/issues/24 target="_blank">#24</a></code>,
-          <code>bitmojus <a href=https://github.com/Apix0n/Armus/issues/28 target="_blank">#28</a></code>,
-          <code>cupidus <a href=https://github.com/Apix0n/Armus/issues/27 target="_blank">#27</a></code>,
-          <code>goblinus <a href=https://github.com/Apix0n/Armus/issues/21 target="_blank">#21</a></code>,
-          <code>invisiblus <a href=https://github.com/Apix0n/Armus/issues/23 target="_blank">#23</a></code>,
-          <code>panterus <a href=https://github.com/Apix0n/Armus/issues/18 target="_blank">#18</a></code>,
-          <code>papillus <a href=https://github.com/Apix0n/Armus/issues/25 target="_blank">#25</a></code>,
-          <code>superherus <a href=https://github.com/Apix0n/Armus/issues/26 target="_blank">#26</a></code>,
-          <code>voitus <a href="https://github.com/Apix0n/Armus/issues/29" target="_blank">#29</a></code> and
-          <code>werbrus <a href=https://github.com/Apix0n/Armus/issues/20 target="_blank">#20</a></code>,
-        </li>
-        <li><b>Goku</b> for <code>maya</code> and <code>zorus</code>,</li>
-        <li><b>Abat</b> for <code>paintus</code>,</li>
-        <li><b>Ducky duck</b> for <code>ahmonzbobus</code>,</li>
-        <li><b>Kookanonym</b> for <code>crashus</code> and <code>questionus</code>,</li>
-      </ul>
-      <p>Caption:</p>
-      <ul>
-        <li><b class="ref">👑 Artist</b>: More than 10 characters</li>
-        <li><b class="ref2">💎 Artist</b>: More than 20 characters</li>
-        <li><b class="ref3">🌹 Artist</b>: More than 30 characters</li>
-      </ul>
-      <p>Translation:</p>
-      <ul>
-        <li>🇫🇷 <b>French</b>: Apix</li>
-        <li>🇬🇧 <b>English</b>: Apix</li>
-        <li>🇹🇷 <b>Turkish</b>: Apix</li>
-      </ul>
-      <div class="spaceline"></div>
-      <h2 id="projets">💿 Used projects:</h2>
-      <ul>
-        <li>Font: <a href="https://fonts.google.com/specimen/Montserrat">Montserrat</a></li>
-        <li>Icons: <a href="https://fonts.google.com/icons">Material Icons</a></li>
-        <li>Emojis: <a href="https://twemoji.twitter.com/">Twemoji</a></li>
-        <li>Hosting: <a href="https://pages.github.com/">Github Pages</a></li>
-      </ul>
+          <tbody>
+            <tr>
+              <td><a class="ref" href="#AN-Nissou">abatus</a></td>
+              <td>
+                <p><img src=../files/abatus.jpeg></p>
+              </td>
+              <td><a href="../files/abatus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>abigus</td>
+              <td>
+                <p><img src=../files/abigus.jpeg></p>
+              </td>
+              <td><a href="../files/abigus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Ducky-duck">ahmonzbobus</a></td>
+              <td>
+                <p><img src="../files/ahmonzbobus.jpeg"></p>
+              </td>
+              <td><a href="../files/ahmonzbobus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>airmogus</td>
+              <td>
+                <p><img src=../files/airmogus.jpeg></p>
+              </td>
+              <td><a href="../files/airmogus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>alongus</td>
+              <td>
+                <p><img src="../files/alongus.jpeg"></p>
+              </td>
+              <td><a href="../files/alongus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>amelioratus</td>
+              <td>
+                <p><img src=../files/amelioratus.jpeg></p>
+              </td>
+              <td><a href="../files/amelioratus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">amoga</a></td>
+              <td>
+                <p><img src=../files/amoga.jpeg></p>
+              </td>
+              <td><a href="../files/amoga.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">amogus-poli</a></td>
+              <td>
+                <p><img src=../files/amogus-poli.jpeg></p>
+              </td>
+              <td><a href="../files/amogus-poli.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>amogus</td>
+              <td>
+                <p><img src=../files/amogus.jpeg></p>
+              </td>
+              <td><a href="../files/amogus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Lili">amosus</a></td>
+              <td>
+                <p><img src=../files/amosus.jpeg></p>
+              </td>
+              <td><a href="../files/amosus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Nissou">angelus</a></td>
+              <td>
+                <p><img src="../files/angelus.jpeg"></p>
+              </td>
+              <td><a href="../files/angelus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>aplatus</td>
+              <td>
+                <p><img src=../files/aplatus.jpeg></p>
+              </td>
+              <td><a href="../files/aplatus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-XNinja">applus</a></td>
+              <td>
+                <p><img src="../files/applus.jpeg"></p>
+              </td>
+              <td><a href="../files/applus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-ID-CLAS">arabus</a></td>
+              <td>
+                <p><img src=../files/arabus.jpeg></p>
+              </td>
+              <td><a href="../files/arabus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>asmolgus</td>
+              <td>
+                <p><img src=../files/asmolgus.jpeg></p>
+              </td>
+              <td><a href="../files/asmolgus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-XNinja">asus</a></td>
+              <td>
+                <p><img src="../files/asus.jpeg"></p>
+              </td>
+              <td><a href="../files/asus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">babacus</a></td>
+              <td>
+                <p><img src=../files/babacus.jpeg></p>
+              </td>
+              <td><a href="../files/babacus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Lili">bakacutea</a></td>
+              <td>
+                <p><img src=../files/bakacutea.jpeg></p>
+              </td>
+              <td><a href="../files/bakacutea.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">bananus</a></td>
+              <td>
+                <p><img src=../files/bananus.jpeg></p>
+              </td>
+              <td><a href="../files/bananus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Nissou">bitmojus</a></td>
+              <td>
+                <p><img src="../files/bitmojus.jpeg"></p>
+              </td>
+              <td><a href="../files/bitmojus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">blackus</a></td>
+              <td>
+                <p><img src=../files/blackus.jpeg></p>
+              </td>
+              <td><a href="../files/blackus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>bushus</td>
+              <td>
+                <p><img src=../files/bushus.jpeg></p>
+              </td>
+              <td><a href="../files/bushus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>cactus</td>
+              <td>
+                <p><img src=../files/cactus.jpeg></p>
+              </td>
+              <td><a href="../files/cactus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Samilogosy">capturus</a></td>
+              <td>
+                <p><img src=../files/capturus.jpeg></p>
+              </td>
+              <td><a href="../files/capturus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Jujudubat7">chaplinus</a></td>
+              <td>
+                <p><img src=../files/chaplinus.jpeg></p>
+              </td>
+              <td><a href="../files/chaplinus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">chinus</a></td>
+              <td>
+                <p><img src=../files/chinus.jpeg></p>
+              </td>
+              <td><a href="../files/chinus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>cloudus</td>
+              <td>
+                <p><img src=../files/cloudus.jpeg></p>
+              </td>
+              <td><a href="../files/cloudus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">coca-colus</a></td>
+              <td>
+                <p><img src=../files/coca-colus.jpeg></p>
+              </td>
+              <td><a href="../files/coca-colus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>cosmonus</td>
+              <td>
+                <p><img src=../files/cosmonus.jpeg></p>
+              </td>
+              <td><a href="../files/cosmonus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Kookanonym">crashus</a></td>
+              <td>
+                <p><img src="../files/crashus.jpeg"></p>
+              </td>
+              <td><a href="../files/crashus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">cuistus</a></td>
+              <td>
+                <p><img src=../files/cuistus.jpeg></p>
+              </td>
+              <td><a href="../files/cuistus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Nissou">cupidus</a></td>
+              <td>
+                <p><img src="../files/cupidus.jpeg"></p>
+              </td>
+              <td><a href="../files/cupidus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">demonus</a></td>
+              <td>
+                <p><img src=../files/demonus.jpeg></p>
+              </td>
+              <td><a href="../files/demonus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-XNinja">diamonda</a></td>
+              <td>
+                <p><img src="../files/diamonda.jpeg"></p>
+              </td>
+              <td><a href="../files/diamonda.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">dora</a></td>
+              <td>
+                <p><img src=../files/dora.jpeg></p>
+              </td>
+              <td><a href="../files/dora.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>dreamus</td>
+              <td>
+                <p><img src="../files/dreamus.jpeg"></p>
+              </td>
+              <td><a href="../files/dreamus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Ilian">drogueus</a></td>
+              <td>
+                <p><img src=../files/drogueus.jpeg></p>
+              </td>
+              <td><a href="../files/drogueus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">eclairus</a></td>
+              <td>
+                <p><img src=../files/eclairus.jpeg></p>
+              </td>
+              <td><a href="../files/eclairus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">educatus</a></td>
+              <td>
+                <p><img src=../files/educatus.jpeg></p>
+              </td>
+              <td><a href="../files/educatus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>fishus</td>
+              <td>
+                <p><img src=../files/fishus.jpeg></p>
+              </td>
+              <td><a href="../files/fishus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>flippus</td>
+              <td>
+                <p><img src=../files/flippus.jpeg></p>
+              </td>
+              <td><a href="../files/flippus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">galaxus</a></td>
+              <td>
+                <p><img src=../files/galaxus.jpeg></p>
+              </td>
+              <td><a href="../files/galaxus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-XNinja">gameus</a></td>
+              <td>
+                <p><img src=../files/gameus.jpeg></p>
+              </td>
+              <td><a href="../files/gameus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">generalus</a></td>
+              <td>
+                <p><img src=../files/generalus.jpeg></p>
+              </td>
+              <td><a href="../files/generalus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>geometrus</td>
+              <td>
+                <p><img src=../files/geometrus.jpeg></p>
+              </td>
+              <td><a href="../files/geometrus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>glasus</td>
+              <td>
+                <p><img src="../files/glasus.jpeg"></p>
+              </td>
+              <td><a href="../files/glasus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Nissou">goblinus</a></td>
+              <td>
+                <p><img src=../files/goblinus.jpeg></p>
+              </td>
+              <td><a href="../files/goblinus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">gokus</a></td>
+              <td>
+                <p><img src=../files/gokus.jpeg></p>
+              </td>
+              <td><a href="../files/gokus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">grogus</a></td>
+              <td>
+                <p><img src=../files/grogus.jpeg></p>
+              </td>
+              <td><a href="../files/grogus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Apyzzelos">hamburgus</a></td>
+              <td>
+                <p><img src=../files/hamburgus.jpeg></p>
+              </td>
+              <td><a href="../files/hamburgus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Camicase">helicoptus</a></td>
+              <td>
+                <p><img src=../files/helicoptus.jpeg></p>
+              </td>
+              <td><a href="../files/helicoptus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">icecreamus</a></td>
+              <td>
+                <p><img src=../files/icecreamus.jpeg></p>
+              </td>
+              <td><a href="../files/icecreamus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">impostor</a></td>
+              <td>
+                <p><img src=../files/impostor.jpeg></p>
+              </td>
+              <td><a href="../files/impostor.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">infirmus</a></td>
+              <td>
+                <p><img src=../files/infirmus.jpeg></p>
+              </td>
+              <td><a href="../files/infirmus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">intellus</a></td>
+              <td>
+                <p><img src=../files/intellus.jpeg></p>
+              </td>
+              <td><a href="../files/intellus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Nissou">invisiblus</a></td>
+              <td>
+                <p><img src=../files/invisiblus.jpeg></p>
+              </td>
+              <td><a href="../files/invisiblus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">japnessa</a></td>
+              <td>
+                <p><img src=../files/japnessa.jpeg></p>
+              </td>
+              <td><a href="../files/japnessa.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Ilian">killus</a></td>
+              <td>
+                <p><img src=../files/killus.jpeg></p>
+              </td>
+              <td><a href="../files/killus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">laserus</a></td>
+              <td>
+                <p><img src=../files/laserus.jpeg></p>
+              </td>
+              <td><a href="../files/laserus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">livrus</a></td>
+              <td>
+                <p><img src=../files/livrus.jpeg></p>
+              </td>
+              <td><a href="../files/livrus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-EVIL-UO">luffus</a></td>
+              <td>
+                <p><img src=../files/luffus.jpeg></p>
+              </td>
+              <td><a href="../files/luffus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-XNinja">marius</a></td>
+              <td>
+                <p><img src=../files/marius.jpeg></p>
+              </td>
+              <td><a href="../files/marius.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Goku">maya</a></td>
+              <td>
+                <p><img src="../files/maya.jpeg"></p>
+              </td>
+              <td><a href="../files/maya.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">michael-jacksus</a></td>
+              <td>
+                <p><img src=../files/michael-jacksus.jpeg>
+                </p>
+              </td>
+              <td><a href="../files/michael-jacksus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">musclus</a></td>
+              <td>
+                <p><img src=../files/musclus.jpeg></p>
+              </td>
+              <td><a href="../files/musclus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Ilian">mysterus</a></td>
+              <td>
+                <p><img src=../files/mysterus.jpeg></p>
+              </td>
+              <td><a href="../files/mysterus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Ilian">narutus</a></td>
+              <td>
+                <p><img src=../files/narutus.jpeg></p>
+              </td>
+              <td><a href="../files/narutus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Ilian">naturus</a></td>
+              <td>
+                <p><img src=../files/naturus.jpeg></p>
+              </td>
+              <td><a href="../files/naturus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">ninjsus</a></td>
+              <td>
+                <p><img src=../files/ninjsus.jpeg></p>
+              </td>
+              <td><a href="../files/ninjsus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">nutellus</a></td>
+              <td>
+                <p><img src=../files/nutellus.jpeg></p>
+              </td>
+              <td><a href="../files/nutellus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-EVIL-UO">nymarus</a></td>
+              <td>
+                <p><img src=../files/nymarus.jpeg></p>
+              </td>
+              <td><a href="../files/nymarus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-XNinja">pacmanus</a></td>
+              <td>
+                <p><img src="../files/pacmanus.jpeg"></p>
+              </td>
+              <td><a href="../files/pacmanus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Abat">paintus</a></td>
+              <td>
+                <p><img src="../files/paintus.jpeg"></p>
+              </td>
+              <td><a href="../files/paintus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Nissou">panterus</a></td>
+              <td>
+                <p><img src=../files/panterus.jpeg></p>
+              </td>
+              <td><a href="../files/panterus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Nissou">papillus</a></td>
+              <td>
+                <p><img src="../files/papillus.jpeg"></p>
+              </td>
+              <td><a href="../files/papillus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>parisus</td>
+              <td>
+                <p><img src=../files/parisus.jpeg></p>
+              </td>
+              <td><a href="../files/parisus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">peppus</a></td>
+              <td>
+                <p><img src=../files/peppus.jpeg></p>
+              </td>
+              <td><a href="../files/peppus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">perdus</a></td>
+              <td>
+                <p><img src=../files/perdus.jpeg></p>
+              </td>
+              <td><a href="../files/perdus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Petiteprincesse">pikachus</a></td>
+              <td>
+                <p><img src=../files/pikachus.jpeg></p>
+              </td>
+              <td><a href="../files/pikachus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">piratus</a></td>
+              <td>
+                <p><img src=../files/piratus.jpeg></p>
+              </td>
+              <td><a href="../files/piratus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-XNinja">pokebollus</a></td>
+              <td>
+                <p><img src=../files/pokebollus.jpeg></p>
+              </td>
+              <td><a href="../files/pokebollus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>poopus</td>
+              <td>
+                <p><img src=../files/poopus.jpeg></p>
+              </td>
+              <td><a href="../files/poopus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>potatus</td>
+              <td>
+                <p><img src="../files/potatus.jpeg"></p>
+              </td>
+              <td><a href="../files/potatus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">poulus</a></td>
+              <td>
+                <p><img src=../files/poulus.jpeg></p>
+              </td>
+              <td><a href="../files/poulus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Kookanonym">questionus</a></td>
+              <td>
+                <p><img src="../files/questionus.jpeg"></p>
+              </td>
+              <td><a href="../files/questionus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">racaillus</a></td>
+              <td>
+                <p><img src=../files/racaillus.jpeg></p>
+              </td>
+              <td><a href="../files/racaillus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Petiteprincesse">rainbowus</a></td>
+              <td>
+                <p><img src=../files/rainbowus.jpeg></p>
+              </td>
+              <td><a href="../files/rainbowus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Ilian">robotus</a></td>
+              <td>
+                <p><img src=../files/robotus.jpeg></p>
+              </td>
+              <td><a href="../files/robotus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">rockus</a></td>
+              <td>
+                <p><img src=../files/rockus.jpeg></p>
+              </td>
+              <td><a href="../files/rockus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-ceriban176">roitus</a></td>
+              <td>
+                <p><img src=../files/roitus.jpeg></p>
+              </td>
+              <td><a href="../files/roitus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">seinsus</a></td>
+              <td>
+                <p><img src=../files/seinsus.jpeg></p>
+              </td>
+              <td><a href="../files/seinsus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>shapeshifter</td>
+              <td>
+                <p><img src=../files/shapeshifter.jpeg></p>
+              </td>
+              <td><a href="../files/shapeshifter.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Samilogosy">shrekus</a></td>
+              <td>
+                <p><img src=../files/shrekus.jpeg></p>
+              </td>
+              <td><a href="../files/shrekus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Camicase">sleepus</a></td>
+              <td>
+                <p><img src=../files/sleepus.jpeg></p>
+              </td>
+              <td><a href="../files/sleepus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Ilian">sofianus</a></td>
+              <td>
+                <p><img src=../files/sofianus.jpeg></p>
+              </td>
+              <td><a href="../files/sofianus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Ilian">spidermanus</a></td>
+              <td>
+                <p><img src=../files/spidermanus.jpeg></p>
+              </td>
+              <td><a href="../files/spidermanus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-XNinja">stickmus</a></td>
+              <td>
+                <p><img src=../files/stickmus.jpeg></p>
+              </td>
+              <td><a href="../files/stickmus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>sugoma</td>
+              <td>
+                <p><img src=../files/sugoma.jpeg></p>
+              </td>
+              <td><a href="../files/sugoma.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Nissou">superherus</a></td>
+              <td>
+                <p><img src="../files/superherus.jpeg"></p>
+              </td>
+              <td><a href="../files/superherus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">tchoupius</a></td>
+              <td>
+                <p><img src=../files/tchoupius.jpeg></p>
+              </td>
+              <td><a href="../files/tchoupius.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">the-creatorus</a></td>
+              <td>
+                <p><img src=../files/the-creatorus.jpeg></p>
+              </td>
+              <td><a href="../files/the-creatorus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-K-Y">theamosus78</a></td>
+              <td>
+                <p><img src=../files/theamosus78.jpeg></p>
+              </td>
+              <td><a href="../files/theamosus78.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">thugus</a></td>
+              <td>
+                <p><img src=../files/thugus.jpeg></p>
+              </td>
+              <td><a href="../files/thugus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>toastus</td>
+              <td>
+                <p><img src=../files/toastus.jpeg></p>
+              </td>
+              <td><a href="../files/toastus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">tornadus</a></td>
+              <td>
+                <p><img src=../files/tornadus.jpeg></p>
+              </td>
+              <td><a href="../files/tornadus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Lili">turkus</a></td>
+              <td>
+                <p><img src=../files/turkus.jpeg></p>
+              </td>
+              <td><a href="../files/turkus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-XNinja">uranus</a></td>
+              <td>
+                <p><img src=../files/uranus.jpeg></p>
+              </td>
+              <td><a href="../files/uranus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Chus">vampirus</a></td>
+              <td>
+                <p><img src=../files/vampirus.jpeg></p>
+              </td>
+              <td><a href="../files/vampirus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Ilian">vegetus</a></td>
+              <td>
+                <p><img src=../files/vegetus.jpeg></p>
+              </td>
+              <td><a href="../files/vegetus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>virus</td>
+              <td>
+                <p><img src=../files/virus.jpeg></p>
+              </td>
+              <td><a href="../files/virus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Nissou">voitus</a></td>
+              <td>
+                <p><img src="../files/voitus.jpeg"></p>
+              </td>
+              <td><a href="../files/voitus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td>waterus</td>
+              <td>
+                <p><img src=../files/waterus.jpeg></p>
+              </td>
+              <td><a href="../files/waterus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Nissou">werbrus</a></td>
+              <td>
+                <p><img src=../files/werbrus.jpeg></p>
+              </td>
+              <td><a href="../files/werbrus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-XNinja">wizardus</a></td>
+              <td>
+                <p><img src=../files/wizardus.jpeg></p>
+              </td>
+              <td><a href="../files/wizardus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">xdsus</a></td>
+              <td>
+                <p><img src=../files/xdsus.jpeg></p>
+              </td>
+              <td><a href="../files/xdsus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Aliko">yoyosus</a></td>
+              <td>
+                <p><img src=../files/yoyosus.jpeg></p>
+              </td>
+              <td><a href="../files/yoyosus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
+              <td><a class="ref" href="#AN-Goku">zorus</a></td>
+              <td>
+                <p><img src="../files/zorus.jpeg"></p>
+              </td>
+              <td><a href="../files/zorus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="spaceline"></div>
+      </div>
+
+      <!-- A problem ? -->
+      <div id="problem">
+        <h2>❓ A problem ?</h2>
+        <p>If:</p>
+        <ul>
+          <li> you want to improve the project, </li>
+          <li> you want to request a character name change, </li>
+          <li> you found a character two times, </li>
+          <li> you have a question, </li>
+          <li> you want to delete a character, </li>
+        </ul>
+        <p>Please create an issue with the right template.</p>
+        <a href="https://github.com/Apix0n/Armus/issues/new/choose" target="_blank" class="nounderline">
+          <div class="styled-btn text-btn red-btn">
+            <div>Create an issue</div>
+          </div>
+        </a>
+        <div class="spaceline"></div>
+      </div>
+
+      <!-- Create a character -->
+      <div id="character">
+        <h2>🎨 Create a character</h2>
+        <p>In order to create a character without making mistakes, to have the necessary files and to send it in the Armus, click on the button below to open the guide.</p>
+        <a href="character.html" class="nounderline">
+          <div class="styled-btn text-btn red-btn">
+            <div>The guide: How to create a character ?</div>
+          </div>
+        </a>
+        <div class="spaceline"></div>
+      </div>
+
+      <!-- Acknowledgements -->
+      <div id="acknowledgements">
+        <h2>🌟 Acknowledgements</h2>
+        <p>Thanks to the <b class="ref">20</b> artists:</p>
+        <!--* AN = Artist name -->
+        <ul class="remerciements">
+          <li id="AN-Apix"><b class="ref2">💎 <a href="https://github.com/Apix0n" target="_blank" title="Check out @Apix0n on GitHub">Apix</a></b> (me) for all the characters with the white name,</li>
+          <li id="AN-Chus"><b class="ref2">💎 Chus</b> who, in addition to being the person I had the idea with, created <code>amoga</code>, <code>amogus-poli</code>, <code>bananus</code>, <code>blackus</code>, <code>chinus</code>, <code>cuistus</code>, <code>educatus</code>, <code>galaxus</code>, <code>generalus</code>, <code>gokus</code>, <code>impostor</code>, <code>infirmus</code>, <code>laserus</code>, <code>livrus</code>, <code>michael-jacksus</code>, <code>musclus</code>, <code>naturus</code>, <code>ninjsus</code>, <code>perdus</code>, <code>piratus</code>, <code>poulus</code>, <code>seinsus</code>, <code>the-creatorus</code>, <code>thugus</code> and <code>vampirus</code>,</li>
+          <li id="AN-XNinja"><b class="ref">👑 <a href="https://github.com/XNinjaYmZ" target="_blank" title="Check out @XNinjaYmZ on GitHub">XNinja</a></b> for <code>applus</code>, <code>asus</code>, <code>diamonda</code>, <code>gameus</code>, <code>marius</code>, <code>pacmanus</code>, <code>pokebollus</code>, <code>stickmus</code>, <code>uranus</code> and <code>wizardus <a href=https://github.com/Apix0n/Armus/issues/7 target="_blank">#7</a></code>,</li>
+          <li id="AN-Ilian"><b>Ilian</b> for <code>drogueus</code>, <code>killus</code>, <code>mysterus</code>, <code>narutus</code>, <code>robotus</code>, <code>sofianus</code>, <code>spidermanus</code> and <code>vegetus</code>,</li>
+          <li id="AN-Jujudubat7"><b>Jujudubat7</b> for <code>chaplinus</code>,</li>
+          <li id="AN-EVIL-UO"><b>EVIL UO</b> for <code>luffus</code> and <code>nymarus</code>,</li>
+          <li id="AN-Camicase"><b>Camicase</b> for <code>helicoptus</code> and <code>sleepus</code>,</li>
+          <li id="AN-Aliko"><b class="ref">👑 Aliko</b> for <code>babacus</code>, <code>coca-colus</code>, <code>demonus</code>, <code>dora</code>, <code>eclairus</code>, <code>grogus</code>, <code>icecreamus</code>, <code>intellus</code>, <code>japnessa</code>, <code>nutellus</code>, <code>peppus</code>, <code>racaillus</code>, <code>rockus</code>, <code>tchoupius</code>, <code>tornadus</code>, <code>xdsus</code> and <code>yoyosus</code>,</li>
+          <li id="AN-Lili"><b>Lili</b> for <code>amosus</code>, <code>bakacutea</code> and <code>turkus</code>,</li>
+          <li id="AN-Petiteprincesse"><b>Petiteprincesse</b> for <code>pikachus</code> and <code>rainbowus</code>,</li>
+          <li id="AN-Apyzzelos"><b><a href="https://github.com/Apyzzelos" target="_blank" title="Check out @Apyzzelos on GitHub">Apyzzelos</a></b> for <code>hamburgus</code>,</li>
+          <li id="AN-Samilogosy"><b>Samilogosy</b> for <code>capturus</code> and <code>shrekus</code>,</li>
+          <li id="AN-K-Y"><b>K.Y</b> for <code>theamosus78</code>,</li>
+          <li id="AN-ID-CLAS"><b>ID_CLAS</b> for <code>arabus</code>,</li>
+          <li id="AN-ceriban176"><b>ceriban176</b> for <code>roitus</code>,</li>
+          <li id="AN-Nissou"><b class="ref">👑 <a href="https://github.com/niss0u" target="_blank" title="Check out @niss0u on GitHub">Nissou</a></b> for <code>abatus <a href=https://github.com/Apix0n/Armus/issues/17 target="_blank">#17</a></code>, <code>angelus <a href=https://github.com/Apix0n/Armus/issues/24 target="_blank">#24</a></code>, <code>bitmojus <a href=https://github.com/Apix0n/Armus/issues/28 target="_blank">#28</a></code>, <code>cupidus <a href=https://github.com/Apix0n/Armus/issues/27 target="_blank">#27</a></code>, <code>goblinus <a href=https://github.com/Apix0n/Armus/issues/21 target="_blank">#21</a></code>, <code>invisiblus <a href=https://github.com/Apix0n/Armus/issues/23 target="_blank">#23</a></code>, <code>panterus <a href=https://github.com/Apix0n/Armus/issues/18 target="_blank">#18</a></code>, <code>papillus <a href=https://github.com/Apix0n/Armus/issues/25 target="_blank">#25</a></code>, <code>superherus <a href=https://github.com/Apix0n/Armus/issues/26 target="_blank">#26</a></code>, <code>voitus <a href="https://github.com/Apix0n/Armus/issues/29" target="_blank">#29</a></code> and <code>werbrus <a href=https://github.com/Apix0n/Armus/issues/20 target="_blank">#20</a></code>,</li>
+          <li id="AN-Goku"><b>Goku</b> for <code>maya</code> and <code>zorus</code>,</li>
+          <li id="AN-Abat"><b>Abat</b> for <code>paintus</code>,</li>
+          <li id="AN-Ducky-duck"><b>Ducky duck</b> for <code>ahmonzbobus</code>,</li>
+          <li id="AN-Kookanonym"><b>Kookanonym</b> for <code>crashus</code> and <code>questionus</code>,</li>
+        </ul>
+        <p>Caption:</p>
+        <ul>
+          <li><b class="ref">👑 Artist</b>: More than 10 characters</li>
+          <li><b class="ref2">💎 Artist</b>: More than 20 characters</li>
+          <li><b class="ref3">🌹 Artist</b>: More than 30 characters</li>
+        </ul>
+        <p>Translation:</p>
+        <ul>
+          <li>🇫🇷 <b>French</b>: Apix</li>
+          <li>🇬🇧 <b>English</b>: Apix</li>
+          <li>🇹🇷 <b>Turkish</b>: Apix</li>
+        </ul>
+        <div class="spaceline"></div>
+      </div>
+
+      <!-- Used projects -->
+      <div id="projects">
+        <h2>💿 Used projects:</h2>
+        <ul>
+          <li>Font: <a href="https://fonts.google.com/specimen/Montserrat">Montserrat</a></li>
+          <li>Icons: <a href="https://fonts.google.com/icons">Material Icons</a></li>
+          <li>Brand icons: <a href="https://simpleicons.org">Simple Icons</a></li>
+          <li>Emojis: <a href="https://twemoji.twitter.com/">Twemoji</a></li>
+          <li>Hosting: <a href="https://pages.github.com/">Github Pages</a></li>
+        </ul>
+      </div>
     </section>
 
     <section id="three">
