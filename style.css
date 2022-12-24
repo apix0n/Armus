@@ -434,3 +434,44 @@ blockquote {
 .members-table tbody tr td a span.material-icons-round {
   color: var(--ref);
 }
+
+/* Rickroll */
+
+.rick {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  height: 100vh;
+  width: 100vw;
+  background-color: #00000075;
+}
+
+.closerick {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  font-size: 35px;
+  border-radius: 1.5em;
+  background: var(--ref);
+  transition: transform 0.5s, box-shadow 0.5s;
+}
+
+.closerick:hover {
+  transition: transform 0.5s, box-shadow 0.5s;
+  transform: scale(1.05);
+  box-shadow: 0 0 10px var(--ref);
+}
+
+#rickroll {
+  display: none;
+  position: absolute;
+  left: 10vw;
+  top: calc(50vh - 45vw/2);
+  width: 80vw;
+  height: 45vw;
+  border: 5px solid var(--ref);
+  border-radius: 1.5vw;
+  z-index: 69;
+}

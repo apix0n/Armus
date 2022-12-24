@@ -16,26 +16,11 @@
     <meta name="apple-mobile-web-app-title" content="Armus">
     <meta property="og:image" content="../social.png">
     <meta name="theme-color" content="#2b0000">
+    <script src="../main.js" async></script>
     <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous" async></script>
   </head>
 
   <body>
-    <script>
-      console.log('%cArmus', 'color: #ff0000; font-size: 55px')
-      console.log("Typing here may be dangerous, so be careful and DON'T paste scripts from strangers on the internet.")
-
-      if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-        console.log("Twemoji: Device is a mobile, ignoring loading.");
-      }
-      else {
-        window.onload = function () {
-          console.log("Twemoji: Device is not a mobile, loading emojis.");
-          twemoji.parse(document.body,
-            { folder: 'svg', ext: '.svg' }
-          );
-        }
-      }
-    </script>
     <section id="one" class="color-en">
       <h1>Armus <img class="svgicon" src="../armus-icon.svg" alt="Among Us character"></h1>
       <h2 style="margin-bottom: 10px;">🎊 100 MEMBERS 🎊</h2>
@@ -56,12 +41,12 @@
       <!-- Table of contents -->
       <div id="content">
         <table class="summary" align="center">
+          <thead>
+            <th>
+              <h2>📁 Table of contents</h2>
+            </th>
+          </thead>
           <tbody>
-            <thead>
-              <th>
-                <h2>📁 Table of contents</h2>
-              </th>
-            </thead>
             <tr>
               <td><a href="#informations">📝 Informations</a></td>
             </tr>
@@ -123,7 +108,7 @@
       <!-- The army -->
       <div id="army">
         <h2>🔪 The army</h2>
-        <p align="center">Total number of members: <b class="ref">117</b></p>
+        <p align="center">Total number of members: <b class="ref">118</b></p>
         <p align="center">Clicking on a <b class="ref">golden</b> link will send you to the <code>🌟 Acknowledgements</code> of the artist.</p>
         <table class="members-table" align=center>
           <thead>
@@ -745,6 +730,13 @@
               <td><a href="../files/rainbowus.jpeg"><span class="material-icons-round">link</span></a></td>
             </tr>
             <tr>
+              <td><a class="ref" href="#AN-XNinja" onclick="rick()">rickus</a></td>
+              <td>
+                <p><img src="../files/rickus.jpeg"></p>
+              </td>
+              <td><a href="../files/rickus.jpeg"><span class="material-icons-round">link</span></a></td>
+            </tr>
+            <tr>
               <td><a class="ref" href="#AN-Ilian">robotus</a></td>
               <td>
                 <p><img src=../files/robotus.jpeg></p>
@@ -999,7 +991,7 @@
         <ul class="remerciements">
           <li id="AN-Apix"><b class="ref2">💎 <a href="https://github.com/Apix0n" target="_blank" title="Check out @Apix0n on GitHub">Apix</a></b> (me) for all the characters with the white name,</li>
           <li id="AN-Chus"><b class="ref2">💎 Chus</b> who, in addition to being the person I had the idea with, created <code>amoga</code>, <code>amogus-poli</code>, <code>bananus</code>, <code>blackus</code>, <code>chinus</code>, <code>cuistus</code>, <code>educatus</code>, <code>galaxus</code>, <code>generalus</code>, <code>gokus</code>, <code>impostor</code>, <code>infirmus</code>, <code>laserus</code>, <code>livrus</code>, <code>michael-jacksus</code>, <code>musclus</code>, <code>naturus</code>, <code>ninjsus</code>, <code>perdus</code>, <code>piratus</code>, <code>poulus</code>, <code>seinsus</code>, <code>the-creatorus</code>, <code>thugus</code> and <code>vampirus</code>,</li>
-          <li id="AN-XNinja"><b class="ref">👑 <a href="https://github.com/XNinjaYmZ" target="_blank" title="Check out @XNinjaYmZ on GitHub">XNinja</a></b> for <code>applus</code>, <code>asus</code>, <code>diamonda</code>, <code>gameus</code>, <code>marius</code>, <code>pacmanus</code>, <code>pokebollus</code>, <code>stickmus</code>, <code>uranus</code> and <code>wizardus <a href=https://github.com/Apix0n/Armus/issues/7 target="_blank">#7</a></code>,</li>
+          <li id="AN-XNinja"><b class="ref">👑 <a href="https://github.com/XNinjaYmZ" target="_blank" title="Check out @XNinjaYmZ on GitHub">XNinja</a></b> for <code>applus</code>, <code>asus</code>, <code>diamonda</code>, <code>gameus</code>, <code>marius</code>, <code>pacmanus</code>, <code>pokebollus</code>, <code onclick="rick()" style="text-decoration: underline; text-decoration-color: var(--ref);">rickus</code>, <code>stickmus</code>, <code>uranus</code> and <code>wizardus <a href=https://github.com/Apix0n/Armus/issues/7 target="_blank">#7</a></code>,</li>
           <li id="AN-Ilian"><b>Ilian</b> for <code>drogueus</code>, <code>killus</code>, <code>mysterus</code>, <code>narutus</code>, <code>robotus</code>, <code>sofianus</code>, <code>spidermanus</code> and <code>vegetus</code>,</li>
           <li id="AN-Jujudubat7"><b>Jujudubat7</b> for <code>chaplinus</code>,</li>
           <li id="AN-EVIL-UO"><b>EVIL UO</b> for <code>luffus</code> and <code>nymarus</code>,</li>
@@ -1053,6 +1045,12 @@
         </ul>
       </div>
     </section>
+
+    <!-- Rickroll -->
+    <div class="rick">
+      <span class="material-icons-round closerick" onclick="closerick()">close</span>
+      <video id="rickroll" src="../other/rickroll.mp4" preload="metadata" style="pointer-events: none; display: block;" playsinline>Can't even rickroll you...</video>
+    </div>
   </body>
 
 </html>
