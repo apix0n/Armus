@@ -22,8 +22,8 @@ else
     read -p "Does its name have to be golden ? " isref
 fi
 
-if [ -n "$isref" ]; then
-    if [ -n "$3" ]; then
+if [ "$isref" == "1" ]; then
+if [ -n "$3" ]; then
         an="$3"
     else
         echo ""

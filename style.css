@@ -181,6 +181,14 @@ li {
   animation: animated-gradient 10s ease infinite;
 }
 
+/* Lolcat */
+#one.color-lolcat, .topback.color-lolcat {
+  background: #bb3333;
+  background: linear-gradient(145deg, #d1b35f 0%, #ce7c1f 35%, #7a3a05 100%);
+  background-size: 400% 400%; 
+  animation: animated-gradient 10s ease infinite;
+}
+
 /* End Languages colors */
 
 @keyframes animated-gradient {
