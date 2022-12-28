@@ -483,3 +483,8 @@ blockquote {
   border-radius: 1.5vw;
   z-index: 69;
 }
+
+.ricklink {
+  text-decoration: underline;
+  text-decoration-color: var(--ref);
+}

@@ -94,7 +94,7 @@ Apix0n/Armus
 - [x] l 
 - [x] m 
 - [x] n 
-- [ ] o 
+- [x] o 
 - [x] p 
 - [x] q 
 - [x] r 
@@ -132,6 +132,5 @@ Sans remerciement:
 </tr>
 ```
 </details>    
-
 
 ### Créé par [Apix](https://github.com/Apix0n) avec ❤️
