@@ -2,6 +2,7 @@
 
 /* Import de la police et des icônes */
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Color+Emoji);
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons+Round);
 
 :root {
@@ -24,7 +25,7 @@ html {
 }
 
 body {
-  font-family: Montserrat, serif, Arial, Helvetica, sans-serif;
+  font-family: Montserrat, "Noto Color Emoji", serif, Arial, Helvetica, sans-serif;
   font-size: var(--fnt-size);
   color: var(--text);
   background-color: var(--bg);
@@ -273,13 +274,17 @@ li {
   font-size: 20px;
 }
 
-img.emoji {
+/* * This part of the code was to load Twemoji. Since I changed to Noto Color Emoji, I commented these lines. */
+
+/* img.emoji {
   height: 1em;
   width: 1em;
   margin: 0 .05em 0 .1em;
   vertical-align: -0.1em;
   border-radius: 0;
-}
+} */
+
+/* * End of the old Twemoji code. */
 
 .spaceline {
   height: 2px;

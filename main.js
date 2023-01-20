@@ -1,17 +1,21 @@
 console.log('%cArmus', 'color: #ff0000; font-size: 55px')
 console.log("Typing here may be dangerous, so be careful and DON'T paste scripts from strangers on the internet.")
 
-if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-    console.log("Twemoji: Device is a mobile, ignoring loading.");
-}
-else {
-    window.onload = function () {
-        console.log("Twemoji: Device is not a mobile, loading emojis.");
-        twemoji.parse(document.body,
-            { folder: 'svg', ext: '.svg' }
-        );
-    }
-}
+// * This part of the code was to load Twemoji. Since I changed to Noto Color Emoji, I commented these lines. 
+
+// if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+//     console.log("Twemoji: Device is a mobile, ignoring loading.");
+// }
+// else {
+//     window.onload = function () {
+//         console.log("Twemoji: Device is not a mobile, loading emojis.");
+//          twemoji.parse(document.body,
+//              { folder: 'svg', ext: '.svg' }
+//         );
+//     }
+// }
+
+// * End of the old Twemoji code.
 
 // Rickroll functions
 function rick() {
