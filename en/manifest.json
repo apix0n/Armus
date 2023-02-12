@@ -1,0 +1,24 @@
+{
+    "name": "Armus in English",
+    "short_name": "Armus EN",
+    "start_url": "./?launch=pwa",
+    "description": "A project to organize all the custom amogus into an army!",
+    "lang": "en-GB",
+    "background_color": "#0f00e0",
+    "__comment__theme_color": "#0f00e0",
+    "scope": ".",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "pwa-icon.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "pwa-icon-maskable.png",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

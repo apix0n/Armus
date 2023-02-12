@@ -1,6 +1,7 @@
-/* Styles CSS créés par Apix pour le site internet d'Armus */
+/* Made by Apix | @Apix0n */
+/* style.css for https://github.com/Apix0n/Armus */
 
-/* Import de la police et des icônes */
+/* Import font, icons and emojis */
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700);
 @import url(https://fonts.googleapis.com/css?family=Noto+Color+Emoji);
 @import url(https://fonts.googleapis.com/icon?family=Material+Icons+Round);
@@ -18,6 +19,8 @@
   --table: #5c5c5c;
   --btn-border: #000000;
   --link-color: #518ef0;
+  --lp-border: 5px;
+  --lp-border-color: #ffffff;
 }
 
 html {
@@ -25,7 +28,7 @@ html {
 }
 
 body {
-  font-family: Montserrat, "Noto Color Emoji", serif, Arial, Helvetica, sans-serif;
+  font-family: Montserrat, "Apple Color Emoji", "Noto Color Emoji", serif, Arial, Helvetica, sans-serif;
   font-size: var(--fnt-size);
   color: var(--text);
   background-color: var(--bg);
@@ -69,6 +72,25 @@ td {
   margin-bottom: 21.788px;
 }
 
+code {
+  padding: 0.2em 0.4em;
+  margin: 0;
+  font-size: .8em;
+  background-color: var(--code);
+  border-radius: 6px;
+  white-space: nowrap;
+  font-family: Consolas, Menlo, Monaco, "Lucida Console, Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace, serif;
+}
+
+li {
+  line-height: 1.5em;
+}
+
+blockquote {
+  border-left: 5px solid var(--code);
+  padding-left: 7.5px;
+}
+
 .members-table img {
   height: min(50vw, 300px);
 }
@@ -101,21 +123,9 @@ td {
   color: var(--ref);
 }
 
-code {
-  padding: 0.2em 0.4em;
-  margin: 0;
-  font-size: .8em;
-  background-color: var(--code);
-  border-radius: 6px;
-  white-space: nowrap;
-  font-family: Consolas, Menlo, Monaco, "Lucida Console, Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace, serif;
-}
-
-li {
-  line-height: 1.5em;
-}
-
-.ref, .ref2, .ref3 {
+.ref,
+.ref2,
+.ref3 {
   text-decoration: none;
   font-weight: 600;
   text-shadow: 0 0 10px;
@@ -134,7 +144,9 @@ li {
   color: var(--ref3);
 }
 
-.ref:hover, .ref2:hover, .ref3:hover  {
+.ref:hover,
+.ref2:hover,
+.ref3:hover {
   transition: text-shadow 0.5s;
   text-shadow: 0 0 20px;
 }
@@ -143,14 +155,8 @@ li {
   font-size: 30px;
 }
 
-.normalfontsize {
-  font-size: 1em
-}
-
 #one {
   color: #ffffff;
-  background: #790909;
-  background: linear-gradient(145deg, #2b0000 0%, #790909 35%, #ff0000 100%);
   align-items: center;
   text-align: center;
   justify-content: center;
@@ -160,42 +166,69 @@ li {
   line-height: .1em;
   margin: 0;
   padding: 0;
-  background-size: 400% 400%;
-  animation: animated-gradient 10s ease infinite;
 }
 
 /* Start languages colors */
 
+/* French */
+#one.color-fr,
+.topback.color-fr {
+  background: #ff0000;
+  background: linear-gradient(145deg, #ff0000 0%, #790909 35%, #2b0000 100%);
+  background-size: 400% 400%;
+  animation: animated-gradient 10s ease infinite;
+}
+
+.color-fr {
+  color: #ffffff;
+  background: #ff0000;
+  background: linear-gradient(145deg, #ff0000 0%, #790909 35%, #2b0000 100%);
+}
+
 /* English */
-#one.color-en, .topback.color-en {
+#one.color-en,
+.topback.color-en {
   background: #0f00e0;
   background: linear-gradient(145deg, #0f00e0 0%, #44017a 35%, #cf0202 100%);
-  background-size: 400% 400%; 
+  background-size: 400% 400%;
   animation: animated-gradient 10s ease infinite;
+}
+
+.color-en {
+  color: #ffffff;
+  background: #0f00e0;
+  background: linear-gradient(145deg, #0f00e0 0%, #44017a 35%, #cf0202 100%);
 }
 
 /* Turkish */
-#one.color-tr, .topback.color-tr {
-  background: #bb3333;
-  background: linear-gradient(145deg, #503a3a 0%, #bb3333 35%, #f52626 100%);
-  background-size: 400% 400%; 
+#one.color-tr,
+.topback.color-tr {
+  background: #f52626;
+  background: linear-gradient(145deg, #f52626 0%, #bb3333 35%, #503a3a 100%);
+  background-size: 400% 400%;
   animation: animated-gradient 10s ease infinite;
 }
 
-/* Lolcat */
-#one.color-lolcat, .topback.color-lolcat {
-  background: #bb3333;
-  background: linear-gradient(145deg, #d1b35f 0%, #ce7c1f 35%, #7a3a05 100%);
-  background-size: 400% 400%; 
-  animation: animated-gradient 10s ease infinite;
+.color-tr {
+  color: #ffffff;
+  background: #f52626;
+  background: linear-gradient(145deg, #f52626 0%, #bb3333 35%, #503a3a 100%);
 }
 
 /* End Languages colors */
 
 @keyframes animated-gradient {
-  0% {background-position: 0% 50%}
-  50% {background-position: 100% 50%}
-  100% {background-position: 0% 50%}
+  0% {
+    background-position: 0% 50%
+  }
+
+  50% {
+    background-position: 100% 50%
+  }
+
+  100% {
+    background-position: 0% 50%
+  }
 }
 
 #one h1 {
@@ -232,32 +265,12 @@ li {
   margin: 8px;
 }
 
-.line-image img {
+.line-image {
   width: min(100%, 800px);
-}
-
-.menu {
-  border: 5px solid var(--text);
-  border-radius: 50px;
-  padding: 7.5px;
-  width: fit-content;
-  margin: auto;
-}
-
-.menu span {
-  font-size: 35px;
-  color: var(--text);
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-.menu a {
-  text-decoration: none;
 }
 
 .topback {
   height: 40px;
-  background: linear-gradient(145deg, #2b0000 0%, #790909 35%, #ff0000 100%);
   display: flex;
   align-items: center;
   text-align: center;
@@ -274,43 +287,20 @@ li {
   font-size: 20px;
 }
 
-/* * This part of the code was to load Twemoji. Since I changed to Noto Color Emoji, I commented these lines. */
-
-/* img.emoji {
-  height: 1em;
-  width: 1em;
-  margin: 0 .05em 0 .1em;
-  vertical-align: -0.1em;
-  border-radius: 0;
-} */
-
-/* * End of the old Twemoji code. */
-
 .spaceline {
-  height: 2px;
-  border-radius: 1px;
+  height: 3px;
   width: 75vw;
   background-color: var(--ref);
   margin-left: auto;
   margin-right: auto;
 }
 
-.goldlink a {
-  color: var(--ref);
-  text-decoration: none;
-  border-bottom: 1.5px solid;
-}
-
-blockquote {
-  border-left: 5px solid var(--code);
-  padding-left: 7.5px;
-}
-
 /* Test navbar */
 
 .navbar {
-  height: 2.25em;
   background-color: var(--code);
+  display: flex;
+  flex-direction: row;
 }
 
 .navbar ul {
@@ -343,26 +333,9 @@ blockquote {
 
 /* navbar end */
 
-.langpick {
-  text-align: center;
-  font-size: 2em;
-}
-
-.langpick .used {
-  filter: grayscale(1);
-}
-
-.langpick a img {
-  transition: transform 0.5s;
-}
-
-.langpick a:hover img {
-  transition: transform 0.5s;
-  transform: scale(1.05);
-}
-
 .dotlined {
   border-bottom: 2px var(--table) dashed;
+  cursor: help;
 }
 
 .styled-btn {
@@ -402,11 +375,6 @@ blockquote {
 .gh-button {
   width: 10em;
   height: 2em;
-}
-
-.red-btn {
-  color: #ffffff;
-  background: linear-gradient(145deg, #2b0000 0%, #790909 35%, #ff0000 100%);
 }
 
 .text-btn {
@@ -469,6 +437,7 @@ blockquote {
   border-radius: 1.5em;
   background: var(--ref);
   transition: transform 0.5s, box-shadow 0.5s;
+  cursor: pointer;
 }
 
 .closerick:hover {
@@ -492,4 +461,110 @@ blockquote {
 .ricklink {
   text-decoration: underline;
   text-decoration-color: var(--ref);
+  cursor: pointer;
+}
+
+/* Language picker */
+
+.lp-circlelogo {
+  border: .035em solid var(--lp-border-color);
+  border-radius: 50%;
+  height: 25vh;
+  width: 25vh;
+  background: #000000;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  font-size: 30vh;
+  z-index: 5;
+}
+
+.lp-logo {
+  height: .5em;
+  display: inline-flex;
+  align-self: center;
+  top: .125em;
+  position: relative;
+}
+
+.lp-lang1 {
+  position: fixed;
+  top: 0;
+  height: 50vh;
+  width: 100vw;
+  text-align: center;
+  line-height: 30vh;
+  border-bottom: var(--lp-border) solid var(--lp-border-color);
+}
+
+.lp-lang2 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 50vh;
+  width: 50vw;
+  text-align: center;
+  line-height: 40vh;
+  border-top: var(--lp-border) solid var(--lp-border-color);
+  border-right: var(--lp-border) solid var(--lp-border-color);
+}
+
+.lp-lang3 {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  height: 50vh;
+  width: 50vw;
+  text-align: center;
+  line-height: 40vh;
+  border-top: var(--lp-border) solid var(--lp-border-color);
+  border-left: var(--lp-border) solid var(--lp-border-color);
+}
+
+.lp-lang1 h1,
+.lp-lang2 h1,
+.lp-lang3 h1 {
+  transition: transform 0.5s;
+  font-size: min(11vw, 11vh);
+}
+
+.lp-lang1 h1:hover,
+.lp-lang2 h1:hover,
+.lp-lang3 h1:hover {
+  transition: transform 0.5s;
+  transform: scale(1.1);
+}
+
+.lp-selector-mp {
+  color: var(--ref);
+  text-decoration: none;
+  font-size: 1.25em;
+  margin-bottom: 21.788px;
+  display: inline-block;
+}
+
+/* End new langpicker */
+
+.progressbar {
+  background-color: var(--code);
+  border-radius: 32px;
+  width: 75vw;
+  margin: auto;
+}
+
+.progressbar-inside {
+  content: "";
+  display: table;
+  clear: both;
+  border-radius: 32px;
+  background-color: var(--ref);
+  height: 17.5px;
+  text-align: center;
+  color: #24292f;
+  font-weight: 500;
 }

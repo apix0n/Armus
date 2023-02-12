@@ -1,22 +1,14 @@
 ---
 name: Double
-about: Un membre de l'armée est apparu deux fois dans les fichiers ?
+about: A member of the Armus appeared 2 times.
 title: ''
-labels: Double
+labels: DoubleCharacter
 assignees: ''
 
 ---
 
 # 🧑‍🤝‍🧑 Double
 
-## Le nom du personnage:
-<!-- Insérez votre réponse sous ce trait -->
+The character's name: 
 
-* 
-
----
-
-## Où est-il apparu plusieurs fois?
-<!-- Insérez votre réponse sous ce trait -->
-
-* 
+Where did it appear multiple times? 

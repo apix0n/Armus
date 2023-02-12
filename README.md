@@ -14,71 +14,72 @@
     </a>
 </p>
 
-__🌹 Armus est un projet hébergé sur GitHub créé avec des amis pour organiser tous les amogus personnalisés afin d'en faire une armée.__
+__🌹 Armus is a project hosted on GitHub, created with friends to organize all the custom amogi to make an army.__
 
-## 🏅 Médailles
+* amogus, /aˈmoɡɪs, aˈmoɡus/ 
+* plural: amogi, /aˈmoɡɪ/
+* _noun_
+* 1/ A crewmate or impostor character from the videogame Among Us.
+
+## 🏅 Medals
 
 <p align=center>
-    <img src="other/achievements/creation.png" height=200 title="Création du projet">
-    <img src="other/achievements/25-membres.png" height=200 title="25 membres dans l'armée!">
-    <img src="other/achievements/certif.png" height=200 title="Projet qualifié d'art par un expert!">
-    <img src="other/achievements/site.png" height=200 title="Ouverture du site!">
-    <img src="other/achievements/50-membres.png" height=200 title="50 membres dans l'armée!">
-    <img src="other/achievements/10-contributeurs.png" height=200 title="10 artistes!">
-    <img src="other/achievements/75-membres.png" height=200 title="75 membres dans l'armée!">
-    <img src="other/achievements/100-commits.png" height="200" title="100 commits sur GitHub!"></a>
-    <img src="other/achievements/traduction.png" height=200 title="Traduction du site">
-    <img src="other/achievements/100-membres.png" height=200 title="100 membres dans l'armée! 🎊">
-    <img src="other/achievements/20-contributeurs.png" height=200 title="20 artistes!">
+    <img src="other/achievements/creation.png" height=200 title="Creation of the project">
+    <img src="other/achievements/25-membres.png" height=200 title="25 members in the army!">
+    <img src="other/achievements/certif.png" height=200 title="Project qualified as art by an expert!">
+    <img src="other/achievements/site.png" height=200 title="Opening of the website!">
+    <img src="other/achievements/50-membres.png" height=200 title="50 members in the army!">
+    <img src=other/achievements/10-contributeurs.png height=200 title="10 artists!">
+    <img src=other/achievements/75-membres.png height=200 title="75 members in the army!">
+    <img src="other/achievements/100-commits.png" height="200" title="100 commits on GitHub!">
+    <img src=other/achievements/traduction.png height=200 title="Website's translation">
+    <img src=other/achievements/100-membres.png height=200 title="100 members in the army! 🎊">
+    <img src=other/achievements/20-contributeurs.png height=200 title="20 artists!">
 </p>
 
-## ❓ Comment voir les personnages?
+## ❓ How to see the characters?
 
-Merci de vous rendre sur https://apix0n.github.io/Armus/fr ou de cliquer sur le bouton "Site Internet" en dessous du personnage.
+Please go to https://apix0n.github.io/Armus or click on a website button in your language below the character.
 
-## 📁 Que sont tous ces dossiers?
+## 📁 What are all those folders?
 
 ```
-Apix0n/Armus
-├── .github                     <--- Fichiers de GitHub
+Armus
+├── .github                     <--- GitHub files
 │   └── ISSUE_TEMPLATE
-├── en                          <--- Site en Anglais
-├── files                       <--- Image des personnages (en .jpeg)
-├── fr                          <--- Site en Français
+├── en                          <--- Website in English
+├── fr                          <--- Website in French
 ├── other
-│   ├── achievements            <--- Médailles (en .png)
-│   ├── achievements-psd        <--- Médailles (en .psd)
-│   ├── buttons                 <--- Images des boutons du README (en .png)
-│   ├── buttons-psd             <--- Images des boutons du README (en .psd)
-│   └── creation-personnages    <--- Fichiers pour la création des personnages
-└── tr                          <--- Site en Turc
+│   ├── achievements            <--- Medals (in .png)
+│   ├── achievements-psd        <--- Medals (in .psd)
+│   ├── buttons                 <--- Images of the buttons in the README (in .png)
+│   ├── buttons-psd             <--- Images of the buttons in the README (in .psd)
+│   ├── colored-psd             <--- Images for the PWA icons (in .psd)
+│   └── creation-personnages    <--- Files for creating the characters
+├── pics                        <--- Characters pics (in .jpeg)
+└── tr                          <--- Website in Turkish
 ```
 
-## 🛡 Archive
-
-* Le 12 juillet 2022, le site a été déplacé depuis https://github.com/Apix0n/ArmusWeb dans le dossier `/docs` de ce dépôt et `Apix0n/ArmusWeb` est devenu une archive.
-* Le 22 octobre 2022, le site a été déplacé depuis `/docs` à la racine `/` de ce dépôt. 
-
-## ✨ Liens utiles
+## ✨ Useful links
 <p align=center>
-    <a href="https://apix0n.github.io/Armus/fr/#acknowledgements">
-        <img src="other/buttons/remerciements.png" height=32.5 alt="Remerciements">
+    <a href="https://apix0n.github.io/Armus/en/#acknowledgements">
+        <img src="other/buttons/remerciements.png" height=32.5 alt="Acknowledgements">
     </a>
-    <a href="https://apix0n.github.io/Armus/fr/#problème">
-        <img src="other/buttons/probleme.png" height=32.5 alt="Un problème ?">
+    <a href="https://apix0n.github.io/Armus/en/#problem">
+        <img src="other/buttons/probleme.png" height=32.5 alt="A problem?">
     </a>
 </p>
 
-## ℹ️ Autres
+## ℹ️ Other
 
-* Si vous voulez ajouter un personnage, regardez https://apix0n.github.io/Armus/fr#character,
-* Si vous voulez faire d'autres modifications, regardez https://apix0n.github.io/Armus/fr#problem,
-* Si vous voulez réutiliser ce projet, veuillez mentionner mon nom et celui d'Armus sur le README & le site.
+* If you want to create a character, look at https://apix0n.github.io/Armus/en#character,
+* If you want to do other modifications, look at https://apix0n.github.io/Armus/en#problem,
+* If you want to reuse this project, mention my name and Armus' on the README and the website.
 
 <details>
-    <summary>Alphabet de l'Armus</summary>
+    <summary>Armus Alphabet</summary>
 
-**Armus possède des personnages qui commençent par les lettres:**
+**Armus has characters that start with the letters:**
 
 - [x] a 
 - [x] b 
@@ -110,27 +111,27 @@ Apix0n/Armus
 </details>
 
 <details>
-    <summary>Code pour créer un personnage</summary>
+    <summary>Code to create a character</summary>
 
-Si vous ne pouvez pas utiliser `makecode.sh` car vous êtes sur un système Windows (ou autre système ne supportant pas sh), veuillez modifier les codes ci-dessous. 
+If you can't use `accm.sh`, edit the codes below. 
 
-Avec un remerciement dans la section dédiée: (+ nom en or)
+With an acknowledgements in the dedicated section: (+ golden name)
 ```html
 <tr>
-<td><a class="ref" href="#AN-[id-remerciements]">[nomdupersonnage]</a></td>
-<td><p><img src="../files/[nomdupersonnage].jpeg"></p></td>
-<td><a href="../files/[nomdupersonnage].jpeg"><span class="material-icons-round">link</span></a></td>
+<td><a class="ref" href="#AN-[id-acknowledgements]">[charactername]</a></td>
+<td><p><img src="pics/[charactername].jpeg"></p></td>
+<td><a href="pics/[charactername].jpeg"><span class="material-icons-round">link</span></a></td>
 </tr>
 ```
 
-Sans remerciement:
+Without acknowledgements:
 ```html
 <tr>
-<td>[nomdupersonnage]</td>
-<td><p><img src="../files/[nomdupersonnage].jpeg"></p></td>
-<td><a href="../files/[nomdupersonnage].jpeg"><span class="material-icons-round">link</span></a></td>
+<td>[charactername]</td>
+<td><p><img src="pics/[charactername].jpeg"></p></td>
+<td><a href="pics/[charactername].jpeg"><span class="material-icons-round">link</span></a></td>
 </tr>
 ```
 </details>    
 
-### Créé par [Apix](https://github.com/Apix0n) avec ❤️
+### Made by [Apix](https://github.com/Apix0n) with ❤️ | 2022-2023

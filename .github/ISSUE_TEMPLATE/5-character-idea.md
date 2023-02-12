@@ -1,29 +1,16 @@
 ---
-name: Idée de personnage
-about: Vous avez une idée pour créer un personnage ?
+name: Character idea
+about: You have an idea for a character?
 title: ''
-labels: Idée de personnage
+labels: CharacterIdea
 assignees: ''
 
 ---
 
-# 💡 Idée de personnage
+# 💡 Character idea
 
-## Le nom du personnage:
-<!-- Insérez votre réponse sous ce trait -->
+The name of the character: 
 
-* 
+Detailed description: 
 
----
-
-## Décrivez le:
-<!-- Insérez votre réponse DÉTAILLÉE sous ce trait -->
-
-* 
-
----
-
-## Décrivez le paysage si il est customisé:
-<!-- Insérez votre réponse sous ce trait -->
-
-* 
+Describe the landscape if there is a customised one: 

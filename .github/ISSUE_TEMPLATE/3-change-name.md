@@ -1,30 +1,16 @@
 ---
-name: Demander un changement de nom
-about: Vous voulez changer le nom d'un personnage ?
+name: Ask for a name change
+about: You want to change the name of a character?
 title: ''
-labels: Changement de nom
+labels: NameChange
 assignees: ''
 
 ---
 
-# ❗ Demande de changement de nom
+# ❗ Name change request
 
-## Le nom du personnage en question:
-<!-- Insérez votre réponse sous ce trait -->
+The character's name: 
 
-* 
+Why do you want to change its name? 
 
----
-
-## Pourquoi voulez-vous changer son nom ?
-<!-- Insérez votre réponse sous ce trait -->
-
-* 
-
----
-
-## Suggestion d'un nouveau nom:
-<!-- Insérez votre réponse sous ce trait -->
-
-* 
-
+The character's new name: 

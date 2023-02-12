@@ -1,0 +1,24 @@
+{
+    "name": "Türkçede Armus",
+    "short_name": "Armus TR",
+    "start_url": "./?launch=pwa",
+    "description": "Tüm özel amogusları bir orduya organize etmek için bir proje!",
+    "lang": "tr-TR",
+    "background_color": "#f52626",
+    "__comment__theme_color": "#f52626",
+    "scope": ".",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "pwa-icon.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "pwa-icon-maskable.png",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

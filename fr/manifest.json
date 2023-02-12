@@ -1,0 +1,24 @@
+{
+    "name": "Armus",
+    "short_name": "Armus",
+    "start_url": "./?launch=pwa",
+    "description": "Un projet pour organiser tous les amogus personnalisés afin d'en faire une armée!",
+    "lang": "fr-FR",
+    "background_color": "#ff0000",
+    "__comment__theme_color": "#ff0000",
+    "scope": ".",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "pwa-icon.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "pwa-icon-maskable.png",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

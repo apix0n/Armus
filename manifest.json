@@ -1,0 +1,24 @@
+{
+    "name": "Armus Lang Picker",
+    "short_name": "ArmusLP",
+    "start_url": "./",
+    "description": "A project to organize all the custom amogus into an army!",
+    "lang": "en-US",
+    "background_color": "#ff0000",
+    "__comment__theme_color": "#ff0000",
+    "scope": ".",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "pwa-icon.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "pwa-icon-maskable.png",
+            "sizes": "152x152",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}

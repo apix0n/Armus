@@ -1,16 +1,12 @@
 ## Apple
-
 # General
 .DS_Store
 .AppleDouble
 .LSOverride
-
 # Icon must end with two \r
 Icon
-
 # Thumbnails
 ._*
-
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
 .fseventsd
@@ -19,7 +15,6 @@ Icon
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
-
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
@@ -28,20 +23,16 @@ Temporary Items
 .apdisk
 
 ## vscode
-
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
-
 # Local History for Visual Studio Code
 .history/
-
 # Built Visual Studio Code Extensions
 *.vsix
 
 ## Armus
-
 temp/

@@ -1,6 +1,6 @@
 ---
 name: Question
-about: Vous avez une question ?
+about: You have a question?
 title: ''
 labels: Question
 assignees: ''
@@ -9,4 +9,4 @@ assignees: ''
 
 # ❓ Question
 
-<!-- Insérez votre question sous ce trait -->
+<!-- Write your question below this line. -->
