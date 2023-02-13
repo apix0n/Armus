@@ -4,6 +4,7 @@
 # https://github.com/Apix0n/Armus
 
 # Only runs on systems with Sh. `printf` must be installed.
+# Running `dos2unix` on this file may be useful if it doesn't run.
 # Can be ran with ./makecode.sh or ./makecode.sh [characterName] 0/1 [artistId]
 # ./makecode.sh abigus 0 or ./makecode.sh wizardus 1 AN-XNinja
 

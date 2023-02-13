@@ -83,7 +83,7 @@ code {
 }
 
 li {
-  line-height: 1.5em;
+  line-height: 1.6em;
 }
 
 blockquote {
@@ -153,6 +153,11 @@ blockquote {
 
 .material-icons-round {
   font-size: 30px;
+}
+
+.goldlink a {
+  color: var(--ref);
+  text-decoration: underline var(--ref);
 }
 
 #one {
@@ -459,8 +464,7 @@ blockquote {
 }
 
 .ricklink {
-  text-decoration: underline;
-  text-decoration-color: var(--ref);
+  text-decoration: underline var(--ref);
   cursor: pointer;
 }
 

@@ -115,7 +115,7 @@ Armus
 
 If you can't use `accm.sh`, edit the codes below. 
 
-With an acknowledgements in the dedicated section: (+ golden name)
+With an acknowledgement in the dedicated section: (+ golden name)
 ```html
 <tr>
 <td><a class="ref" href="#AN-[id-acknowledgements]">[charactername]</a></td>
@@ -124,7 +124,7 @@ With an acknowledgements in the dedicated section: (+ golden name)
 </tr>
 ```
 
-Without acknowledgements:
+Without an acknowledgement:
 ```html
 <tr>
 <td>[charactername]</td>
