@@ -19,27 +19,27 @@ __🌹 Armus is a project hosted on GitHub, created with friends to organize all
 * amogus, /aˈmoɡɪs, aˈmoɡus/ 
 * plural: amogi, /aˈmoɡɪ/
 * _noun_
-* 1/ A crewmate or impostor character from the videogame Among Us.
+* 1/ An edited crewmate or impostor from the videogame Among Us.
 
 ## 🏅 Medals
 
 <p align=center>
     <img src="other/achievements/creation.png" height=200 title="Creation of the project">
-    <img src="other/achievements/25-membres.png" height=200 title="25 members in the army!">
+    <img src="other/achievements/25-members.png" height=200 title="25 members in the army!">
     <img src="other/achievements/certif.png" height=200 title="Project qualified as art by an expert!">
-    <img src="other/achievements/site.png" height=200 title="Opening of the website!">
-    <img src="other/achievements/50-membres.png" height=200 title="50 members in the army!">
-    <img src=other/achievements/10-contributeurs.png height=200 title="10 artists!">
-    <img src=other/achievements/75-membres.png height=200 title="75 members in the army!">
+    <img src="other/achievements/website.png" height=200 title="Opening of the website!">
+    <img src="other/achievements/50-members.png" height=200 title="50 members in the army!">
+    <img src=other/achievements/10-artists.png height=200 title="10 artists!">
+    <img src=other/achievements/75-members.png height=200 title="75 members in the army!">
     <img src="other/achievements/100-commits.png" height="200" title="100 commits on GitHub!">
-    <img src=other/achievements/traduction.png height=200 title="Website's translation">
-    <img src=other/achievements/100-membres.png height=200 title="100 members in the army! 🎊">
-    <img src=other/achievements/20-contributeurs.png height=200 title="20 artists!">
+    <img src=other/achievements/translate.png height=200 title="Website's translation">
+    <img src=other/achievements/100-members.png height=200 title="100 members in the army! 🎊">
+    <img src=other/achievements/20-artists.png height=200 title="20 artists!">
 </p>
 
 ## ❓ How to see the characters?
 
-Please go to https://apix0n.github.io/Armus or click on a website button in your language below the character.
+Please go to https://apix0n.github.io/Armus or below the character, click on the right button to direct to your language. 
 
 ## 📁 What are all those folders?
 
@@ -55,7 +55,7 @@ Armus
 │   ├── buttons                 <--- Images of the buttons in the README (in .png)
 │   ├── buttons-psd             <--- Images of the buttons in the README (in .psd)
 │   ├── colored-psd             <--- Images for the PWA icons (in .psd)
-│   └── creation-personnages    <--- Files for creating the characters
+│   └── create-a-character      <--- Files for creating the characters
 ├── pics                        <--- Characters pics (in .jpeg)
 └── tr                          <--- Website in Turkish
 ```
@@ -63,10 +63,10 @@ Armus
 ## ✨ Useful links
 <p align=center>
     <a href="https://apix0n.github.io/Armus/en/#acknowledgements">
-        <img src="other/buttons/remerciements.png" height=32.5 alt="Acknowledgements">
+        <img src="other/buttons/acknowledgements.png" height=32.5 alt="Acknowledgements">
     </a>
     <a href="https://apix0n.github.io/Armus/en/#problem">
-        <img src="other/buttons/probleme.png" height=32.5 alt="A problem?">
+        <img src="other/buttons/problem.png" height=32.5 alt="A problem?">
     </a>
 </p>
 
@@ -77,7 +77,7 @@ Armus
 * If you want to reuse this project, mention my name and Armus' on the README and the website.
 
 <details>
-    <summary>Armus Alphabet</summary>
+    <summary>The Armus Alphabet</summary>
 
 **Armus has characters that start with the letters:**
 
@@ -134,4 +134,4 @@ Without an acknowledgement:
 ```
 </details>    
 
-### Made by [Apix](https://github.com/Apix0n) with ❤️ | 2022-2023
+### [Made by Apix with ❤️ | 2022-2023](https://github.com/Apix0n)
