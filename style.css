@@ -21,6 +21,8 @@
   --link-color: #518ef0;
   --lp-border: 5px;
   --lp-border-color: #ffffff;
+  --idea-gh-label: #ef8a56;
+  --addchar-gh-label: #0e8a16;
 }
 
 html {
@@ -42,6 +44,7 @@ body {
     --code: #24292f;
     --ref: #ffcc4d;
     --btn-border: #ffffff;
+    --addchar-gh-label: #18e022;
     color-scheme: dark;
   }
 }
@@ -142,6 +145,14 @@ blockquote {
 
 .ref3 {
   color: var(--ref3);
+}
+
+.idea-gh-label {
+  color: var(--idea-gh-label) !important;
+}
+
+.addchar-gh-label {
+  color: var(--addchar-gh-label);
 }
 
 .ref:hover,
@@ -264,6 +275,7 @@ blockquote {
   align-self: center;
   top: .125em;
   position: relative;
+  border-radius: 0;
 }
 
 #two {
@@ -400,7 +412,7 @@ blockquote {
 }
 
 .remerciements code a {
-  color: var(--link-color);
+  color: var(--addchar-gh-label);
 }
 
 .remerciements li:target {

@@ -6,7 +6,7 @@
 # Only runs on systems with Sh. `printf` must be installed.
 # Running `dos2unix` on this file may be useful if it doesn't run.
 # Can be ran with ./makecode.sh or ./makecode.sh [characterName] 0/1 [artistId]
-# ./makecode.sh abigus 0 or ./makecode.sh wizardus 1 AN-XNinja
+# ./makecode.sh abigus 0 or ./makecode.sh wizardus 1 XNinja
 
 echo "-- Armus Character Code Maker --"
 echo ""
@@ -32,7 +32,7 @@ if [ -n "$3" ]; then
 fi
 
 if [ "$isref" == "1" ]; then
-    codename="<a class=\"ref\" href=\"#$an\">$charactername</a>"
+    codename="<a class=\"ref\" href=\"#AN-$an\">$charactername</a>"
     refname="\n\n<code>$charactername</code>"
 else
     codename="$charactername"
@@ -43,5 +43,6 @@ mkdir -p temp
 printf "<tr>\n<td>$codename</td>\n<td><p><img src=\"../pics/$charactername.jpeg\"></p></td>\n<td><a href=\"../pics/$charactername.jpeg\"><span class=\"material-icons-round\">link</span></a></td>\n</tr>" > "temp/$charactername-$isref.txt"
 printf "$refname" >> temp/$charactername-$isref.txt
 
+echo ""
 echo "Exported to temp/$charactername-$isref.txt"
 echo "There are actually $(ls pics | wc -l) characters in the /pics folder."
