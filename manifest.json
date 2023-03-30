@@ -5,7 +5,6 @@
     "description": "A project to organize all the custom amogus into an army!",
     "lang": "en-US",
     "background_color": "#ff0000",
-    "__comment__theme_color": "#ff0000",
     "scope": ".",
     "display": "standalone",
     "icons": [

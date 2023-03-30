@@ -1,7 +1,7 @@
 {
     "name": "Armus",
     "short_name": "Armus",
-    "start_url": "./?launch=pwa",
+    "start_url": "./",
     "description": "Un projet pour organiser tous les amogus personnalisés afin d'en faire une armée!",
     "lang": "fr-FR",
     "background_color": "#ff0000",
@@ -9,6 +9,11 @@
     "scope": ".",
     "display": "standalone",
     "icons": [
+        {
+            "src": "at-icon.png",
+            "sizes": "114x114",
+            "type": "image/png"
+        },
         {
             "src": "pwa-icon.png",
             "sizes": "152x152",
