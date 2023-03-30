@@ -1,0 +1,24 @@
+name: "🗑️ Ask for a character deletion"
+title: "[CD] <character name>"
+description: "You want to send a request to delete a character."
+labels:
+  - "CharacterDeletion"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # 🗑️ Character deletion request
+  - type: input
+    attributes:
+      label: "Character name:"
+      description: "Write the name of the character you want to delete"
+      placeholder: "ex. abigus"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "Why do you want to delete it?"
+      description: "Write a long detailed response on why the character should be deleted."
+      placeholder: "Your detailed response"
+    validations:
+      required: true

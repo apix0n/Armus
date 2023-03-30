@@ -1,0 +1,31 @@
+name: "💡 Character idea"
+title: "[CI] <character name>"
+description: "You have an idea for a character."
+labels:
+  - "CharacterIdea"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # 💡 Character idea
+  - type: input
+    attributes:
+      label: "1st character name:"
+      description: "Write the name of the 1st character you found"
+      placeholder: "ex. abigus"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "Write a detailed description of the character"
+      description: "Write a long response on how the character looks."
+      placeholder: "Long response"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "Describe the background"
+      description: "**If there is a custom background**, write a long response on how it looks."
+      placeholder: "Optional long response"
+    validations:
+      required: false

@@ -1,0 +1,31 @@
+name: "❗ Ask for a name change"
+title: "[CCN] <character name>"
+description: "You want to ask to change the name of a character."
+labels:
+  - "NameChange"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # ❗ Name change request
+  - type: input
+    attributes:
+      label: "Character name:"
+      description: "Write the name of the character you want to change the name"
+      placeholder: "ex. abigus"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "Why do you want to change its name?"
+      description: "Write a long detailed response on why the character's name should be changed."
+      placeholder: "Your detailed response"
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: "Character's new name:"
+      description: "Write the new name of the character"
+      placeholder: "ex. bigus"
+    validations:
+      required: true

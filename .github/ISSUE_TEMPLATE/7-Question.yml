@@ -1,0 +1,16 @@
+name: "❓ Question"
+title: "<question>"
+description: "You have a question."
+labels:
+  - "Question"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # ❓ Question
+  - type: textarea
+    attributes:
+      label: "What is your question"
+      placeholder: "Write your question here"
+    validations:
+      required: true

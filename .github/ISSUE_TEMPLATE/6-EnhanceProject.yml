@@ -1,0 +1,30 @@
+name: "🚀 Enhance the project"
+title: "[EP] <idea>"
+description: "You have an idea to enhance the project."
+labels:
+  - "Idea/Enhancement"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # 🚀 Enhance the project
+  - type: input
+    attributes:
+      label: "What is your idea?"
+      description: "Write a short response on what your idea is."
+      placeholder: "Idea"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "Develop your idea"
+      description: "Write a long response on what your idea is, and how it would be possible."
+      placeholder: "Long response"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "Is your idea linked to a problem? If yes, explain the problem:"
+      placeholder: "Optional long response"
+    validations:
+      required: false

@@ -1,0 +1,31 @@
+name: "🧑‍🤝‍🧑 Double"
+title: "[D] <character name>"
+description: "A member of the Armus appeared 2 times."
+labels:
+  - "DoubleCharacter"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # 🧑‍🤝‍🧑 Double
+  - type: input
+    attributes:
+      label: "1st character name:"
+      description: "Write the name of the 1st character you found"
+      placeholder: "ex. abigus"
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: "2nd character name:"
+      description: "Write the name of the 2nd character you found"
+      placeholder: "ex. bigus"
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: "How are they similar?"
+      description: "**If the characters aren't the same**, write a small response on how the characters are similar."
+      placeholder: "Optional small response"
+    validations:
+      required: false
