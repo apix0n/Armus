@@ -1,5 +1,5 @@
 /* Made by Apix | @Apix0n */
-/* style.css for https://github.com/Apix0n/Armus */
+/* style.css for https://github.com/apix0n/Armus */
 
 /* Import font, icons and emojis */
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700);
@@ -30,7 +30,7 @@ html {
 }
 
 body {
-  font-family: Montserrat, "Apple Color Emoji", "Noto Color Emoji", serif, Arial, Helvetica, sans-serif;
+  font-family: Montserrat, Arial, Helvetica, sans-serif, "Apple Color Emoji", "Noto Color Emoji";
   font-size: var(--fnt-size);
   color: var(--text);
   background-color: var(--bg);
@@ -51,10 +51,20 @@ body {
 
 @media only screen and (max-width: 768px) {
   :root {
-    --fnt-size: 17.5px;
+    --fnt-size: 16.5px;
     --scroll-size: 40px;
     --scroll-border-size: 4px;
   }
+}
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--table);
+  border-radius: 20px;
+  border: 4px solid var(--bg);
 }
 
 a {
@@ -137,22 +147,27 @@ blockquote {
 
 .ref {
   color: var(--ref);
+  text-decoration-color: var(--ref) !important;
 }
 
 .ref2 {
   color: var(--ref2);
+  text-decoration-color: var(--ref2) !important;
 }
 
 .ref3 {
   color: var(--ref3);
+  text-decoration-color: var(--ref3) !important;
 }
 
 .idea-gh-label {
   color: var(--idea-gh-label) !important;
+  text-decoration-color: var(--idea-gh-label) !important;
 }
 
 .addchar-gh-label {
   color: var(--addchar-gh-label);
+  text-decoration-color: var(--addchar-gh-label) !important;
 }
 
 .ref:hover,
@@ -162,13 +177,13 @@ blockquote {
   text-shadow: 0 0 20px;
 }
 
-.material-icons-round {
-  font-size: 30px;
-}
-
-.goldlink a {
+a.goldlink,
+.goldlink a,
+.goldlink span {
   color: var(--ref);
-  text-decoration: underline var(--ref);
+  text-decoration-color: var(--ref);
+  text-decoration-line: underline;
+  cursor: pointer;
 }
 
 #one {
@@ -286,33 +301,15 @@ blockquote {
   width: min(100%, 800px);
 }
 
-.topback {
-  height: 40px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  justify-content: center;
-}
-
-.topback a {
-  color: #ffffff;
-  text-decoration: none;
-}
-
-.topback h4 {
-  color: #ffffff;
-  font-size: 20px;
-}
-
 .spaceline {
   height: 3px;
-  width: 75vw;
+  width: 75%;
   background-color: var(--ref);
   margin-left: auto;
   margin-right: auto;
 }
 
-/* Test navbar */
+/* navbar */
 
 .navbar {
   background-color: var(--code);
@@ -403,8 +400,33 @@ blockquote {
   margin-right: 10px;
 }
 
-.nounderline {
-  text-decoration: none
+.mir-btn span {
+  margin-left: 10px;
+}
+
+.mir-btn div {
+  padding-left: 0;
+}
+
+.onlymir-btn {
+  display: inline-flex;
+  padding: .3em;
+  margin: 0px;
+  cursor: pointer;
+}
+
+.onlymir-btn:hover {
+  box-shadow: none;
+  transform: none;
+}
+
+.onlymir-btn span {
+  padding-left: 0px;
+}
+
+.nounderline,
+.nounderline * {
+  text-decoration: none !important
 }
 
 .remerciements a {
@@ -429,8 +451,9 @@ blockquote {
   }
 }
 
-.members-table tbody tr td a span.material-icons-round {
+.members-table .material-icons-round {
   color: var(--ref);
+  font-size: 30px;
 }
 
 /* Rickroll */
@@ -564,6 +587,12 @@ blockquote {
   display: inline-block;
 }
 
+@media (display-mode: standalone) {
+  .lp-selector-mp {
+    display: none;
+  }
+}
+
 /* End new langpicker */
 
 .progressbar {
@@ -584,3 +613,229 @@ blockquote {
   color: #24292f;
   font-weight: 500;
 }
+
+.list-nostyle {
+  list-style: none;
+  padding: 0;
+}
+
+.list-nostyle li {
+  margin: 1em;
+}
+
+.material-icons-round {
+  text-decoration: none !important;
+}
+
+/* Invite */
+
+.invite {
+  background: var(--bg);
+  background: url("../other/Armus-line.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.invite-block {
+  box-sizing: border-box;
+  border-radius: 26px;
+  border: 1px solid var(--code);
+
+  height: 75vh;
+  width: 55vw;
+  background: var(--bg);
+  overflow-y: scroll;
+
+  margin: 0;
+  padding: 30px;
+
+  text-align: center;
+  color: var(--text);
+}
+
+.invite-block h2 {
+  font-weight: 500;
+}
+
+.invite-block h2 b {
+  font-weight: 700;
+}
+
+.invite-logo {
+  font-weight: 700 !important;
+  font-size: 3.5em;
+  margin-top: 0;
+  margin-bottom: 24.79px;
+}
+
+.invite-progress-container {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 7px;
+}
+
+.invite-progress-bar {
+  height: 100%;
+  width: 23%;
+  background-color: var(--code);
+  float: left;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+.invite-progress-active {
+  background-color: var(--ref);
+}
+
+.invite-big {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  height: 100vh;
+  width: 100vw;
+  background-color: #00000075;
+  justify-content: center;
+  align-items: center;
+}
+
+.invite-big-close {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  font-size: 35px;
+  border-radius: 1.5em;
+  background: var(--ref);
+  transition: transform 0.5s, box-shadow 0.5s;
+  cursor: pointer;
+}
+
+.invite-big-content {
+  background: var(--bg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  height: 75vh;
+  width: 75vw;
+  border: 5px solid var(--ref);
+  border-radius: 1.5vw;
+  margin: 5px;
+}
+
+.invite-big-list {
+  list-style: inside;
+  padding: 0;
+}
+
+.invite-big-list li {
+  margin: 0.5em;
+}
+
+/* Mobile */
+@media only screen and (max-width: 768px) {
+  .invite {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--bg);
+    padding-bottom: 34.79px;
+  }
+
+  .invite-block {
+    all: unset;
+    box-sizing: border-box;
+    backdrop-filter: blur(20px);
+    height: 100vh;
+    width: 100vw;
+    padding: 30px;
+    text-align: center;
+  }
+}
+
+/* End invite */
+
+.regular {
+  font-weight: 400;
+}
+
+.medium {
+  font-weight: 500;
+}
+
+.semibold {
+  font-weight: 600;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.mir-intext {
+  position: relative;
+  top: 0.2em;
+}
+
+.text-input {
+  all: unset;
+  background: var(--code);
+  padding: 7.5px;
+  border-radius: 1.5em;
+  text-align: center;
+}
+
+.inputandshare {
+  display: inline-flex;
+  margin-bottom: 24.79px;
+}
+
+.inputandshare>* {
+  margin-right: 7.5px;
+}
+
+.list-nopadding,
+.list-nopadding * {
+  padding: 0px;
+}
+
+/* 404 */
+
+.fourzerofour {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  white-space: pre-wrap;
+}
+
+.fourzerofour h1 {
+  font-size: 2em;
+  font-family: Consolas, Menlo, Monaco, "Lucida Console", "Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace, serif;
+}
+
+.fourzerofour .styled-btn {
+  font-family: Montserrat, Arial, Helvetica, sans-serif, "Apple Color Emoji", "Noto Color Emoji";
+}
+
+.fourzerofour * {
+  margin: 0px;
+}
+
+@media only screen and (max-width: 768px) {
+  .fourzerofour h1 {
+    font-size: 1.25em;
+  }
+}
+
+/* 404 end */

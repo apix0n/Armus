@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>Choose how you want to create your character</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../../style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+    <link rel="mask-icon" href="../../icon.svg" color="#ff0000">
+    <meta property="og:image" content="../social.png">
+    <meta name="description" content="Learn how to create a character for Armus: a project to organize all the custom amogi into an army!">
+    <script src="../../main.js" async></script>
+    <link rel="manifest" href="../manifest.json">
+  </head>
+
+  <body class="invite">
+    <div class="invite-block">
+      <h1 class="invite-logo">Armus <picture>
+          <source srcset="../../icon-dark.svg" media="(prefers-color-scheme: light)">
+          <source srcset="../../icon.svg">
+          <!-- Fallback -->
+          <img class="svgicon" src="../../icon-dark.svg" alt="Armus icon">
+        </picture>
+      </h1>
+      <div class="spaceline"></div>
+      <h2>Choose how you want to create your character:</h2>
+      <p>You need to choose how you will create your character. You have the choice between 4 options !</p>
+      <ul class="list-nostyle goldlink nounderline medium">
+        <li><a href="draw.html">🎨 Draw on the original image</a></li>
+        <li><a href="character.html">🤺 Create a custom character</a></li>
+        <li><a href="background.html">🖼 Create a custom background</a></li>
+        <li><a href="idea.html">💡 Give an idea</a></li>
+      </ul>
+      <blockquote style="margin-inline: 0px;">
+        <p>You can also combine multiple techniques to create a character even more original.</p>
+        <p class="goldlink"><b>Examples:</b> <a href="../../pics/cactus.jpeg" target="_blank">cactus</a>, <a href="../../pics/fishus.jpeg" target="_blank">fishus</a>, <a href="../../pics/icecreamus.jpeg" target="_blank">icecreamus</a></p>
+      </blockquote>
+      <div class="spaceline"></div>
+      <p class="bold">❗ Each character needs to have a visor, else it will be refused.</p>
+      <!-- &nbsp; is used to make the padding-bottom attribute on .invite work on WebKit -->
+      &nbsp;
+    </div>
+
+    <div class="invite-progress-container">
+      <div class="invite-progress-bar"></div>
+      <div class="invite-progress-bar invite-progress-active"></div>
+      <div class="invite-progress-bar"></div>
+      <div class="invite-progress-bar"></div>
+    </div>
+
+  </body>
+
+</html>

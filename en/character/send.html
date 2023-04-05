@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <title>Send the character</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../../style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+    <link rel="mask-icon" href="../../icon.svg" color="#ff0000">
+    <meta property="og:image" content="../social.png">
+    <meta name="description" content="Learn how to create a character for Armus: a project to organize all the custom amogi into an army!">
+    <script src="../../main.js" async></script>
+    <link rel="manifest" href="../manifest.json">
+  </head>
+
+  <body class="invite">
+    <div class="invite-block">
+      <h1 class="invite-logo">Armus <picture>
+          <source srcset="../../icon-dark.svg" media="(prefers-color-scheme: light)">
+          <source srcset="../../icon.svg">
+          <!-- Fallback -->
+          <img class="svgicon" src="../../icon-dark.svg" alt="Armus icon">
+        </picture>
+      </h1>
+      <div class="spaceline"></div>
+      <h2>✉ Send the character</h2>
+      <p>Vous avez terminé de dessiner votre personnage, <b>vous devez maintenant l'envoyer</b>.</p>
+      <p>You finished to draw your character, <b>you now need to send it</b>.</p>
+      <ul class="bold list-nopadding" style="list-style-position: inside">
+        <li>Export the character in <code>.jpeg</code> if possible,</li>
+        <li>Give it a name that:
+          <ul class="regular">
+            <li>Finishes by <code>-us</code> if it's a boy,</li>
+            <li>Or that finishes by <code>-a</code> if it's a girl</li>
+          </ul>
+        </li>
+        <li>Finally, send everything:
+          <ul class="regular">
+            <li><a class="goldlink" href="https://github.com/Apix0n/Armus/issues/new?labels=AddCharacter&template=1-AddCharacter.yml&title=%5BAC%5D+%3Ccharacter+name%3E" target="_blank">Either on GitHub</a></li>
+            <li>Either directly at Apix the image of the character, its name and the name under which you want to appear in the Acknowledgements</li>
+          </ul>
+        </li>
+      </ul>
+      <div class="spaceline"></div>
+      <p class="bold">👑 Vous avez terminé! Merci pour votre collaboration, votre personnage devrait être ajouté à l'Armus!</p>
+      <p class="bold">👑 You finished! Thanks for your contribution, your character should be added to Armus!</p>
+      <!-- &nbsp; is used to make the padding-bottom attribute on .invite work on WebKit -->
+      &nbsp;
+    </div>
+
+    <div class="invite-progress-container">
+      <div class="invite-progress-bar"></div>
+      <div class="invite-progress-bar"></div>
+      <div class="invite-progress-bar"></div>
+      <div class="invite-progress-bar invite-progress-active"></div>
+    </div>
+
+  </body>
+
+</html>

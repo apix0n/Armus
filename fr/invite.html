@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <title>Vous avez été invité à Armus</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="mask-icon" href="../icon.svg" color="#ff0000">
+    <meta property="og:image" content="social.png">
+    <meta name="description" content="Vous avez été invité à rejoindre Armus: un projet pour organiser tous les amogi personnalisés afin d'en faire une armée!">
+    <script src="../main.js" async></script>
+    <link rel="manifest" href="manifest.json">
+  </head>
+
+  <body onload="changeInviterName()" class="invite">
+    <script>
+      function inviteBigContentNeededThings() {
+        var border = document.getElementById("invite-big-content-needed-things");
+        border.style.display = "flex";
+      }
+
+      function closeInviteBigContentNeededThings() {
+        var border = document.getElementById("invite-big-content-needed-things");
+        border.style.display = "none";
+      }
+
+      function inviteBigContentNeededInformations() {
+        var border = document.getElementById("invite-big-content-needed-informations");
+        border.style.display = "flex";
+      }
+
+      function closeInviteBigContentNeededInformations() {
+        var border = document.getElementById("invite-big-content-needed-informations");
+        border.style.display = "none";
+      }
+    </script>
+    <div class="invite-block">
+      <h1 class="invite-logo">Armus <picture>
+          <source srcset="../icon-dark.svg" media="(prefers-color-scheme: light)">
+          <source srcset="../icon.svg">
+          <!-- Fallback -->
+          <img class="svgicon" src="../icon-dark.svg" alt="Armus icon">
+        </picture>
+      </h1>
+      <div class="spaceline"></div>
+      <h2><b class="inviter-name">Apix</b> vous a invité à participer à Armus</h2>
+      <p>Armus est une collection de personnages modifiés par des personnes comme vous. Les personnages, appelés "amogi", sont basés sur le meme "<a href="../pics/amogus.jpeg" class="goldlink" target="_blank">amogus</a>". Chaque personnage représente un métier, un objet, une célébrité, une action... ils ont leur propre peronnalité. Pour participer, vous devez juste dessiner un personnage. (cela prend 15 minutes!)</p>
+      <ul class="list-nostyle goldlink nounderline medium">
+        <li><a href="./#army" target="_blank">👀 Voir les personnages existants <span class="material-icons-round mir-intext">open_in_new</span></a></li>
+        <li><span onclick="inviteBigContentNeededThings()">🤔 Qu'est-ce que j'ai besoin?</span></li>
+        <li><span onclick="inviteBigContentNeededInformations()">🔒 Quelles informations personnelles dois-je donner?</span></li>
+      </ul>
+      <div class="spaceline"></div>
+      <h3>Vous êtes convaincu?</h3>
+      <a href="character" class="nounderline">
+        <div class="styled-btn color-fr text-btn mir-btn">
+          <span class="material-icons-round">keyboard_arrow_right</span>
+          <div>Créer un personnage</div>
+        </div>
+      </a>
+      <!-- &nbsp; is used to make the padding-bottom attribute on .invite work on WebKit -->
+      &nbsp;
+    </div>
+
+    <div class="invite-big" id="invite-big-content-needed-things">
+      <span class="material-icons-round invite-big-close" onclick="closeInviteBigContentNeededThings()">close</span>
+      <div class="invite-big-content">
+        <div style="padding: 30px; text-align: center;">
+          <h3>Pour créer un personnage pour l'Armus, vous aurez besoin:</h3>
+          <ul class="invite-big-list">
+            <li>D'une application de dessin (Ibis Paint, Sketchbook, Procreate, Paint...),</li>
+            <li>Des images,</li>
+            <li>Une idée,</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="invite-big" id="invite-big-content-needed-informations">
+      <span class="material-icons-round invite-big-close" onclick="closeInviteBigContentNeededInformations()">close</span>
+      <div class="invite-big-content">
+        <div style="padding: 30px; text-align: center;">
+          <h3>Les informations personnelles que vous devez donner si vous voulez créer un personnage pour l'Armus sont:</h3>
+          <ul class="invite-big-list">
+            <li>Le nom sous lequel vous voulez apparaître dans les Remerciements (doit être un pseudonyme),</li>
+            <li>Un moyen de contact (Discord ou e-mail),</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="invite-progress-container">
+      <div class="invite-progress-bar invite-progress-active"></div>
+      <div class="invite-progress-bar"></div>
+      <div class="invite-progress-bar"></div>
+      <div class="invite-progress-bar"></div>
+    </div>
+
+  </body>
+
+</html>

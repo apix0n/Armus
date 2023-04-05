@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  <head>
+    <title>Envoyez votre personnage</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="../../style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+    <link rel="mask-icon" href="../../icon.svg" color="#ff0000">
+    <meta property="og:image" content="../social.png">
+    <meta name="description" content="Apprenez à créer un personnage pour Armus: un projet pour organiser tous les amogi personnalisés afin d'en faire une armée!">
+    <script src="../../main.js" async></script>
+    <link rel="manifest" href="../manifest.json">
+  </head>
+
+  <body class="invite">
+    <div class="invite-block">
+      <h1 class="invite-logo">Armus <picture>
+          <source srcset="../../icon-dark.svg" media="(prefers-color-scheme: light)">
+          <source srcset="../../icon.svg">
+          <!-- Fallback -->
+          <img class="svgicon" src="../../icon-dark.svg" alt="Armus icon">
+        </picture>
+      </h1>
+      <div class="spaceline"></div>
+      <h2>✉ Envoyer le personnage</h2>
+      <p>Vous avez terminé de dessiner votre personnage, <b>vous devez maintenant l'envoyer</b>.</p>
+      <ul class="bold list-nopadding" style="list-style-position: inside">
+        <li>Exportez le personnage en <code>.jpeg</code> si possible,</li>
+        <li>Donnez lui un nom qui:
+          <ul class="regular">
+            <li>Finit par <code>-us</code> si c'est un garçon,</li>
+            <li>Ou qui finit par <code>-a</code> si c'est une fille</li>
+          </ul>
+        </li>
+        <li>Finalement, envoyez le tout:
+          <ul class="regular">
+            <li><a class="goldlink" href="https://github.com/Apix0n/Armus/issues/new?labels=AddCharacter&template=1-AddCharacter.yml&title=%5BAC%5D+%3Ccharacter+name%3E" target="_blank">Soit sur GitHub</a></li>
+            <li>Soit directement à Apix l'image du personnage, son nom et le nom sous lequel vous voulez apparaître dans les remerciements.</li>
+          </ul>
+        </li>
+      </ul>
+      <div class="spaceline"></div>
+      <p class="bold">👑 Vous avez terminé! Merci pour votre collaboration, votre personnage devrait être ajouté à l'Armus!</p>
+      <!-- &nbsp; is used to make the padding-bottom attribute on .invite work on WebKit -->
+      &nbsp;
+    </div>
+
+    <div class="invite-progress-container">
+      <div class="invite-progress-bar"></div>
+      <div class="invite-progress-bar"></div>
+      <div class="invite-progress-bar"></div>
+      <div class="invite-progress-bar invite-progress-active"></div>
+    </div>
+
+  </body>
+
+</html>
