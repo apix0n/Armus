@@ -10,7 +10,7 @@ body:
         # 💡 Character idea
   - type: input
     attributes:
-      label: "1st character name:"
+      label: "Character name:"
       description: "Write the name of the 1st character you found"
       placeholder: "ex. abigus"
     validations:

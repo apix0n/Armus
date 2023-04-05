@@ -19,7 +19,7 @@ body:
     attributes:
       label: "Image"
       description: "You can send the image by uploading it on a service like Imgur and by pasting the link below, or you can upload it in the box below."
-      placeholder: "Paste the URL, or upload the image by tapping \"Attach files...\" below, or use Drag and Drop."
+      placeholder: "Paste the Imgur link, or you can upload the image by tapping \"Attach files...\" below if you are on computer, tap on the Picture icon on the top bar or use Drag and Drop."
     validations:
       required: true
   - type: input
