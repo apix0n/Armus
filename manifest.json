@@ -1,6 +1,6 @@
 {
-    "name": "Armus Lang Picker",
-    "short_name": "ArmusLP",
+    "name": "Armus",
+    "short_name": "Armus",
     "start_url": "./",
     "description": "A project to organize all the custom amogus into an army!",
     "lang": "en-US",
@@ -8,6 +8,11 @@
     "scope": ".",
     "display": "standalone",
     "icons": [
+        {
+            "src": "at-icon.png",
+            "sizes": "114x114",
+            "type": "image/png"
+        },
         {
             "src": "pwa-icon.png",
             "sizes": "152x152",
