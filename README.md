@@ -16,10 +16,18 @@
 
 __🌹 Armus is a project hosted on GitHub, created with friends to organize all the custom amogi to make an army.__
 
-* amogus, /aˈmoɡɪs, aˈmoɡus/ 
-* plural: amogi, /aˈmoɡɪ/
-* _noun_
+## 📕 Definitions
+
+* **amogus** /aˈmoɡɪs, aˈmoɡus/
+* *noun*
 * 1/ An edited crewmate or impostor from the videogame Among Us.
+* 2/ Misspelling/slang of the videogame Among Us. 
+
+-----
+
+* **amogi** /aˈmoɡɪ/
+* *plural noun*
+* 1/ Edited crewmates or impostors from the videogame Among Us.
 
 ## 🏅 Medals
 
@@ -39,25 +47,37 @@ __🌹 Armus is a project hosted on GitHub, created with friends to organize all
 
 ## ❓ How to see the characters?
 
-Please go to https://apix0n.github.io/Armus or below the character, click on the right button to direct to your language. 
+* Go to https://apix0n.github.io/Armus and select your preferred language,
+
+**or**
+
+* Below the icon, click on a button to go to your preferred language. 
 
 ## 📁 What are all those folders?
 
 ```
 Armus
 ├── .github                     <--- GitHub files
-│   └── ISSUE_TEMPLATE
-├── en                          <--- Website in English
-├── fr                          <--- Website in French
+│   └── ISSUE_TEMPLATE          <--- Issue templates
+│
+├── en                          <--- English version of the website
+│   └── character               <--- Character guide in English
+│
+├── fr                          <--- French version of the website
+│   └── character               <--- Character guide in French
+│
 ├── other
-│   ├── achievements            <--- Medals (in .png)
-│   ├── achievements-psd        <--- Medals (in .psd)
-│   ├── buttons                 <--- Images of the buttons in the README (in .png)
-│   ├── buttons-psd             <--- Images of the buttons in the README (in .psd)
-│   ├── colored-psd             <--- Images for the PWA icons (in .psd)
-│   └── create-a-character      <--- Files for creating the characters
-├── pics                        <--- Characters pics (in .jpeg)
-└── tr                          <--- Website in Turkish
+│   ├── achievements            <--- Medals (.png)
+│   ├── achievements-psd        <--- Medals (.psd)
+│   ├── buttons                 <--- README buttons (.png)
+│   ├── buttons-psd             <--- README buttons (.psd)
+│   ├── create-a-character      <--- Resources to create the characters
+│   └── icons-psd               <--- Icons (.psd)
+│
+├── pics                        <--- Images of the characters (.jpeg)
+│
+└── tr                          <--- Turkish version of the website
+
 ```
 
 ## ✨ Useful links
@@ -72,7 +92,7 @@ Armus
 
 ## ℹ️ Other
 
-* If you want to create a character, look at https://apix0n.github.io/Armus/en#character,
+* If you want to create a character, look at https://apix0n.github.io/Armus/en/character,
 * If you want to do other modifications, look at https://apix0n.github.io/Armus/en#problem,
 * If you want to reuse this project, mention my name and Armus' on the README and the website.
 
@@ -113,7 +133,7 @@ Armus
 <details>
     <summary>Code to create a character</summary>
 
-If you can't use `accm.sh`, edit the codes below. 
+If you can't use `./other/addcharacter.sh`, edit the codes below. 
 
 With an acknowledgement in the dedicated section: (+ golden name)
 ```html
@@ -134,4 +154,4 @@ Without an acknowledgement:
 ```
 </details>    
 
-### [Made by Apix with ❤️ | 2022-2023](https://github.com/Apix0n)
+### [Made by Apix with ❤️ | 2022-2023](https://github.com/apix0n)

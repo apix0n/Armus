@@ -1,4 +1,5 @@
 ## Apple
+
 # General
 .DS_Store
 .AppleDouble
@@ -22,7 +23,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+# -----------------------------------------------
+
 ## vscode
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -34,5 +38,8 @@ Temporary Items
 # Built Visual Studio Code Extensions
 *.vsix
 
+# -----------------------------------------------
+
 ## Armus
+
 temp/
