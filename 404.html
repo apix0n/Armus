@@ -5,10 +5,126 @@
     <title>404 | Armus</title>
     <meta charset="utf-8">
     <meta name="description" content="The resource you asked for doesn't exist.">
-    <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="manifest" href="manifest.json">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700);
+    
+      :root {
+        --text: #24292f;
+        --bg: #ffffff;
+        --fnt-size: 18.5px;
+        --btn-border: #000000;
+      }
+    
+      @media (prefers-color-scheme:dark) {
+        :root {
+          --text: #ffffff;
+          --bg: #0d1117;
+          --btn-border: #ffffff;
+          color-scheme: dark;
+        }
+      }
+    
+      @media only screen and (max-width: 768px) {
+        :root {
+          --fnt-size: 16.5px;
+        }
+      }
+    
+      body {
+        font-family: Montserrat, Arial, Helvetica, sans-serif, "Apple Color Emoji", "Noto Color Emoji";
+        font-size: var(--fnt-size);
+        color: var(--text);
+        background-color: var(--bg);
+        margin: 0;
+      }
+    
+      .nounderline,
+      .nounderline * {
+        text-decoration: none !important
+      }
+    
+      .styled-btn {
+        border: 3px solid var(--btn-border);
+        margin: auto;
+        border-radius: 1.5em;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        flex-direction: row;
+        align-items: center;
+        margin-top: 18.5px;
+        margin-bottom: 18.5px;
+        transition: box-shadow 0.5s, transform 0.5s;
+      }
+    
+      .styled-btn img {
+        height: 1em;
+        width: 1em;
+        display: inline-flex;
+        align-self: center;
+      }
+    
+      .styled-btn div {
+        font-weight: 500;
+        font-size: .95em;
+        padding-left: .3em;
+      }
+    
+      .styled-btn:hover {
+        transition: box-shadow 0.5s, transform 0.5s;
+        box-shadow: 0 0 10px var(--btn-border);
+        transform: scale(1.05);
+      }
+    
+      .text-btn {
+        width: fit-content;
+      }
+    
+      .text-btn div {
+        margin: 5px;
+        margin-right: 10px;
+      }
+    
+      .color-en {
+        color: #ffffff;
+        background: #0f00e0;
+        background: linear-gradient(145deg, #0f00e0 0%, #44017a 35%, #cf0202 100%);
+      }
+    
+      .fourzerofour {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        height: 100vh;
+        width: 100vw;
+        white-space: pre-wrap;
+      }
+    
+      .fourzerofour h1 {
+        font-size: 2em;
+        font-family: Consolas, Menlo, Monaco, "Lucida Console", "Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace, serif;
+      }
+    
+      .fourzerofour .styled-btn {
+        font-family: Montserrat, Arial, Helvetica, sans-serif, "Apple Color Emoji", "Noto Color Emoji";
+      }
+    
+      .fourzerofour * {
+        margin: 0px;
+      }
+    
+      @media only screen and (max-width: 768px) {
+        .fourzerofour h1 {
+          font-size: 1.25em;
+        }
+      }
+    </style>
   </head>
 
   <body>
@@ -22,10 +138,12 @@
      ╚═╝ ╚═════╝      ╚═╝
       </h1>
       <h2>The resource you are cherching for doesn't exist.</h2>
-      <a href="./" class="nounderline">
+      <a href="/Armus" class="nounderline">
         <div class="styled-btn color-en text-btn">
           <div>Go back to Armus</div>
         </div>
       </a>
     </div>
   </body>
+
+</html>
