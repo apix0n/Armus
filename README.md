@@ -31,18 +31,20 @@ __🌹 Armus is a project hosted on GitHub, created with friends to organize all
 
 ## 🏅 Medals
 
-<p align=center>
-    <img src="other/achievements/creation.png" height=200 title="Creation of the project">
-    <img src="other/achievements/25-members.png" height=200 title="25 members in the army!">
-    <img src="other/achievements/certif.png" height=200 title="Project qualified as art by an expert!">
-    <img src="other/achievements/website.png" height=200 title="Opening of the website!">
-    <img src="other/achievements/50-members.png" height=200 title="50 members in the army!">
-    <img src=other/achievements/10-artists.png height=200 title="10 artists!">
-    <img src=other/achievements/75-members.png height=200 title="75 members in the army!">
-    <img src="other/achievements/100-commits.png" height="200" title="100 commits on GitHub!">
-    <img src=other/achievements/translate.png height=200 title="Website's translation">
-    <img src=other/achievements/100-members.png height=200 title="100 members in the army! 🎊">
-    <img src=other/achievements/20-artists.png height=200 title="20 artists!">
+<p align="center">
+  <img src="other/achievements/creation.png" height=200 title="Creation of the project">
+  <img src="other/achievements/members-25.png" height=200 title="25 members in the army!">
+  <img src="other/achievements/certif.png" height=200 title="Project qualified as art by an expert!">
+  <img src="other/achievements/lang-fr.png" height=200 title="Opening of the website!">
+  <img src="other/achievements/members-50.png" height=200 title="50 members in the army!">
+  <img src=other/achievements/artists-10.png height=200 title="10 artists created characters!">
+  <img src=other/achievements/members-75.png height=200 title="75 members in the army!">
+  <img src="other/achievements/commits-100.png" height="200" title="100 commits on GitHub!">
+  <img src=other/achievements/lang-en.png height=200 title="Translation in English">
+  <img src=other/achievements/members-100.png height=200 title="100 members in the army! 🎊">
+  <img src=other/achievements/lang-tr.png height=200 title="Translation in Turkish">
+  <img src=other/achievements/artists-20.png height=200 title="20 artists created characters!!">
+  <img src=other/achievements/members-150.png height=200 title="150 members dans l'armée! 🎊">
 </p>
 
 ## ❓ How to see the characters?

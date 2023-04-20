@@ -2,7 +2,7 @@
     <!-- https://github.com/apix0n -->
     <style>
         .a {
-            fill: #ffffff
+            fill: #ffffff;
         }
     </style>
     <path class="a" d="m121 242c-66.9 0-121-54.1-121-121 0-66.9 54.1-121 121-121 66.9 0 121 54.1 121 121 0 66.9-54.1 121-121 121z" />

@@ -10,7 +10,7 @@
   --text: #24292f;
   --bg: #ffffff;
   --code: #e9e9e9;
-  --ref: #fcc12c;
+  --ref: #ffca28;
   --ref2: #5dadec;
   --ref3: #be1931;
   --fnt-size: 18.5px;
@@ -42,7 +42,6 @@ body {
     --text: #ffffff;
     --bg: #0d1117;
     --code: #24292f;
-    --ref: #ffcc4d;
     --btn-border: #ffffff;
     --addchar-gh-label: #18e022;
     color-scheme: dark;
@@ -92,7 +91,7 @@ code {
   background-color: var(--code);
   border-radius: 6px;
   white-space: nowrap;
-  font-family: Consolas, Menlo, Monaco, "Lucida Console, Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace, serif;
+  font-family: "Ubuntu Mono", Consolas, Menlo, Monaco, "Lucida Console, Liberation Mono", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", monospace, serif;
 }
 
 li {
