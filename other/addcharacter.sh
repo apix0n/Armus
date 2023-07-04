@@ -5,11 +5,12 @@
 
 # Only runs on POSIX-compliant shells [bash, dash, ksh, zsh, csh, ...].
 # Running `dos2unix` on this file may be useful if it doesn't run.
-# The image of the character must already be in the pics/ for the script to work correctly.
 # Can be ran with ./other/addcharacter.sh or ./other/addcharacter.sh [characterName] 0/1 [artistId]
 # ./other/addcharacter.sh abigus 0 or ./other/addcharacter.sh wizardus 1 XNinja
 
 echo "-- Armus Character Code Maker --"
+echo ""
+echo "/!\ The image of the character must already be in the pics/ for the script to work correctly."
 echo ""
 
 # Asks for character name
