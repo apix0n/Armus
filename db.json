@@ -5,7 +5,7 @@
     {
       "id": "Apix",
       "prettyname": "Apix <svg fill=\"currentColor\" class=\"svgicon\" style=\"top: unset !important\" version=\"1.1\" viewBox=\"0 0 512 410\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"128\" cy=\"128\" r=\"128\"/><circle cx=\"305\" cy=\"316\" r=\"94\"/><circle cx=\"460\" cy=\"222\" r=\"52\"/></svg>",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "Chus",
@@ -15,7 +15,7 @@
     {
       "id": "XNinja",
       "prettyname": "XNinja",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "Ilian",
@@ -284,6 +284,18 @@
       "date": "19/06/2022"
     },
     {
+      "name": "blocus",
+      "artist": "XNinja",
+      "image": "../pics/blocus.jpeg",
+      "date": "31/08/2023"
+    },
+    {
+      "name": "boxus",
+      "artist": "Apix",
+      "image": "../pics/boxus.jpeg",
+      "date": "31/08/2023"
+    },
+    {
       "name": "bushus",
       "artist": "Apix",
       "image": "../pics/bushus.jpeg",
@@ -336,6 +348,12 @@
       "artist": "Chus",
       "image": "../pics/chinus.jpeg",
       "date": "19/06/2022"
+    },
+    {
+      "name": "clockus",
+      "artist": "Apix",
+      "image": "../pics/clockus.jpeg",
+      "date": "31/08/2023"
     },
     {
       "name": "cloudus",
@@ -495,6 +513,12 @@
       "date": "04/12/2022"
     },
     {
+      "name": "glitchus",
+      "artist": "XNinja",
+      "image": "../pics/glitchus.jpeg",
+      "date": "31/08/2023"
+    },
+    {
       "name": "goblinus",
       "artist": "Nissou",
       "image": "../pics/goblinus.jpeg",
@@ -647,6 +671,12 @@
       "date": "28/06/2022"
     },
     {
+      "name": "luigius",
+      "artist": "XNinja",
+      "image": "../pics/luigius.jpeg",
+      "date": "31/08/2023"
+    },
+    {
       "name": "lumogus",
       "artist": "Apix",
       "image": "../pics/lumogus.jpeg",
@@ -657,6 +687,12 @@
       "artist": "Lili",
       "image": "../pics/maigrus.jpeg",
       "date": "12/02/2023"
+    },
+    {
+      "name": "maladus",
+      "artist": "XNinja",
+      "image": "../pics/maladus.jpeg",
+      "date": "31/08/2023"
     },
     {
       "name": "marius",
@@ -675,6 +711,12 @@
       "artist": "Aliko",
       "image": "../pics/mbappus.jpeg",
       "date": "26/12/2022"
+    },
+    {
+      "name": "mcdus",
+      "artist": "XNinja",
+      "image": "../pics/mcdus.jpeg",
+      "date": "31/08/2023"
     },
     {
       "name": "michael-jacksus",
@@ -729,6 +771,18 @@
       "artist": "Chus",
       "image": "../pics/naturus.jpeg",
       "date": "19/06/2022"
+    },
+    {
+      "name": "nerdus",
+      "artist": "Apix",
+      "image": "../pics/nerdus.jpeg",
+      "date": "31/08/2023"
+    },
+    {
+      "name": "netflixus",
+      "artist": "XNinja",
+      "image": "../pics/netflixus.jpeg",
+      "date": "31/08/2023"
     },
     {
       "name": "ninjsus",
@@ -871,6 +925,12 @@
       "date": "26/02/2023"
     },
     {
+      "name": "richus",
+      "artist": "XNinja",
+      "image": "../pics/richus.jpeg",
+      "date": "31/08/2023"
+    },
+    {
       "name": "rickus",
       "artist": "XNinja",
       "image": "../pics/rickus.jpeg",
@@ -963,6 +1023,12 @@
       "ghi-addcharacter": 26
     },
     {
+      "name": "switchus",
+      "artist": "Apix",
+      "image": "../pics/switchus.jpeg",
+      "date": "31/08/2023"
+    },
+    {
       "name": "tacus",
       "artist": "GaimeLeZuitres",
       "image": "../pics/tacus.jpeg",
@@ -975,10 +1041,22 @@
       "date": "04/07/2023"
     },
     {
+      "name": "tankus",
+      "artist": "Apix",
+      "image": "../pics/tankus.jpeg",
+      "date": "31/08/2023"
+    },
+    {
       "name": "tchoupius",
       "artist": "Aliko",
       "image": "../pics/tchoupius.jpeg",
       "date": "29/06/2022"
+    },
+    {
+      "name": "tennisus",
+      "artist": "XNinja",
+      "image": "../pics/tennisus.jpeg",
+      "date": "31/08/2023"
     },
     {
       "name": "termius",
@@ -1011,6 +1089,12 @@
       "date": "20/06/2022"
     },
     {
+      "name": "toadus",
+      "artist": "XNinja",
+      "image": "../pics/toadus.jpeg",
+      "date": "31/08/2023"
+    },
+    {
       "name": "toastus",
       "artist": "Apix",
       "image": "../pics/toastus.jpeg",
@@ -1029,6 +1113,12 @@
       "date": "13/08/2023"
     },
     {
+      "name": "t-rexus",
+      "artist": "XNinja",
+      "image": "../pics/t-rexus.jpeg",
+      "date": "31/08/2023"
+    },
+    {
       "name": "trollus",
       "artist": "XNinja",
       "image": "../pics/trollus.jpeg",
@@ -1039,6 +1129,12 @@
       "artist": "Lili",
       "image": "../pics/turkus.jpeg",
       "date": "15/08/2022"
+    },
+    {
+      "name": "univerus",
+      "artist": "XNinja",
+      "image": "../pics/univerus.jpeg",
+      "date": "31/08/2023"
     },
     {
       "name": "uranus",
