@@ -31,7 +31,7 @@ html {
 }
 
 body {
-  font-family: "Montserrat", Arial, Helvetica, sans-serif, system-ui, -apple-system, "Apple Color Emoji", "Noto Color Emoji";
+  font-family: "Montserrat", Arial, Helvetica, sans-serif, "Noto Color Emoji", "Apple Color Emoji";
   font-size: var(--font-size);
   color: var(--text);
   background-color: var(--background);
