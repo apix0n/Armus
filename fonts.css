@@ -1,0 +1,114 @@
+/* All fonts come from Google Fonts */
+
+/** ----------- Montserrat ----------- **/
+
+/* montserrat-regular - latin_latin-ext */
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/montserrat-v25-latin_latin-ext-regular.woff2') format('woff2');
+}
+
+/* montserrat-italic - latin_latin-ext */
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/montserrat-v25-latin_latin-ext-italic.woff2') format('woff2');
+}
+
+/* montserrat-500 - latin_latin-ext */
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  src: url('fonts/montserrat-v25-latin_latin-ext-500.woff2') format('woff2');
+}
+
+/* montserrat-500italic - latin_latin-ext */
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 500;
+  src: url('fonts/montserrat-v25-latin_latin-ext-500italic.woff2') format('woff2');
+}
+
+/* montserrat-600 - latin_latin-ext */
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  src: url('fonts/montserrat-v25-latin_latin-ext-600.woff2') format('woff2');
+}
+
+/* montserrat-600italic - latin_latin-ext */
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 600;
+  src: url('fonts/montserrat-v25-latin_latin-ext-600italic.woff2') format('woff2');
+}
+
+/* montserrat-700 - latin_latin-ext */
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/montserrat-v25-latin_latin-ext-700.woff2') format('woff2');
+}
+
+/* montserrat-700italic - latin_latin-ext */
+@font-face {
+  font-display: swap;
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 700;
+  src: url('fonts/montserrat-v25-latin_latin-ext-700italic.woff2') format('woff2');
+}
+
+/** ----------- Noto Color Emoji ----------- **/
+
+/* noto-color-emoji-regular - emoji */
+@font-face {
+  font-display: swap;
+  font-family: 'Noto Color Emoji';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/noto-color-emoji-v25-emoji-regular.woff2') format('woff2');
+}
+
+/** ----------- Material Icons Round ----------- **/
+
+/* material-icons-round-regular - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Material Icons Round';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/material-icons-round-v108-latin-regular.woff2') format('woff2');
+}
+
+.material-icons-round {
+  font-family: 'Material Icons Round';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  font-feature-settings: "liga";
+  -moz-font-feature-settings: 'liga';
+  -moz-osx-font-smoothing: grayscale;
+}

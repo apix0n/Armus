@@ -1,10 +1,8 @@
 /* Made by Apix | @apix0n */
 /* style.css for https://github.com/apix0n/Armus */
 
-/* Import font, icons and emojis */
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700);
-@import url(https://fonts.googleapis.com/css?family=Noto+Color+Emoji);
-@import url(https://fonts.googleapis.com/icon?family=Material+Icons+Round);
+/* Import fonts */
+@import url(fonts.css);
 
 :root {
   --text: #24292f;
@@ -33,7 +31,7 @@ html {
 }
 
 body {
-  font-family: Montserrat, Arial, Helvetica, sans-serif, "Apple Color Emoji", "Noto Color Emoji";
+  font-family: "Montserrat", Arial, Helvetica, sans-serif, system-ui, -apple-system, "Apple Color Emoji", "Noto Color Emoji";
   font-size: var(--font-size);
   color: var(--text);
   background-color: var(--background);
