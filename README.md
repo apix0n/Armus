@@ -14,7 +14,7 @@
     </a>
 </p>
 
-## 🌹 Armus is a project created with friends to organize all the custom amogi to make an army.
+## 🌹 Armus is a project that I created with a friend in the hope to create an "army" of [amogi](#-definitions).
 
 ## 📕 Definitions
 
@@ -264,32 +264,32 @@ There are currently **5** artist ranks in Armus. They add style and color to the
 
 **Armus has characters that start with the letters:**
 
-- [x] a 
-- [x] b 
-- [x] c 
-- [x] d 
-- [x] e 
-- [x] f 
-- [x] g 
-- [x] h 
-- [x] i 
-- [x] j 
-- [x] k 
-- [x] l 
-- [x] m 
-- [x] n 
-- [x] o 
-- [x] p 
-- [x] q 
-- [x] r 
-- [x] s 
-- [x] t 
-- [x] u 
-- [x] v 
-- [x] w 
-- [x] x 
-- [x] y 
-- [x] z 
+- [x] `A`, first character uploaded on **19/06/2022**
+- [x] `B`, first character uploaded on **19/06/2022**
+- [x] `C`, first character uploaded on **19/06/2022**
+- [x] `D`, first character uploaded on **28/06/2022**
+- [x] `E`, first character uploaded on **21/06/2022**
+- [x] `F`, first character uploaded on **25/06/2022**
+- [x] `G`, first character uploaded on **19/06/2022**
+- [x] `H`, first character uploaded on **29/06/2022**
+- [x] `I`, first character uploaded on **20/06/2022**
+- [x] `J`, first character uploaded on **29/06/2022**
+- [x] `K`, first character uploaded on **28/06/2022**
+- [x] `L`, first character uploaded on **19/06/2022**
+- [x] `M`, first character uploaded on **19/06/2022**
+- [x] `N`, first character uploaded on **19/06/2022**
+- [x] `O`, first character uploaded on **26/12/2022**
+- [x] `P`, first character uploaded on **19/06/2022**
+- [x] `Q`, first character uploaded on **12/11/2022**
+- [x] `R`, first character uploaded on **28/06/2022**
+- [x] `S`, first character uploaded on **19/06/2022**
+- [x] `T`, first character uploaded on **20/06/2022**
+- [x] `U`, first character uploaded on **29/06/2022**
+- [x] `V`, first character uploaded on **19/06/2022**
+- [x] `W`, first character uploaded on **22/06/2022**
+- [x] `X`, first character uploaded on **29/06/2022**
+- [x] `Y`, first character uploaded on **29/06/2022**
+- [x] `Z`, first character uploaded on **12/11/2022**
 
 ## ✨ Useful links
 <p align=center>
