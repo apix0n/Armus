@@ -87,6 +87,7 @@ function addAllCharacters() {
         showCharacters(jsonDB);
         changeNumbers(jsonDB);
         createArtistListFromCharacters(jsonDB)
+        cardTypeButtons()
     };
 
     function findArtistName(artistId, artists) {
@@ -117,7 +118,6 @@ function addAllCharacters() {
         }
         return "Unknown Artist";
     }
-
 
     function findArtistRank(artistId, artists) {
         for (var i = 0; i < artists.length; i++) {
@@ -251,7 +251,6 @@ function addAllCharacters() {
 
             remerciementsElement.appendChild(liElement);
         }
-
         numberOfArtists.innerText = artists.length;
     }
 }
@@ -259,4 +258,22 @@ function addAllCharacters() {
 function closeOverlay() {
     var overlay = document.getElementById("overlay");
     overlay.style.display = "none";
+}
+
+function cardTypeButtons() {
+    const cardTypeGrid = document.getElementById("cardtypegrid");
+    const cardTypeVertical = document.getElementById("cardtypevertical");
+    const cardsContainer = document.getElementById("cardscontainer");
+
+    cardTypeGrid.addEventListener("click", () => {
+        cardTypeGrid.classList.add("cardtypeactive");
+        cardTypeVertical.classList.remove("cardtypeactive");
+        cardsContainer.classList.remove("cardslong");
+    });
+
+    cardTypeVertical.addEventListener("click", () => {
+        cardTypeVertical.classList.add("cardtypeactive");
+        cardTypeGrid.classList.remove("cardtypeactive");
+        cardsContainer.classList.add("cardslong");
+    });
 }

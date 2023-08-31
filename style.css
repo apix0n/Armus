@@ -31,7 +31,7 @@ html {
 }
 
 body {
-  font-family: "Montserrat", Arial, Helvetica, sans-serif, "Noto Color Emoji", "Apple Color Emoji";
+  font-family: "Montserrat", Arial, Helvetica, sans-serif, "Apple Color Emoji", "Noto Color Emoji";
   font-size: var(--font-size);
   color: var(--text);
   background-color: var(--background);
@@ -840,7 +840,32 @@ a.goldlink,
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  margin: auto;
   margin-bottom: 18.5px;
+}
+
+#cardscontainer.cardslong {
+  width: min-content;
+}
+
+#cardscontainer.cardslong * img {
+  width: 300px;
+}
+
+.choosecardtype .material-icons-round {
+  padding: 10px;
+  background: var(--background-2);
+  color: var(--text);
+  margin-right: 2.5px;
+  margin-left: 2.5px;
+  border-radius: 50%;
+  cursor: pointer;
+  user-select: none;
+}
+
+.cardtypeactive {
+  background: var(--accent) !important;
+  color: var(--background) !important;
 }
 
 #overlay {
