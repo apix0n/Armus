@@ -10,6 +10,25 @@ function getQueryVariable(variable) {
     }
 }
 
+// Cookie 
+function setCookie(name, value, days) {
+    const expires = new Date();
+    expires.setTime(expires.getTime() + (days * 24 * 60 * 60 * 1000));
+    document.cookie = `${name}=${value};expires=${expires.toUTCString()};path=/`;
+}
+
+function getCookie(name) {
+    const cookieName = `${name}=`;
+    const cookies = document.cookie.split(';');
+    for (let i = 0; i < cookies.length; i++) {
+        let cookie = cookies[i].trim();
+        if (cookie.startsWith(cookieName)) {
+            return cookie.substring(cookieName.length, cookie.length);
+        }
+    }
+    return null;
+}
+
 // Rickroll functions
 function rick() {
     var border = document.getElementsByClassName("rick")[0];
@@ -269,11 +288,21 @@ function cardTypeButtons() {
         cardTypeGrid.classList.add("cardtypeactive");
         cardTypeVertical.classList.remove("cardtypeactive");
         cardsContainer.classList.remove("cardslong");
+        setCookie("cardType", "grid", 30); // Store the selected card type in a cookie
     });
 
     cardTypeVertical.addEventListener("click", () => {
         cardTypeVertical.classList.add("cardtypeactive");
         cardTypeGrid.classList.remove("cardtypeactive");
         cardsContainer.classList.add("cardslong");
+        setCookie("cardType", "vertical", 30); // Store the selected card type in a cookie
     });
+
+    // Check for a stored preference and apply it when the page loads
+    const storedCardType = getCookie("cardType");
+    if (storedCardType === "grid") {
+        cardTypeGrid.click();
+    } else if (storedCardType === "vertical") {
+        cardTypeVertical.click();
+    }
 }
