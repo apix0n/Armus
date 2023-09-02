@@ -121,6 +121,11 @@
       "id": "EL-MALADO",
       "prettyname": "EL MALADO",
       "rank": 0
+    },
+    {
+      "id": "ceriadil30",
+      "prettyname": "ceriadil30",
+      "rank": 0
     }
   ],
   "characters": [
@@ -447,6 +452,12 @@
       "date": "21/06/2022"
     },
     {
+      "name": "elcostus",
+      "artist": "ceriadil30",
+      "image": "../pics/elcostus.jpeg",
+      "date": "02/09/2023"
+    },
+    {
       "name": "enormongus",
       "artist": "Benjaminouille",
       "image": "../pics/enormongus.jpeg",
@@ -717,6 +728,12 @@
       "artist": "XNinja",
       "image": "../pics/mcdus.jpeg",
       "date": "31/08/2023"
+    },
+    {
+      "name": "messius",
+      "artist": "ceriadil30",
+      "image": "../pics/messius.jpeg",
+      "date": "02/09/2023"
     },
     {
       "name": "michael-jacksus",
